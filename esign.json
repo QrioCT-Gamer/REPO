@@ -1,7 +1,7 @@
 {
   "name": "ShrubLibrary — Merged ESign Repo",
   "identifier": "com.qrioctgamer.shrublibrary.merged",
-  "subtitle": "ShrubLibrary merged repository (44150 apps)",
+  "subtitle": "ShrubLibrary merged repository (44130 apps)",
   "website": "https://shrublibrary.pages.dev/",
   "sourceURL": "https://QrioCT-Gamer.github.io/REPO/esign.json",
   "apps": [
@@ -29093,6 +29093,22 @@
       "size": 40543149
     },
     {
+      "name": "ARMSX2",
+      "bundleIdentifier": "com.armsx2.ios",
+      "developerName": "ARMSX2",
+      "version": "2.6.0-nightly.20261104.1113",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261104/ARMSX2-nightly-20261104-720f409f00-iOS-arm64.ipa",
+      "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming handheld.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/icon.png",
+      "tintColor": "#3CAEFF",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/game.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/list.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/settings.png"
+      ]
+    },
+    {
       "name": "Army Defence!",
       "bundleIdentifier": "com.ipaomtk.army.defence.152523",
       "developerName": "ipaomtk.com",
@@ -40673,6 +40689,23 @@
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.png",
       "tintColor": "000000",
       "size": 185050286
+    },
+    {
+      "name": "BCD",
+      "bundleIdentifier": "com.thebcd69.bcd",
+      "developerName": "thebcd69",
+      "version": "0.1.630",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.630/BCD.ipa",
+      "localizedDescription": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.png",
+      "tintColor": "#F070F0",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/library.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/settings.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/accounts.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/images/controllers.png"
+      ]
     },
     {
       "name": "BCD 0.1.622 run windows games on ios",
@@ -189264,7 +189297,7 @@
       "bundleIdentifier": "com.handtracker.mouse",
       "developerName": "alexandermulholland92",
       "version": "1.1.0",
-      "versionDate": "2026-11-04T00:24:48Z",
+      "versionDate": "2026-11-04T02:19:57Z",
       "downloadURL": "https://github.com/alexandermulholland92/hand-tracker/releases/download/latest-build/HandMouse-1.1.0-ios-unsigned.ipa",
       "localizedDescription": "Hand Tracker:\n\nReal-time tracking of both hands from a webcam (MediaPipe Hands, 21 landmarks per hand), with a live 3D view, gesture and finger-curl readouts, motion capture export in 8 formats, video recording, and a video converter that opens nearly any video format and exports 36 formats. Runs as a Windows or Linux desktop app, an Android app, or in a browser.\n\nRun it:\n\nWindows app: double-click dist/HandTracker-1.1.0-portable.exe. Nothing to install; it works offline.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.handtracker.mouse.png",
@@ -189275,7 +189308,7 @@
       "bundleIdentifier": "com.handtracker.app",
       "developerName": "alexandermulholland92",
       "version": "1.1.0",
-      "versionDate": "2026-11-04T00:24:48Z",
+      "versionDate": "2026-11-04T02:19:57Z",
       "downloadURL": "https://github.com/alexandermulholland92/hand-tracker/releases/download/latest-build/HandTracker-1.1.0-ios-unsigned.ipa",
       "localizedDescription": "Hand Tracker:\n\nReal-time tracking of both hands from a webcam (MediaPipe Hands, 21 landmarks per hand), with a live 3D view, gesture and finger-curl readouts, motion capture export in 8 formats, video recording, and a video converter that opens nearly any video format and exports 36 formats. Runs as a Windows or Linux desktop app, an Android app, or in a browser.\n\nRun it:\n\nWindows app: double-click dist/HandTracker-1.1.0-portable.exe. Nothing to install; it works offline.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.handtracker.app.png",
@@ -203399,9 +203432,9 @@
       "name": "ICO",
       "bundleIdentifier": "com.defnf.icopc",
       "developerName": "nathanialf",
-      "version": "0.10.0",
-      "versionDate": "2026-11-03T15:32:35Z",
-      "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.10.0/ico-pc-v0.10.0-ios-unsigned.ipa",
+      "version": "0.10.1",
+      "versionDate": "2026-11-04T06:28:12Z",
+      "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.10.1/ico-pc-v0.10.1-ios-unsigned.ipa",
       "localizedDescription": "ico-pc:\n\nThis is ICO (Sony Computer Entertainment, 2001) made to run as a normal program on a Windows or Linux PC, the Steam Deck, 64-bit ARM Linux handhelds, Android phones and tablets, iPhones and Apple-silicon Macs. It runs the game's own code, so it plays, sounds and feels like the PlayStation 2 game, from the European, Japanese, Korean, North American or Asian disc, or from the August 2001 preview disc or the June 2001 magazine demo. There are extras, such as a sharper picture, widescreen and smoother motion. The sharper picture, widescreen and the other picture extras stay off until you turn them on, and the frame rate is not held to the PS2's unless you choose Original. The mouse camera starts on.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
       "tintColor": "#6156e2"
@@ -203628,6 +203661,38 @@
       "iconURL": "https://icube-emu.com/icon-1024.png",
       "tintColor": "000000",
       "size": 104516725
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "version": "1.0.0",
+      "versionDate": "2026-11-04T05:53:55.473Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-440/Non-Jailbroken.ipa",
+      "localizedDescription": "Experience classic Nintendo GameCube and Wii games on your iOS devices and Apple TV. Built on the proven Dolphin emulator foundation.\n\nFeatures:\n• Full GameCube and Wii emulation\n• Controller support (MFi, PlayStation, Xbox)\n• Save states and real-time saves\n• High-resolution rendering\n• Fast-forward and slow motion\n• Customizable controls\n• Game library management\n• And much more!\n\niCube is a fork of DolphiniOS, optimized for iOS and tvOS devices.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "screenshotURLs": [
+        "https://icube-emu.com/screenshots/iphone/library-light.jpg",
+        "https://icube-emu.com/screenshots/iphone/search.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation.jpg",
+        "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
+        "https://icube-emu.com/screenshots/iphone/shaders.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-graphics.jpg",
+        "https://icube-emu.com/screenshots/iphone/settings-controllers.jpg",
+        "https://icube-emu.com/screenshots/iphone/emulation-shader.jpg"
+      ]
+    },
+    {
+      "name": "iCube SL",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance-Emu",
+      "version": "1.0.0",
+      "versionDate": "2026-11-04T06:42:31Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-445/Non-Jailbroken.ipa",
+      "localizedDescription": "DolphiniOS:\n\nDolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.\n\nThis is the repository for the new DolphiniOS codebase.\n\nJIT on iOS 26 (Trusted Execution Monitor):\n\niCube runs the JIT recompiler again on iOS 26. TXM will not execute a freshly written code page until a debugger has written to that page, so iCube asks an attached broker to touch every page of its 288 MB code region once at startup. After that the broker can detach and the region stays usable for the life of the process.\n\n• Users: see JIT & Performance for how to turn it on with StikDebug, what to expect without it, and troubleshooting.",
+      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.joemattiello.iCube.png",
+      "tintColor": "#8347f6"
     },
     {
       "name": "ID Photo Full – ID Photo++",
@@ -204953,6 +205018,25 @@
       "iconURL": "https://ifly-emu.com/icon-1024.png",
       "tintColor": "000000",
       "size": 133317147
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "version": "1.0.0+1793769586",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793769586/iFly-1.0.0-1793769586.ipa",
+      "localizedDescription": "Experience classic Sega Dreamcast games on your iOS devices and Apple TV.\n\nFeatures:\n• Full Dreamcast emulation\n• Controller support (MFi, PlayStation, Xbox)\n• Save states and real-time saves\n• High-resolution rendering\n• Fast-forward and slow motion\n• Customizable controls\n• Game library management\n• And much more!\n\nThis is an early build of iFly optimized for iOS and tvOS devices.",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "screenshotURLs": [
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg",
+        "https://ifly-emu.com/screenshots/iphone/import.jpg"
+      ]
     },
     {
       "name": "iFont",
@@ -208785,17 +208869,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "InCollage",
-      "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
-      "developerName": "",
-      "version": "2.2.12",
-      "versionDate": "2025-12-10",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/InCollage_2.2.12_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
-      "size": 142038286
     },
     {
       "name": "InCollage",
@@ -215482,17 +215555,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Instagram",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "",
-      "version": "409.1.0",
-      "versionDate": "2025-12-10",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Instagram_409.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
-      "size": 249033627
     },
     {
       "name": "Instagram",
@@ -232711,6 +232773,25 @@
       "size": 30521004
     },
     {
+      "name": "Kazumi",
+      "bundleIdentifier": "com.example.kazumi",
+      "developerName": "Predidit",
+      "version": "2.4.3",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/Predidit/Kazumi/releases/download/2.4.3/Kazumi_ios_2.4.3_no_sign.ipa",
+      "localizedDescription": "使用 Flutter 开发的基于自定义规则的番剧采集与在线观看程序。使用最多五行基于 Xpath 语法的选择器构建自己的规则，支持规则导入与规则分享，支持基于 Anime4K 的实时超分辨率。\n\n其他特性：番剧目录与搜索、分集播放、番剧弹幕、追番列表、历史记录、倍速播放、多视频源支持、配色方案等。",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/icon.png",
+      "tintColor": "#4CAF50",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/home.jpg",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/timetable.jpg",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/details.jpg",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/selection.jpg",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/rules.jpg",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kazumi/images/rules_edit.jpg"
+      ]
+    },
+    {
       "name": "Keep the Crown",
       "bundleIdentifier": "com.deviloper.capybara.tower.defense.kingdom.td.rpg.strategy",
       "developerName": "ipaomtk.com",
@@ -240588,6 +240669,22 @@
       "size": 4001101
     },
     {
+      "name": "Kumone",
+      "bundleIdentifier": "sb.moe.kumone",
+      "developerName": "missuo",
+      "version": "0.3.28",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/missuo/kumone/releases/download/v0.3.28/Kumone-iOS-0.3.28.ipa",
+      "localizedDescription": "Kumone（雲の音）— native NetEase Cloud Music client for iOS. Talks directly to NetEase's real API with no third-party server: QR-code login, gray-track unblocking, synced lyrics with translation, immersive artwork-tinted now-playing, and playlist management.\n\nSupports English and Simplified Chinese localization.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/icon.png",
+      "tintColor": "#F0D060",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/home.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/search.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Kumone/images/featured.png"
+      ]
+    },
+    {
       "name": "Kung Fu Zombies",
       "bundleIdentifier": "com.tinytitanstudios.kfz",
       "developerName": "ipaomtk.com",
@@ -247057,17 +247154,6 @@
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "",
       "version": "11.0.0",
-      "versionDate": "2025-10-21",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2025/Lightroom_11.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 195296174
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.0.0",
       "versionDate": "2025-10-22",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/Lightroom_11.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Premium",
@@ -247192,17 +247278,6 @@
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "",
       "version": "11.2.1",
-      "versionDate": "2026-02-20",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-02-2026/Lightroom_11.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 177130158
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.2.1",
       "versionDate": "2026-02-21",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-02-2026/Lightroom_11.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Premium",
@@ -247240,17 +247315,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.2.2",
-      "versionDate": "2026-03-16",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-03-2026/Lightroom_11.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 186076442
     },
     {
       "name": "Lightroom",
@@ -247321,17 +247385,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.3.1",
-      "versionDate": "2026-04-20",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/Lightroom_11.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 198002273
     },
     {
       "name": "Lightroom",
@@ -247489,17 +247542,6 @@
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "",
       "version": "11.3.2",
-      "versionDate": "2026-05-11",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2026/Lightroom_11.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 204208270
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.3.2",
       "versionDate": "2026-05-12",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-05-2026/Lightroom_11.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Subscription Unlocked",
@@ -247567,17 +247609,6 @@
       "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "",
       "version": "11.3.3",
-      "versionDate": "2026-05-26",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-05-2026/Lightroom_11.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 202626644
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.3.3",
       "versionDate": "2026-05-27",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Lightroom_11.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Subscription Unlocked",
@@ -247639,17 +247670,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.4.0",
-      "versionDate": "2026-06-15",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2026/Lightroom_11.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 206843281
     },
     {
       "name": "Lightroom",
@@ -247748,17 +247768,6 @@
     {
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.4.20",
-      "versionDate": "2026-07-20",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/Lightroom_11.4.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 209502885
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "AppTesters IPA Repo",
       "version": "11.4.20",
       "versionDate": "2026-07-21",
@@ -247834,17 +247843,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.4.21",
-      "versionDate": "2026-07-22",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Lightroom_11.4.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 209590781
     },
     {
       "name": "Lightroom",
@@ -247988,17 +247986,6 @@
     {
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.5.0",
-      "versionDate": "2026-08-03",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Lightroom_11.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 216726415
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "AppTesters IPA Repo",
       "version": "11.5.0",
       "versionDate": "2026-08-04",
@@ -248105,17 +248092,6 @@
     {
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.5.10",
-      "versionDate": "2026-08-25",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Lightroom_11.5.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 217408967
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "AppTesters IPA Repo",
       "version": "11.5.10",
       "versionDate": "2026-08-26",
@@ -248179,17 +248155,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.5.20",
-      "versionDate": "2026-08-31",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Lightroom_11.5.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 219839742
     },
     {
       "name": "Lightroom",
@@ -248261,17 +248226,6 @@
     {
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.5.21",
-      "versionDate": "2026-09-07",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/Lightroom_11.5.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 219798985
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "AppTesters IPA Repo",
       "version": "11.5.21",
       "versionDate": "2026-09-08",
@@ -248339,17 +248293,6 @@
     {
       "name": "Lightroom",
       "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.5.30",
-      "versionDate": "2026-09-14",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Lightroom_11.5.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 221353801
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
       "developerName": "AppTesters IPA Repo",
       "version": "11.5.30",
       "versionDate": "2026-09-15",
@@ -248397,17 +248340,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "",
-      "version": "11.6",
-      "versionDate": "2026-09-28",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Lightroom_11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
-      "size": 222499153
     },
     {
       "name": "Lightroom",
@@ -265093,9 +265025,9 @@
       "name": "Maestro Mobile",
       "bundleIdentifier": "dev.maestromobile.app",
       "developerName": "netcookies",
-      "version": "0.20.0",
-      "versionDate": "2026-11-03T18:26:01Z",
-      "downloadURL": "https://github.com/netcookies/pi-maestro-app-party/releases/download/v0.20.0/maestro-mobile-unsigned-0.20.0.ipa",
+      "version": "0.20.2",
+      "versionDate": "2026-11-04T05:24:52Z",
+      "downloadURL": "https://github.com/netcookies/pi-maestro-app-party/releases/download/v0.20.2/maestro-mobile-unsigned-0.20.2.ipa",
       "localizedDescription": "About the project:\n\nMaestro Mobile is an iOS / Android companion for Pi. Your sessions run on your computer; the app connects through a local Host service to show progress and control authorized live sessions.\n\n• Stay informed: browse sessions, search history, and inspect real-time usage, active tasks, teammates and execution progress.\n• Keep working: send text or images, steer running turns, queue follow-ups while streaming, adjust thinking levels, switch models with collapsible floating controls, or stop long-running tasks.\n• Track execution: inspect the execution drawer for Goal metrics (progress, tokens, duration), Loop cycles, and step-by-step Todo breakdowns with duration bars and summary notes.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.maestromobile.app.png",
       "tintColor": "#937744",
@@ -266454,9 +266386,9 @@
       "name": "Manatan",
       "bundleIdentifier": "app.mangatan.mangatan",
       "developerName": "KolbyML",
-      "version": "6.3.5",
-      "versionDate": "2026-11-03T18:39:53Z",
-      "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.5/Manatan-v6.3.5-iOS.ipa",
+      "version": "6.3.3",
+      "versionDate": "2026-11-03T02:18:45Z",
+      "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.3/Manatan-v6.3.3-iOS.ipa",
       "localizedDescription": "Watch anime and YouTube. Read manga and novels. Look up words and save useful sentences without leaving the story.\n\nOne app, from immersion to review:\n\n• Watch, read, and listen. Local videos, YouTube, manga, EPUBs, web novels, and podcasts in one app.\n• Understand in context. Look up words with your imported dictionaries, use on-device manga OCR, and work with interactive subtitles.\n• Keep what matters. Save sentences with audio and images where available. Review in Manatan SRS with account sync, or keep using Anki.\n\nYour first lookup:\n\n• Install and open Manatan. A dictionary is installed automatically.\n• Open a video with subtitles, a manga chapter, or an EPUB you want to understand.\n• Look up a word. Save a useful sentence to Manatan SRS or Anki, then keep going.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.mangatan.mangatan.png",
       "tintColor": "#1a71e4",
@@ -291884,6 +291816,39 @@
       "name": "Mori",
       "bundleIdentifier": "com.mori.downloader",
       "developerName": "",
+      "version": "5.2.2-custom.1",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Mori_5.2.2-custom.1/Mori_5.2.2-custom.1_Nothing_%40repo.owo.network.ipa",
+      "localizedDescription": "Injected with Nothing",
+      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png",
+      "size": 1245381
+    },
+    {
+      "name": "Mori",
+      "bundleIdentifier": "com.mori.downloader",
+      "developerName": "",
+      "version": "5.2.1-custom.1",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Mori_5.2.1-custom.1/Mori_5.2.1-custom.1_Nothing_%40repo.owo.network.ipa",
+      "localizedDescription": "Injected with Nothing",
+      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png",
+      "size": 1244515
+    },
+    {
+      "name": "Mori",
+      "bundleIdentifier": "com.mori.downloader",
+      "developerName": "",
+      "version": "5.2.0-custom.1",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Mori_5.2.0-custom.1/Mori_5.2.0-custom.1_Nothing_%40repo.owo.network.ipa",
+      "localizedDescription": "Injected with Nothing",
+      "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.mori.downloader.png",
+      "size": 1241223
+    },
+    {
+      "name": "Mori",
+      "bundleIdentifier": "com.mori.downloader",
+      "developerName": "",
       "version": "5.1.0-custom.1",
       "versionDate": "2026-11-04",
       "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Mori_5.1.0-custom.1/Mori_5.1.0-custom.1_Nothing_%40repo.owo.network.ipa",
@@ -317050,9 +317015,9 @@
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media.nuvio",
       "developerName": "NuvioMedia",
-      "version": "0.6.6",
-      "versionDate": "2026-10-31T02:59:46Z",
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.6-beta/nuvio-0.6.6-full-release.ipa",
+      "version": "0.6.7",
+      "versionDate": "2026-11-04T02:57:36Z",
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.7-beta/nuvio-0.6.7-full-release.ipa",
       "localizedDescription": "Get Nuvio Mobile:\n\n• Android on Google Play.\n• iOS via AltStore or SideStore: add this source URL in the app's Sources section, then install Nuvio.\n\nAndroid:\n\nAndroid development requires Android Studio and the Android SDK.\n\niOS:\n\niOS development requires macOS and Xcode.\n\nThe shared app is built with Kotlin Multiplatform and Compose Multiplatform.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nuvio.media.nuvio.png",
       "tintColor": "#696bd7"
@@ -317061,25 +317026,25 @@
       "name": "Nuvio (Enhanced)",
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "luqmanfadlli & Nuvio Media",
-      "version": "0.6.6",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Nuvio-0.6.6-Enhanced-Release.ipa",
-      "localizedDescription": "Nuvio 0.6.6 Enhanced — Unofficial Nuvio Mobile repository build with experimental features, improvements, and bug fixes not yet available in the official repository.",
+      "version": "0.6.7",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/nuvio-0.6.7-enhanced-release.ipa",
+      "localizedDescription": "Nuvio 0.6.7 Enhanced — Unofficial Nuvio Mobile repository build with experimental features, improvements, and bug fixes not yet available in the official repository.",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Nuvio%20Icons/app-icon-1024_Normal.png",
       "tintColor": "#5548B8",
-      "size": 73635429
+      "size": 73889101
     },
     {
       "name": "Nuvio (Full)",
       "bundleIdentifier": "com.nuvio.media",
       "developerName": "Nuvio Media",
-      "version": "0.6.6",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Nuvio-0.6.6-Full-Release.ipa",
-      "localizedDescription": "Nuvio 0.6.6 — Full Release.",
+      "version": "0.6.7",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/nuvio-0.6.7-full-release.ipa",
+      "localizedDescription": "Nuvio 0.6.7 — Full Release.",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Nuvio%20Icons/app-icon-1024_Normal.png",
       "tintColor": "#5548B8",
-      "size": 68521101
+      "size": 68798444
     },
     {
       "name": "nuvio 0.6.6 Patch",
@@ -317153,17 +317118,6 @@
     {
       "name": "Nuvio Enhanced",
       "bundleIdentifier": "com.nuvio.media",
-      "developerName": "luqmanfadlli",
-      "version": "0.6.6",
-      "versionDate": "2026-10-30T23:18:42Z",
-      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.6-beta/nuvio-0.6.6-enhanced-release.ipa",
-      "localizedDescription": "Unofficial. This fork is not affiliated with or supported by the Nuvio team. Please report bugs you find here to this repository, not upstream — unless you can reproduce them on an official build too.\n\nWhat Enhanced adds:\n\nEverything below is added on top of upstream Nuvio Mobile. Features that upstream has since adopted are dropped from this list.\n\nLive TV:\n\nUpstream Nuvio has no Live TV. This fork adds the whole feature.\n\nPerformance:\n\n• Faster startup (Android) — saved data is loaded in the background while the splash screen is up.\n• Instant home — the last home screen is saved per profile and shown on the next launch while fresh rows load.",
-      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nuvio.media.png",
-      "tintColor": "#696bd7"
-    },
-    {
-      "name": "Nuvio Enhanced",
-      "bundleIdentifier": "com.nuvio.media",
       "developerName": "scholars lounge",
       "version": "0.6.6",
       "versionDate": "2026-11-01",
@@ -317172,6 +317126,17 @@
       "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/82701.png",
       "tintColor": "000000",
       "size": 73635429
+    },
+    {
+      "name": "Nuvio Enhanced",
+      "bundleIdentifier": "com.nuvio.media",
+      "developerName": "luqmanfadlli",
+      "version": "0.6.7",
+      "versionDate": "2026-11-04T12:31:13Z",
+      "downloadURL": "https://github.com/luqmanfadlli/NuvioMobile-Enhanced/releases/download/0.6.7-beta/nuvio-0.6.7-enhanced-release.ipa",
+      "localizedDescription": "Unofficial. This fork is not affiliated with or supported by the Nuvio team. Please report bugs you find here to this repository, not upstream — unless you can reproduce them on an official build too.\n\nWhat Enhanced adds:\n\nEverything below is added on top of upstream Nuvio Mobile. Features that upstream has since adopted are dropped from this list.\n\nLive TV:\n\nUpstream Nuvio has no Live TV. This fork adds the whole feature.\n\nPerformance:\n\n• Faster startup (Android) — saved data is loaded in the background while the splash screen is up.\n• Instant home — the last home screen is saved per profile and shown on the next launch while fresh rows load.",
+      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nuvio.media.png",
+      "tintColor": "#696bd7"
     },
     {
       "name": "NvwaStone",
@@ -317884,9 +317849,9 @@
       "name": "Offdesk Dev",
       "bundleIdentifier": "dev.offdesk.ios",
       "developerName": "zalify",
-      "version": "0.25.11",
-      "versionDate": "2026-11-03T13:42:57Z",
-      "downloadURL": "https://github.com/zalify/offdesk/releases/download/v0.25.11/offdesk-0.25.11.ipa",
+      "version": "0.25.12",
+      "versionDate": "2026-11-04T08:16:58Z",
+      "downloadURL": "https://github.com/zalify/offdesk/releases/download/v0.25.12/offdesk-0.25.12.ipa",
       "localizedDescription": "Offdesk – vibe code from your phone on the terminal you left at home.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.offdesk.ios.png",
       "tintColor": "#95af2a"
@@ -322353,9 +322318,9 @@
       "name": "OpenAgentd",
       "bundleIdentifier": "com.openagentd.mobile",
       "developerName": "lthoangg",
-      "version": "3.43.0",
-      "versionDate": "2026-11-03T12:17:30Z",
-      "downloadURL": "https://github.com/lthoangg/OpenAgentd/releases/download/v3.43.0/OpenAgentd_3.43.0_iOS.ipa",
+      "version": "3.45.0",
+      "versionDate": "2026-11-04T10:53:48Z",
+      "downloadURL": "https://github.com/lthoangg/OpenAgentd/releases/download/v3.45.0/OpenAgentd_3.45.0_iOS.ipa",
       "localizedDescription": "Install · Tour ·.\n\nContribute.\n\nOpenAgentd is a desktop app for running a coding agent on your own machine. You give it a folder and a task. It plans, reads, edits, runs your tests, and shows you every step: each tool call with its arguments and timing, every diff, and what each turn costs. You can steer it mid-turn, review its changes before you commit, and use the models and keys you already have.\n\nA real session, unedited: the agent added rate limiting to a small Bun service, ran the suite, and left the changes uncommitted for review.\n\nWhy OpenAgentd:\n\n• Nothing happens off-screen. Tool calls, reasoning, shell output, file edits, todos, tokens and cost stream into one transcript. Collapse it to just the answers with Reader mode when you only want the result.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.openagentd.mobile.png",
       "tintColor": "#5ba9e4",
@@ -324818,17 +324783,6 @@
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "",
       "version": "5.6.10",
-      "versionDate": "2025-08-07",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Osmosis_5.6.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
-      "size": 22985291
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "",
-      "version": "5.6.10",
       "versionDate": "2025-08-08",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2025/Osmosis_5.6.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Subscription Unlocked",
@@ -324872,17 +324826,6 @@
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "",
       "version": "5.6.11",
-      "versionDate": "2025-09-04",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2025/Osmosis_5.6.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
-      "size": 23016141
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "",
-      "version": "5.6.11",
       "versionDate": "2025-09-05",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2025/Osmosis_5.6.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Subscription Unlocked",
@@ -324920,17 +324863,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "",
-      "version": "5.6.12",
-      "versionDate": "2025-09-22",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2025/Osmosis_5.6.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
-      "size": 23033275
     },
     {
       "name": "Osmosis",
@@ -325202,17 +325134,6 @@
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "",
       "version": "6.0.6",
-      "versionDate": "2026-05-14",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/Osmosis_6.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
-      "size": 27455982
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "",
-      "version": "6.0.6",
       "versionDate": "2026-05-15",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2026/Osmosis_6.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Subscription Unlocked",
@@ -325280,17 +325201,6 @@
       "bundleIdentifier": "com.osmose-it.osmosis",
       "developerName": "",
       "version": "6.0.7",
-      "versionDate": "2026-06-26",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/Osmosis_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
-      "size": 27816708
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "",
-      "version": "6.0.7",
       "versionDate": "2026-06-27",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2026/Osmosis_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Subscription Unlocked",
@@ -325340,17 +325250,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "",
-      "version": "6.0.8",
-      "versionDate": "2026-07-16",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/Osmosis_6.0.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
-      "size": 27831428
     },
     {
       "name": "Osmosis",
@@ -325514,17 +325413,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Osmosis",
-      "bundleIdentifier": "com.osmose-it.osmosis",
-      "developerName": "",
-      "version": "6.0.9",
-      "versionDate": "2026-08-31",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Osmosis_6.0.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
-      "size": 33000666
     },
     {
       "name": "Osmosis",
@@ -326868,8 +326756,8 @@
       "bundleIdentifier": "io.github.possiblypengu.pageturner",
       "developerName": "PossiblyPengu",
       "version": "2.20.0",
-      "versionDate": "2026-11-04T00:16:53Z",
-      "downloadURL": "https://github.com/PossiblyPengu/PageTurner/releases/download/ios-build-41744323017/Pageturner.ipa",
+      "versionDate": "2026-11-04T01:03:12Z",
+      "downloadURL": "https://github.com/PossiblyPengu/PageTurner/releases/download/ios-build-41750141927/Pageturner.ipa",
       "localizedDescription": "Pageturner:\n\nAn e-reader and audiobook player for iOS, linked to BookMaster. Everything runs on the device — books, covers, positions and the library live in the app.\n\nThe iOS app:\n\nA native SwiftUI app (iOS 17+) built on the Readium toolkit. It lives in ios/.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.possiblypengu.pageturner.png",
       "tintColor": "#b87748"
@@ -356807,8 +356695,8 @@
       "bundleIdentifier": "com.nazcarbon.music.ios",
       "developerName": "brimzy",
       "version": "5.1.55",
-      "versionDate": "2026-11-01T10:14:44Z",
-      "downloadURL": "https://github.com/brimzy/pipes/releases/download/ios-v5.1.55-build6/Pipes-iOS.ipa",
+      "versionDate": "2026-11-04T09:34:17Z",
+      "downloadURL": "https://github.com/brimzy/pipes/releases/download/ios-v5.1.55-build7/Pipes-iOS.ipa",
       "localizedDescription": "Build from source ·.\n\nGet started:\n\n• Open the APK and allow installation from your browser or file manager if Android asks.\n• Open Pipes and choose Start tutorial for seven short lessons with silent practice controls. You can choose Later, pause at any lesson, or resume from Settings → Learn Pipes.\n• Search for a song or artist, paste a YouTube or Spotify link into Search, or use the top-bar folder button to play a local file. Tap a song to open the full player.\n\nUpgrading from 4.x: download the first 5.0 APK directly from Releases. The 4.x updater does not recognize 5.x release tags. Install over the existing official app to preserve your library; 5.0 recognizes future 5.x updates.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
       "tintColor": "#6156e2",
@@ -373500,8 +373388,8 @@
       "developerName": "surfrpt1",
       "version": "0.11.0",
       "versionDate": "2026-11-02T18:19:01Z",
-      "downloadURL": "https://github.com/surfrpt1/procraft/releases/download/v0.11.0/ProCraft-ios-v0.11.0.ipa",
-      "localizedDescription": "ProCraft:\n\nBy surfrpt1.\n\nAn open-source, clean-room raster painting studio in pure Rust: layered painting, a soft-round brush engine, and PNG import/export. Inspired by professional painting workflows; every line of code and every asset here is original.\n\nTrademark note: \"Procreate\" is a registered trademark of Savage Interactive. ProCraft is an independent project with its own name, branding and code, and is not affiliated with or endorsed by any other vendor.\n\nGet ProCraft:\n\nAndroid files live in the app's external folder (Android/data/com.surfrpt1.procraft/files, reachable over USB): the in-app Import browser reads it, and saves land there, then appear in Photos after a media scan.\n\nLarge pages, memory and GPUs:\n\nPages are capped at 8192 px per side. Layers are stored in 256 px tiles allocated only where you paint, so an empty page costs nothing.",
+      "downloadURL": "https://github.com/surfrpt1/procraft-old/releases/download/v0.11.0/ProCraft-ios-v0.11.0.ipa",
+      "localizedDescription": "ProCraft (retired):\n\nThis repository is retired. v0.11.0 (2026-11-02) is the final release: no further features, fixes or support will be published here.\n\nThat project has its own maintainers and codebase; this repository is not part of it and is not affiliated with it. The v0.11.0 builds below stay online for anyone still using them.\n\nBy surfrpt1.\n\nAn open-source, clean-room raster painting studio in pure Rust: layered painting, a soft-round brush engine, and PNG import/export. Inspired by professional painting workflows; every line of code and every asset here is original.\n\nTrademark note: \"Procreate\" is a registered trademark of Savage Interactive. ProCraft is an independent project with its own name, branding and code, and is not affiliated with or endorsed by any other vendor.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.surfrpt1.procraft.png",
       "tintColor": "#257d47"
     },
@@ -408099,9 +407987,9 @@
       "name": "Scripta",
       "bundleIdentifier": "io.github.scripta",
       "developerName": "rizzonicola",
-      "version": "1.1.0",
-      "versionDate": "2026-11-02T11:00:07Z",
-      "downloadURL": "https://github.com/rizzonicola/Scripta/releases/download/v1.1.0/Scripta-ios-unsigned.ipa",
+      "version": "1.1.1",
+      "versionDate": "2026-11-04T12:44:11Z",
+      "downloadURL": "https://github.com/rizzonicola/Scripta/releases/download/v1.1.1/Scripta-ios-unsigned.ipa",
       "localizedDescription": "Scripta:\n\nMinimal. Fast. Markdown-First. The modern, distraction-free note-taking experience for all your devices.\n\n⚡ What is Scripta?:\n\nScripta is an open-source, local-first note-taking application designed for thinkers, writers, and developers. Built from the ground up to be lightweight, instant, and privacy-focused, Scripta gives you complete control over your notes with raw Markdown flexibility and a modern, fluid interface.\n\nWhether you're drafting quick thoughts on your phone or organizing complex projects on your desktop, Scripta stays out of your way and lets your ideas flow.\n\n✨ Key Features:\n\n• 📝 Markdown-First Editor: Write in clean, standard Markdown with intelligent toolbar helpers and an instant, fluid rendered reading view.\n• ⚡ Local-First & Zero Latency: Instantaneous startup and sub-millisecond search powered by SQLite WAL. Your notes reside on your device, fully accessible offline.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.scripta.png",
       "tintColor": "#28998e",
@@ -418225,6 +418113,22 @@
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/SILT-150x150.webp",
       "tintColor": "000000",
       "size": 0
+    },
+    {
+      "name": "Silverphase",
+      "bundleIdentifier": "com.silverphase.editor",
+      "developerName": "akinal5765-byte",
+      "version": "1.1.1",
+      "versionDate": "2026-11-02",
+      "downloadURL": "https://github.com/akinal5765-byte/Silverphase/releases/download/v1.1.1/Silverphase-1.1.1-iOS-unsigned.ipa",
+      "localizedDescription": "Take a photograph through camera input, film, development, print and scan. Choose film and paper, then shape the image with exposure, development contrast, filtration and physical frame size, with grain, halation and film edges formed in the same imaging pipeline.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/icon.png",
+      "tintColor": "#FF9F0A",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/canvas.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/panel.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/images/materials.png"
+      ]
     },
     {
       "name": "SimCity",
@@ -438117,17 +438021,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "SnappierIPTV",
-      "bundleIdentifier": "uk.co.snappy-code.snappierIPTV",
-      "developerName": "",
-      "version": "5.1.3",
-      "versionDate": "2025-12-10",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/SnappierIPTV_5.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Pro",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png",
-      "size": 70510887
     },
     {
       "name": "SnappierIPTV",
@@ -470931,15 +470824,12 @@
       "bundleIdentifier": "com.stremio.pal",
       "developerName": "Stremio-2.0.7 x CyPwn",
       "version": "2.0.7",
-      "versionDate": "2026-08-28",
+      "versionDate": "2026-10-29",
       "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.7.ipa",
-      "localizedDescription": "",
+      "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.7.png",
-      "tintColor": "FFC300",
-      "size": 79974891,
-      "screenshotURLs": [
-        "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.7/Stremio-2.0.7-0.png"
-      ]
+      "tintColor": "000000",
+      "size": 79974891
     },
     {
       "name": "Stremio_1.0.1-17",
@@ -492161,17 +492051,6 @@
       "bundleIdentifier": "com.culturedcode.ThingsiPad",
       "developerName": "",
       "version": "3.22.3",
-      "versionDate": "2025-09-24",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Things_3.22.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png",
-      "size": 22575533
-    },
-    {
-      "name": "Things",
-      "bundleIdentifier": "com.culturedcode.ThingsiPad",
-      "developerName": "",
-      "version": "3.22.3",
       "versionDate": "2025-09-25",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2025/Things_3.22.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Premium",
@@ -492269,17 +492148,6 @@
       "bundleIdentifier": "com.culturedcode.ThingsiPad",
       "developerName": "",
       "version": "3.22.8",
-      "versionDate": "2026-03-05",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2026/Things_3.22.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png",
-      "size": 23364634
-    },
-    {
-      "name": "Things",
-      "bundleIdentifier": "com.culturedcode.ThingsiPad",
-      "developerName": "",
-      "version": "3.22.8",
       "versionDate": "2026-03-06",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-03-2026/Things_3.22.8_Premium_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Premium",
@@ -492317,17 +492185,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "Things",
-      "bundleIdentifier": "com.culturedcode.ThingsiPad",
-      "developerName": "",
-      "version": "3.22.9",
-      "versionDate": "2026-03-27",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/Things_3.22.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png",
-      "size": 23352132
     },
     {
       "name": "Things",
@@ -496937,17 +496794,6 @@
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "",
       "version": "42.9.0",
-      "versionDate": "2025-12-10",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/TikTok_42.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
-      "size": 404995804
-    },
-    {
-      "name": "TikTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "version": "42.9.0",
       "versionDate": "2025-12-11",
       "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/11-12-2025/TikTok_42.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
@@ -496958,17 +496804,6 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
-    },
-    {
-      "name": "TikTok",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "",
-      "version": "42.9.0",
-      "versionDate": "2025-12-11",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2025/TikTok_42.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Premium",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
-      "size": 409552484
     },
     {
       "name": "TikTok",
@@ -505096,9 +504931,9 @@
       "name": "Tour Planner",
       "bundleIdentifier": "dev.saeed.tourplanner",
       "developerName": "saeedkolivand",
-      "version": "1.15.0",
-      "versionDate": "2026-11-03T20:16:23Z",
-      "downloadURL": "https://github.com/saeedkolivand/tour-planner/releases/download/v1.15.0/TourPlanner-unsigned.ipa",
+      "version": "1.16.0",
+      "versionDate": "2026-11-04T04:34:13Z",
+      "downloadURL": "https://github.com/saeedkolivand/tour-planner/releases/download/v1.16.0/TourPlanner-unsigned.ipa",
       "localizedDescription": "Tour Planner:\n\nLanding page, with a live demo of the planner.\n\nPhotograph a DPD scanner's stop list; get the fastest delivery order, grouped into park-and-walk stops, with loading numbers and one-tap navigation. The phone app (Expo / React Native, iPhone and Android) and a web app both use one self-hosted backend on a home PC, reached privately over Tailscale.\n\nThe Android build with a sample tour (made-up names on Cologne streets); on iOS the map is Apple Maps.\n\nThe opening animation and the icon, \"Delivered road\": light, dark and tinted on iOS, adaptive and themed on Android.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.saeed.tourplanner.png",
       "tintColor": "#e10b3c",
@@ -517603,10 +517438,10 @@
       "name": "Twitch",
       "bundleIdentifier": "tv.twitch.twitch",
       "developerName": "Knoks1111",
-      "version": "2.0.1",
-      "versionDate": "2026-10-11T18:17:11Z",
-      "downloadURL": "https://github.com/Knoks1111/TwitchPlusK/releases/download/twitchplusk-v2.0.1-twitch-31.5/tpK-2.0.1-Twitch-31.5.ipa",
-      "localizedDescription": "TwitchPlusK is a tweak for the official Twitch iOS app. It keeps the native app and adds a fully customizable chat, 7TV/BTTV/FFZ emotes, adblock, Channel Points Auto Claim, OLED mode and more.\n\nAvailable in ENGLISH and FRENCH from the Settings menu.\n\nChat and emotes:\n\n• Supports favorites, animated emotes, Zero-Width emotes, replies, and threads.\n\nAd blocking:\n\n• Includes two different AdBlock methods:.\n\n• Proxy — uses a default or custom video proxy.\n• Local (VAFT) — uses a local ad-blocking engine without a video proxy.\n\nApp customization:\n\n• Adds OLED Mode, launch screen controls, Stories hiding, Live Feed continuity, Orientation Lock, and more.\n• Includes settings export/import, automatic Channel Points Auto Claim, and more.",
+      "version": "2.0.2",
+      "versionDate": "2026-11-04T09:58:29Z",
+      "downloadURL": "https://github.com/Knoks1111/TwitchPlusK/releases/download/twitchplusk-v2.0.2-twitch-31.9/tpK-2.0.2-Twitch-31.9.ipa",
+      "localizedDescription": "TwitchPlusK is a tweak for the official Twitch iOS app. It keeps the native app and adds a fully customizable chat, 7TV/BTTV/FFZ emotes, adblock, Channel Points Auto Claim, OLED mode and more.\n\nAvailable in ENGLISH and FRENCH from the Settings menu.\n\nChat and emotes:\n\n• Reply to messages, view threads, and customize deleted-message display.\n• Use 7TV, BTTV, and FFZ emotes, including animated and Zero-Width emotes.\n• Search emotes, manage favorites, and import favorites from PC.\n• Choose picker providers, animations, and the opening tab.\n\nAd blocking:\n\n• Proxy — block stream ads through a default or custom proxy.\n• Local (VAFT) — block stream ads without a video proxy.\n• Proxy + Local (VAFT) — combine a stream relay with local ad blocking.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.twitch.twitch.png",
       "tintColor": "#8e44f8",
       "screenshotURLs": [
@@ -519955,25 +519790,25 @@
       "name": "Twitter NFB",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "orionblur & IPA Vault",
-      "version": "12.40",
-      "versionDate": "2026-11-03",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Twitter%2012.40%20NFB%207.3.1%20%5B%40ipavault%5D.ipa",
-      "localizedDescription": "Twitter 12.40 with NFB 7.3.1",
+      "version": "12.40.1",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Twitter%2012.40.1%20NFB%207.3.1%20%5B%40ipavault%5D.ipa",
+      "localizedDescription": "Twitter 12.40.1 with NFB 7.3.1",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Twitter-12.14-Icons/Twitter-AppStore-1024x1024.png",
       "tintColor": "#1DA1F2",
-      "size": 270815817
+      "size": 270899362
     },
     {
       "name": "Twitter NFB + TWI",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "orionblur & dens0r & IPA Vault",
-      "version": "12.40",
-      "versionDate": "2026-11-03",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Twitter%2012.40%20NFB%2BTWI%207.3.1%20%5B%40ipavault%5D.ipa",
-      "localizedDescription": "Twitter 12.40 with NFB 7.3.1 + TWIGalaxy 1.14",
+      "version": "12.40.1",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Twitter%2012.40.1%20NFB%2BTWI%207.3.1%20%5B%40ipavault%5D.ipa",
+      "localizedDescription": "Twitter 12.40.1 with NFB 7.3.1 + TWIGalaxy 1.14",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Twitter-12.14-Icons/Twitter-AppStore-1024x1024.png",
       "tintColor": "#1DA1F2",
-      "size": 271391859
+      "size": 271475404
     },
     {
       "name": "Twitter No Ads",
@@ -530448,17 +530283,6 @@
       "bundleIdentifier": "me.imgbase.videoday",
       "developerName": "",
       "version": "3.6.0",
-      "versionDate": "2025-12-11",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2025/VDIT_3.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.videoday.png",
-      "size": 229648539
-    },
-    {
-      "name": "VDIT",
-      "bundleIdentifier": "me.imgbase.videoday",
-      "developerName": "",
-      "version": "3.6.0",
       "versionDate": "2025-12-12",
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-12-2025/VDIT_3.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "localizedDescription": "Injected with Subscription Unlocked",
@@ -533392,13 +533216,13 @@
       "name": "Vesper",
       "bundleIdentifier": "app.vesper",
       "developerName": "IPA Vault",
-      "version": "0.51",
-      "versionDate": "2026-11-03",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Vesper%200.51.ipa",
-      "localizedDescription": "Vesper 0.51",
+      "version": "0.5.2",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/Vesper%200.5.2.ipa",
+      "localizedDescription": "Vesper 0.5.2",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Vesper%20Icons/VesperIcon1024x1024_Normal.png",
       "tintColor": "#4C5470",
-      "size": 15650872
+      "size": 15722959
     },
     {
       "name": "VesselFinderPro",
@@ -549856,17 +549680,6 @@
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Water-Sort-Puzzle-150x150.webp",
       "tintColor": "000000",
       "size": 0
-    },
-    {
-      "name": "WaterAir",
-      "bundleIdentifier": "co.airapps.waterreminder",
-      "developerName": "",
-      "version": "2026.11.1",
-      "versionDate": "2026-11-04",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/WaterAir_2026.11.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "localizedDescription": "Injected with Subscription Unlocked",
-      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.waterreminder.png",
-      "size": 63602080
     },
     {
       "name": "Watermark - Add Text on Photo",
@@ -569048,25 +568861,25 @@
       "name": "X NFB",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "orionblur & IPA Vault",
-      "version": "12.40",
-      "versionDate": "2026-11-03",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/X%2012.40%20NFB%207.3.1%20%5B%40ipavault%5D.ipa",
-      "localizedDescription": "X 12.40 with NFB 7.3.1",
+      "version": "12.40.1",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/X%2012.40.1%20NFB%207.3.1%20%5B%40ipavault%5D.ipa",
+      "localizedDescription": "X 12.40.1 with NFB 7.3.1",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/X-Icons/X-AppStore-1024x1024.png",
       "tintColor": "#000000",
-      "size": 273682004
+      "size": 273765537
     },
     {
       "name": "X NFB + TWI",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "orionblur & dens0r & IPA Vault",
-      "version": "12.40",
-      "versionDate": "2026-11-03",
-      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/X%2012.40%20NFB%2BTWI%207.3.1%20%5B%40ipavault%5D.ipa",
-      "localizedDescription": "X 12.40 with NFB 7.3.1 + TWIGalaxy 1.14",
+      "version": "12.40.1",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/X%2012.40.1%20NFB%2BTWI%207.3.1%20%5B%40ipavault%5D.ipa",
+      "localizedDescription": "X 12.40.1 with NFB 7.3.1 + TWIGalaxy 1.14",
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/X-Icons/X-AppStore-1024x1024.png",
       "tintColor": "#000000",
-      "size": 274258046
+      "size": 274341579
     },
     {
       "name": "X++",
@@ -569317,10 +569130,22 @@
       "version": "12.40",
       "versionDate": "2026-11-03",
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.+.NFB.v7.3.1.ipa",
+      "localizedDescription": "@ipavault | Builds of X/Twitter 12.40  ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded NFB+\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "000000",
+      "size": 270815817
+    },
+    {
+      "name": "X++",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Densor",
+      "version": "12.40.1",
+      "versionDate": "2026-11-04",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.1.+.NFB.v7.3.1.ipa",
       "localizedDescription": "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.\n\n• And more!",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "030303",
-      "size": 270815817,
+      "size": 270899362,
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/82/3c/21823c75-d122-f771-fba1-2521b3f3237e/1242x2688-1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/a8/8e/65a88e08-0c52-8675-0b0e-c7ef2dad4325/1242x2688-2.jpg/320x480bb.jpg",
@@ -584926,9 +584751,9 @@
   ],
   "_build": {
     "sourceCount": 108,
-    "successfulSources": 106,
-    "failedSources": 2,
-    "appCount": 44150,
+    "successfulSources": 103,
+    "failedSources": 5,
+    "appCount": 44130,
     "failed": [
       {
         "url": "https://appstore.sidelix.vip/repos/altstore.php",
@@ -584937,6 +584762,18 @@
       {
         "url": "https://repo.ucerts.io",
         "error": "HTTP Error 503: Service Unavailable"
+      },
+      {
+        "url": "https://repository.apptesters.org",
+        "error": "The read operation timed out"
+      },
+      {
+        "url": "https://iosvizor-source.shrubhub.workers.dev/iosvizor.json",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://ipaomtk-source.shrubhub.workers.dev/ipaomtk.json",
+        "error": "HTTP Error 429: Too Many Requests"
       }
     ]
   }
