@@ -1,7 +1,7 @@
 {
   "name": "ShrubLibrary — Merged ESign Repo",
   "identifier": "com.qrioctgamer.shrublibrary.merged",
-  "subtitle": "ShrubLibrary merged repository (46369 apps)",
+  "subtitle": "ShrubLibrary merged repository (46379 apps)",
   "website": "https://shrublibrary.pages.dev/",
   "sourceURL": "https://QrioCT-Gamer.github.io/REPO/esign.json",
   "apps": [
@@ -96,7 +96,7 @@
       "versionDate": "2026-07-17",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1kNsPMt5-FzNnlYL6DwUHUGlu_wyrkuJO&export=download&confirm=t",
       "localizedDescription": "12.3 Neofreebird X themed BHTwitter 6.0.3 theacrat build with working replies and posting natively from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/12.3_Neofreebird_X_themed_BHTwitter_6.0.3_theacrat_build_with_working_replies_and_posting_natively_1784255525711256561.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/12.3_Neofreebird_X_themed_BHTwitter_6.0.3_theacrat_build_with_working_replies_and_posting_natively_1784255525711256561.webp?v=1794652566.0"
     },
     {
       "name": "12min",
@@ -20722,7 +20722,7 @@
       "versionDate": "2025-11-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1MkYgihT-R2HiRIsvMzExF3hihId2PWrH&export=download&confirm=t",
       "localizedDescription": "Aloha 7.12 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Aloha_1758404093.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Aloha_1758404093.webp?v=1794652566.0"
     },
     {
       "name": "Aloha Browser",
@@ -27281,7 +27281,7 @@
       "versionDate": "2025-12-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1rk19jkdbwTR8dsKDd7b00zhDX5J4o21p&export=download&confirm=t",
       "localizedDescription": "Apollo 1.15.11 Custom API 1.3.0 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Apollo_1.5.11_Custom_API_1.3.0_1767045804.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Apollo_1.5.11_Custom_API_1.3.0_1767045804.webp?v=1794652566.0"
     },
     {
       "name": "Apollo 1.15.11 Custom API 1.3.0 Glass",
@@ -27291,7 +27291,7 @@
       "versionDate": "2025-12-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1UiPMVa1z8gB29P7S90joqJYUQ7k33kIh&export=download&confirm=t",
       "localizedDescription": "Apollo 1.15.11 Custom API 1.3.0 Glass from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Apollo_1.5.11_Custom_API_1.3.0_Glass_1767045833.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Apollo_1.5.11_Custom_API_1.3.0_Glass_1767045833.webp?v=1794652566.0"
     },
     {
       "name": "Apollo for Reddit",
@@ -27870,7 +27870,7 @@
       "versionDate": "2025-10-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1q2gyUPwTGu5KPT3VRMqXiMAdXtEE5o_s&export=download&confirm=t",
       "localizedDescription": "CieCake7.2.2 - Remove \"Certificate Error\" Popup & Fix Crashes - Download Paid Apps/Games/Apple Arcade - Turn on jailbrea...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/app_app_2_1756144173.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/app_app_2_1756144173.webp?v=1794652566.0"
     },
     {
       "name": "AppCake+",
@@ -28185,7 +28185,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14Sprsqzt-YZ3qI1yJwRtR8nnMDuT5CIB&export=download&confirm=t",
       "localizedDescription": "Appgroupcheck from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/app_app_3_1756145368.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/app_app_3_1756145368.webp?v=1794652566.0"
     },
     {
       "name": "AppIndex",
@@ -32240,6 +32240,17 @@
       "size": 44902735
     },
     {
+      "name": "Athlytic",
+      "bundleIdentifier": "myndarc.newFitnessApp",
+      "developerName": "",
+      "version": "27.0.11",
+      "versionDate": "2026-11-15",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Athlytic_27.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
+      "size": 45231397
+    },
+    {
       "name": "atolla",
       "bundleIdentifier": "com.tx3stn.atolla",
       "developerName": "tx3stn",
@@ -32750,7 +32761,7 @@
       "versionDate": "2025-09-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1hhfZbEt0fUc2JyhtHCtqTAit5X_yrCM8&export=download&confirm=t",
       "localizedDescription": "AudioEditor 5.69 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/AudioEditor_5.69_Pro__1758833170.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/AudioEditor_5.69_Pro__1758833170.webp?v=1794652566.0"
     },
     {
       "name": "AudioLab - Audio Editor",
@@ -41764,6 +41775,17 @@
     },
     {
       "name": "Bazaart",
+      "bundleIdentifier": "co.bazaart.app",
+      "developerName": "",
+      "version": "27.0.8",
+      "versionDate": "2026-11-15",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Bazaart_27.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+      "size": 118423383
+    },
+    {
+      "name": "Bazaart",
       "bundleIdentifier": "com.unknown.bazaart",
       "developerName": "Karbin-Store",
       "version": "10.4.9",
@@ -42215,7 +42237,7 @@
       "versionDate": "2026-11-04",
       "downloadURL": "https://drive.proton.me/urls/VF9PCJ9588#lEd0A2q8o2hS",
       "localizedDescription": "BCD 0.1.630 run windows games on ios from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/BCD_0.1.622_run_windows_games_on_ios_1793213515378667301.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/BCD_0.1.622_run_windows_games_on_ios_1793213515378667301.webp?v=1794652566.0"
     },
     {
       "name": "Be Focused Pro – Focus Timer",
@@ -48179,7 +48201,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Tu-bs4AW8KBCAkjowlr8GhTFIi9fSHGm&export=download&confirm=t",
       "localizedDescription": "Bend Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Bend_1758661639.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Bend_1758661639.webp?v=1794652566.0"
     },
     {
       "name": "Bendy",
@@ -53580,7 +53602,7 @@
       "versionDate": "2026-02-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1w4k4U2rhH408wHDPVHUhkrWGTGjWFpRT&export=download&confirm=t",
       "localizedDescription": "Bitchat latest from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Bitchat_latest_1772057135.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Bitchat_latest_1772057135.webp?v=1794652566.0"
     },
     {
       "name": "bitchat_1.2.1",
@@ -63482,9 +63504,9 @@
       "name": "BrewLog",
       "bundleIdentifier": "com.brewlog.app",
       "developerName": "proelio57",
-      "version": "2.3.0",
-      "versionDate": "2026-11-14T20:40:29Z",
-      "downloadURL": "https://github.com/proelio57/BrewLog/releases/download/v2.3.0/BrewLog.ipa",
+      "version": "2.3.1",
+      "versionDate": "2026-11-15T10:54:11Z",
+      "downloadURL": "https://github.com/proelio57/BrewLog/releases/download/v2.3.1/BrewLog.ipa",
       "localizedDescription": "Features:\n\n• Setup assistant on first launch: one simple question per screen with big tappable tiles: brewer (pour-over or espresso machine like Cafelat Robot, Flair 58, Decent DE1, La Marzocco, Gaggia) → connect the espresso machine (GaggiMate, Decent DE1 or La Marzocco; only if you picked one) → filter papers (the ones that fit your brewer come first; skipped for espresso only) → grinder + your usual setting → beans → scale. The Gear tab lists espresso machines apart from pour-over brewers. Every step can be skipped. \"Skip, just use the scale\" goes straight to Quick weigh. Run it again any time from Gear → Setup assistant. If you skipped it, the Brew tab shows a small reminder card.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.brewlog.app.png",
       "tintColor": "#b96e3e",
@@ -64008,7 +64030,7 @@
       "bundleIdentifier": "com.brownbear.app",
       "developerName": "DudeAint",
       "version": "0.1.0",
-      "versionDate": "2026-11-14T13:59:44Z",
+      "versionDate": "2026-11-15T14:33:07Z",
       "downloadURL": "https://github.com/DudeAint/brownbear/releases/download/nightly/BrownBear-nightly.ipa",
       "localizedDescription": "The first iOS browser to bring ScriptCat-class power to userscripts — background execution, @crontab scheduling, and a sandboxed GM API — and run real Chrome Web Store extensions, all wrapped in a Chromium-inspired interface.\n\niOS has never had a true power userscript runtime. Safari extensions like Userscripts and Stay brought Greasemonkey-style injection to mobile, and Gear Browser proved a dedicated userscript browser can ship on the App Store. But none of them deliver the one thing ScriptCat gives desktop users:\n\nScripts that keep working in the background — on a schedule — without a tab open.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.brownbear.app.png",
@@ -69458,8 +69480,8 @@
       "bundleIdentifier": "com.chrissotraidis.caesarpad",
       "developerName": "chrissotraidis",
       "version": "0.1.0",
-      "versionDate": "2026-08-18T16:04:07Z",
-      "downloadURL": "https://github.com/chrissotraidis/caesarpad/releases/download/v0.1.0-preview.1/CaesarPad-0.1.0-preview.1-unsigned.ipa",
+      "versionDate": "2026-11-15T10:48:12Z",
+      "downloadURL": "https://github.com/chrissotraidis/caesarpad/releases/download/v0.1.0-preview.2/CaesarPad-0.1.0-preview.2-unsigned.ipa",
       "localizedDescription": "CaesarPad packages the open-source Augustus engine as a landscape iPadOS app. It adds direct touch and Apple Pencil input, readable interface scaling, visible cursor feedback, map gestures, lifecycle recovery, and repeatable build and Simulator automation.\n\nThis repository contains the mobile integration and build scripts. It does not contain Caesar III or any of its game data; you supply your own legally purchased files locally.\n\nas an unsigned, re-signable IPA from source 07a8d38. This source-maintenance branch does not publish a new binary. No TestFlight, App Store listing, or AltStore source is announced.\n\nWhat works · Controls · Screenshots · Install IPA · Run it · How it works · Project status.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.caesarpad.png",
       "tintColor": "#ad542f",
@@ -75138,7 +75160,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1X_gb5uo7E-I188eppez0K7uOa072-Tvp&export=download&confirm=t",
       "localizedDescription": "Calory Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Calory_1758662948.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Calory_1758662948.webp?v=1794652566.0"
     },
     {
       "name": "Calzy",
@@ -81627,7 +81649,7 @@
       "versionDate": "2026-02-26",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1q0IzzHAmNY5hNZe6yyesfWnvBnDTspq-&export=download&confirm=t",
       "localizedDescription": "Captions 13.7.0 Pro Moe Patched from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Captions_12.33.2_Pro_Moe_Patched_1757022116.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Captions_12.33.2_Pro_Moe_Patched_1757022116.webp?v=1794652566.0"
     },
     {
       "name": "Captions Max – Captions++",
@@ -83606,7 +83628,7 @@
       "versionDate": "2026-03-26",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Ik0i3j-apPlTITfnMMyA0CmEfjbKOqrE&export=download&confirm=t",
       "localizedDescription": "requires the use of a custom entitlement file from your cert. so get your mobile provision, name it \"entitlements.text\" ...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Carrot_6.3.1_Pro_Moe_1758405429.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Carrot_6.3.1_Pro_Moe_1758405429.webp?v=1794652566.0"
     },
     {
       "name": "CARROT Weather",
@@ -87003,7 +87025,7 @@
       "versionDate": "2025-10-08",
       "downloadURL": "https://drive.usercontent.google.com/download?id=11zDjIfwcbrqUfVp_YqvUmPhb2EV8U28m&export=download&confirm=t",
       "localizedDescription": "login to activate subscription",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/ChatOn_AI_-_Chat_Bot_Assistant_1759872875.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/ChatOn_AI_-_Chat_Bot_Assistant_1759872875.webp?v=1794652566.0"
     },
     {
       "name": "ChatSmith",
@@ -87603,7 +87625,7 @@
       "versionDate": "2026-05-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1NkeSYkHbv6BA5d-H-DuGn39Cdr26lNUn&export=download&confirm=t",
       "localizedDescription": "Cider Remote 3.1.1 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Cider_Remote_3.1.1_1779735003584273573.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Cider_Remote_3.1.1_1779735003584273573.webp?v=1794652566.0"
     },
     {
       "name": "Cinder27",
@@ -88907,7 +88929,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=189x_GHfyi38JkNBp1C_RMTi4Mf3KHcd8&export=download&confirm=t",
       "localizedDescription": "Clarity Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Clarity_1758661543.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Clarity_1758661543.webp?v=1794652566.0"
     },
     {
       "name": "Clarity Wallpaper Pro – Clarity Wallpaper++",
@@ -96069,7 +96091,7 @@
       "versionDate": "2025-09-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1UXo6fi3q0B8IVYvmrmH8HhyrYqmBib2R&export=download&confirm=t",
       "localizedDescription": "Coconote 2.15 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Coconote_2.15_Pro_Moe_1758833504.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Coconote_2.15_Pro_Moe_1758833504.webp?v=1794652566.0"
     },
     {
       "name": "COD4iOS",
@@ -96529,7 +96551,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=18LY21IPkM9qpU1s4_vJVSn0Kvs__DK9L&export=download&confirm=t",
       "localizedDescription": "CodeSnack IDE from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/CodeSnack_IDE_1758660570.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/CodeSnack_IDE_1758660570.webp?v=1794652566.0"
     },
     {
       "name": "CodesnackIde",
@@ -103527,8 +103549,8 @@
       "bundleIdentifier": "media.conduit.mobile",
       "developerName": "davidvanderklay",
       "version": "0.1.6",
-      "versionDate": "2026-11-14T22:07:30Z",
-      "downloadURL": "https://github.com/davidvanderklay/conduit/releases/download/ios/v0.1.6-nightly.20261114.49/conduit-0.1.6-nightly.20261114.49-ios-unsigned.ipa",
+      "versionDate": "2026-11-15T14:46:47Z",
+      "downloadURL": "https://github.com/davidvanderklay/conduit/releases/download/ios/v0.1.6-nightly.20261115.50/conduit-0.1.6-nightly.20261115.50-ios-unsigned.ipa",
       "localizedDescription": "Conduit:\n\nA self-hosted film and television app built around Stremio-compatible add-ons. Share household profiles, libraries, and watch progress across your devices. Clients fetch catalogs and media directly from add-ons and sources.\n\nContribute · Ask a question.\n\nPlatform status:\n\nPre-release software. Keep profile exports and database backups.\n\nHelp build Conduit:\n\nCode, documentation, reproducible bug reports, and device testing are welcome.\n\nand comment before starting.\n\n• Read the contribution guide and development setup.\n• Use Discussions for questions, ideas, and device test results.\n\nWhat Conduit does:\n\n• Shared household profiles with independent libraries and watch history.\n• Stremio-compatible catalogs, metadata, streams, and subtitles.\n• Web and Electron desktop clients backed by one shared interface.\n• Android and iOS clients with shared Compose UI and native playback.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/media.conduit.mobile.png",
       "tintColor": "#d69f11",
@@ -108424,8 +108446,8 @@
       "bundleIdentifier": "com.chrissotraidis.daggerpad",
       "developerName": "chrissotraidis",
       "version": "0.1.0",
-      "versionDate": "2026-08-18T16:04:10Z",
-      "downloadURL": "https://github.com/chrissotraidis/daggerpad/releases/download/v0.1.0-preview.1/DaggerPad-0.1.0-preview.1-unsigned.ipa",
+      "versionDate": "2026-11-15T10:48:19Z",
+      "downloadURL": "https://github.com/chrissotraidis/daggerpad/releases/download/v0.1.0-preview.2/DaggerPad-0.1.0-preview.2-unsigned.ipa",
       "localizedDescription": "DaggerPad:\n\nVersion 10 running on a 12.9-inch iPad Pro: native landscape gameplay, contextual controls, and the original Daggerfall world.\n\nDaggerPad brings Daggerfall Unity as a native iPadOS app. It renders through Metal, imports your classic Daggerfall files through Files, and adds a landscape touch interface designed for movement, looking, combat, conversations, inventory, and the original game's dense UI.\n\nThe mobile baseline comes from Vwing's Daggerfall Unity Android fork, with iPadOS integration, native pointer input, Files import, lifecycle handling, and DaggerPad's touch layouts maintained in this repository. It does not contain Daggerfall, Bethesda game data, or a prepared playable archive.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.daggerpad.png",
       "tintColor": "#6273ba",
@@ -116290,8 +116312,8 @@
       "bundleIdentifier": "com.chrissotraidis.deviltouch",
       "developerName": "chrissotraidis",
       "version": "1.5.5",
-      "versionDate": "2026-09-29T09:21:52Z",
-      "downloadURL": "https://github.com/chrissotraidis/deviltouch/releases/download/v1.5.5-preview.1/DevilTouch-1.5.5-build2.ipa",
+      "versionDate": "2026-11-15T10:48:27Z",
+      "downloadURL": "https://github.com/chrissotraidis/deviltouch/releases/download/v1.5.5-preview.2/DevilTouch-1.5.5-build3.ipa",
       "localizedDescription": "AI disclosure: DevilTouch uses substantial AI assistance for code, tests, documentation, debugging and maintenance. Some support replies and maintenance tasks are automated. There is no audited percentage of AI-generated code. Build, test and device records describe what was checked. This disclosure concerns DevilTouch's workflow, not the authorship of its upstream projects.\n\nThe original descent. A native iPad experience.:\n\nDevilTouch is a focused iPad integration for DevilutionX, the modern source port of the original Diablo engine. It is not an emulator, a streamed desktop session, or a repackaged copy of the game.\n\nWhat you need:\n\n• A Mac with a current Xcode installation.\n• CMake 3.21 or newer and Git.\n• An Apple ID configured for development signing in Xcode.\n• A paired iPad with Developer Mode enabled.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.deviltouch.png",
       "tintColor": "#a45f2c",
@@ -118524,9 +118546,9 @@
       "name": "Dieter",
       "bundleIdentifier": "com.getdieter.ios",
       "developerName": "dbpprt",
-      "version": "0.6.446",
-      "versionDate": "2026-11-14T19:09:57Z",
-      "downloadURL": "https://github.com/dbpprt/dieter/releases/download/v0.6.446/Dieter-iOS.ipa",
+      "version": "0.7.447",
+      "versionDate": "2026-11-15T15:07:11Z",
+      "downloadURL": "https://github.com/dbpprt/dieter/releases/download/v0.7.447/Dieter-iOS.ipa",
       "localizedDescription": "Dieter is a workspace for coding agents (Codex, Claude Code, Pi, Oh My Pi and DeepSeek Harness) that run on your own machines. A small daemon starts each agent beside your Git checkout, with your tools and your provider accounts, and keeps it running when you close the app or put your laptop to sleep. Native apps bring every machine's boards, conversations, files, terminals and screens into one place, so you can start a task on your Mac, let a Linux workstation do it, and review the result from your phone.\n\n• Many machines, one project. Check out the same project on several hosts; each conversation runs on the machine you choose.\n• Review in place. Files, Git changes, terminals, background processes and an authenticated remote screen, next to the conversation.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.getdieter.ios.png",
       "tintColor": "#3f748a",
@@ -118933,7 +118955,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=13c21Qo6Ho3thoX5nmbPHYfzSovYaYVtQ&export=download&confirm=t",
       "localizedDescription": "Discord 353.0 Raincord 10.0 Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Discord_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Discord_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Discord_228.1_Pyoncord",
@@ -123595,6 +123617,22 @@
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/icon.png",
       "tintColor": "000000",
       "size": 28095758
+    },
+    {
+      "name": "Doer",
+      "bundleIdentifier": "com.naine.doer",
+      "developerName": "moliango",
+      "version": "1.8.7",
+      "versionDate": "2026-11-15T13:11:40Z",
+      "downloadURL": "https://github.com/moliango/doer/releases/download/v1.8.7/doer-unsigned.ipa",
+      "localizedDescription": "A native iOS client for Linux.do — UIKit + Swift, no SwiftUI in the main app.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/icon.png",
+      "tintColor": "#4080E0",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/home.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/detail.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/me.png"
+      ]
     },
     {
       "name": "Dofu Player",
@@ -141468,7 +141506,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1eWOWPIoli8UgulOuWxdc56MUc6o_lwGB&export=download&confirm=t",
       "localizedDescription": "Elevate Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Elevate_1758661797.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Elevate_1758661797.webp?v=1794652566.0"
     },
     {
       "name": "Elgato Stream Deck Mobile",
@@ -141517,8 +141555,8 @@
       "bundleIdentifier": "com.chrissotraidis.emeraldtablet",
       "developerName": "chrissotraidis",
       "version": "0.1.0",
-      "versionDate": "2026-08-24T19:21:07Z",
-      "downloadURL": "https://github.com/chrissotraidis/emeraldtablet/releases/download/v0.1.0-preview.1/EmeraldTablet-0.1.0-preview.1-unsigned.ipa",
+      "versionDate": "2026-11-15T10:48:32Z",
+      "downloadURL": "https://github.com/chrissotraidis/emeraldtablet/releases/download/v0.1.0-preview.2/EmeraldTablet-0.1.0-preview.2-unsigned.ipa",
       "localizedDescription": "Emerald Tablet:\n\nEmerald Tablet brings the original 1999 Pharaoh + Cleopatra to Apple devices through the open-source Akhenaten engine. Its primary experience is landscape iPadOS, with touch navigation, Apple Pencil construction, crisp scaling, native game-speed controls, and a small persistent controls menu. The same source also builds for iPhone and Apple Silicon Mac.\n\nThis repository contains the Apple integration, ordered Akhenaten patch queue, tests, and reproducible build scripts. It does not contain Pharaoh, Cleopatra, saved games, or any other original game data. You must supply your own legally obtained compatible files.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.emeraldtablet.png",
       "tintColor": "#247d37",
@@ -147206,7 +147244,7 @@
       "versionDate": "2025-09-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1K24CMwkoMBNyIHNqFjPRaA3Md_pISGWX&export=download&confirm=t",
       "localizedDescription": "Epik 6.3.10 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/EPIK_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/EPIK_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "EPIK Pro – EPIK++",
@@ -147427,7 +147465,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1VI6A9I1pCAT5tk7MGlEP9iF8JzAY6XgN&export=download&confirm=t",
       "localizedDescription": "eSign from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/eSign_1756494924.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/eSign_1756494924.webp?v=1794652566.0"
     },
     {
       "name": "ESign",
@@ -151365,7 +151403,7 @@
       "versionDate": "2026-01-22",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1s_IHbcs4KfIDLn1S4I5U7AoFg8svDXL_&export=download&confirm=t",
       "localizedDescription": "Facebook 545 Glow 1.3.1 is an iOS release entry for Facebook on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Facebook_539_Glow_1.3.1_1762922824.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Facebook_539_Glow_1.3.1_1762922824.webp?v=1794652566.0"
     },
     {
       "name": "Facebook 587.0.0 Moe iQ 1.2 and Nexus",
@@ -151375,7 +151413,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1S9OnLNrXrbdxvlyzGfSB8ikzDgS9ZGt8&export=download&confirm=t",
       "localizedDescription": "Facebook 587.0.0 Moe iQ 1.2 and Nexus from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Facebook_581.0.0_Moe_iQ_1.2_and_Nexus_1790798616728206189.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Facebook_581.0.0_Moe_iQ_1.2_and_Nexus_1790798616728206189.webp?v=1794652566.0"
     },
     {
       "name": "Facebook Messenger 526 pro",
@@ -151385,7 +151423,7 @@
       "versionDate": "2025-09-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1StCITUO2rxxGnMKUN75RSq1nc-SSGRUP&export=download&confirm=t",
       "localizedDescription": "Facebook Messenger 526 pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Facebook_Messenger_526_pro__1758759820.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Facebook_Messenger_526_pro__1758759820.webp?v=1794652566.0"
     },
     {
       "name": "Facebook No Ads",
@@ -157749,7 +157787,7 @@
       "versionDate": "2026-05-05",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1FuEIu-DhyN34bOtaDIzeK_exLSbcaQtV&export=download&confirm=t",
       "localizedDescription": "Facetune 26.9 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Facetune_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Facetune_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Facetune Unlimited Access – Facetune++",
@@ -159124,7 +159162,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Csc8KfvBJ4-ehw23XS6Ynn8NPBq045_M&export=download&confirm=t",
       "localizedDescription": "Feather from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Feather_icon.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Feather_icon.webp?v=1794652566.0"
     },
     {
       "name": "Feather",
@@ -162213,7 +162251,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Vwhy4ZKMTZy4tOo83EB7YwfY6_miTY6A&export=download&confirm=t",
       "localizedDescription": "filza developer works with worse query ios 27-27.3 beta 1 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/filza_developer_works_with_worse_query_ios_27-27.3_beta_1_1794433252080352939.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/filza_developer_works_with_worse_query_ios_27-27.3_beta_1_1794433252080352939.webp?v=1794652566.0"
     },
     {
       "name": "Filza Escaped",
@@ -165836,7 +165874,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1V571P0Piv-CNm-67aY1QmIzxdy_NGp1g&export=download&confirm=t",
       "localizedDescription": "Fitbod from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Fitbod_1758660817.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Fitbod_1758660817.webp?v=1794652566.0"
     },
     {
       "name": "FitbodElite",
@@ -176602,7 +176640,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14RAR3CkXGMz7KNfYsFkFN5in9SFV0pKK&export=download&confirm=t",
       "localizedDescription": "Flightradargold 10.16 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Flightradar24_1758662098.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Flightradar24_1758662098.webp?v=1794652566.0"
     },
     {
       "name": "FlightTracker",
@@ -178635,7 +178673,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1wAkPTGIJlBA-u7XXiFS0v0DA4UVZSnvE&export=download&confirm=t",
       "localizedDescription": "flipclock from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/flipclock_1758662892.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/flipclock_1758662892.webp?v=1794652566.0"
     },
     {
       "name": "Fliqlo",
@@ -181369,7 +181407,7 @@
       "versionDate": "2025-10-17",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1ihaFnBL9MbtNMHsnBxldFuOsfLHXW6e8&export=download&confirm=t",
       "localizedDescription": "Focus from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Focus_1760726513.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Focus_1760726513.webp?v=1794652566.0"
     },
     {
       "name": "Focus Friend",
@@ -185204,7 +185242,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1CzRT-Hb0yW3OSId2egq95y8zivDu37Yi&export=download&confirm=t",
       "localizedDescription": "FreeYourMusic from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/FreeYourMusic_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/FreeYourMusic_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Freeyourmusic",
@@ -187533,7 +187571,7 @@
       "versionDate": "2025-09-04",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1FHoa6UkdGw3n71Aovm6sfhOTmfNr-vhB&export=download&confirm=t",
       "localizedDescription": "Fusion 0.1.0 Build 123 (Latest from testflight)(Thank you YGB)",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Fusionapp101_1757012955.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Fusionapp101_1757012955.webp?v=1794652566.0"
     },
     {
       "name": "Fusion 1.0 appstore edition",
@@ -187543,7 +187581,7 @@
       "versionDate": "2026-02-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1YSt30OpBm7V9WLNAGUq2d6WSLlriNm80&export=download&confirm=t",
       "localizedDescription": "Fusion 1.0 appstore edition from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Fusion_1.0_appstore_edition_1772057507.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Fusion_1.0_appstore_edition_1772057507.webp?v=1794652566.0"
     },
     {
       "name": "Futbin",
@@ -189118,9 +189156,9 @@
       "name": "gen1recomp++",
       "bundleIdentifier": "com.theboisclub.gen1recompplusplus",
       "developerName": "bryanthaboi",
-      "version": "0.4.5",
-      "versionDate": "2026-11-14T10:13:59Z",
-      "downloadURL": "https://github.com/bryanthaboi/gen1recomp/releases/download/v0.4.5/gen1recomp%2B%2B-0.4.5-ios.ipa",
+      "version": "0.4.6",
+      "versionDate": "2026-11-15T12:36:48Z",
+      "downloadURL": "https://github.com/bryanthaboi/gen1recomp/releases/download/v0.4.6/gen1recomp%2B%2B-0.4.6-ios.ipa",
       "localizedDescription": "G1R Deluxe aka Gen1Recomp:\n\nA native LÖVE2D recreation of Poke Red, Blue, Yellow, Gold, Silver, Crystal, FireRed, LeafGreen, Ruby, Sapphire, and Emerald. The engine and map behavior are hand-written Lua; game data and graphics are decoded from a ROM supplied by the player.\n\nAnd before you say, \"that's not a recomp\", you're wrong. Recomp is an acronym. Reverse Engineering Causes Obsessive Mental Problems.\n\nClick Here for the AI Use Disclosure!\n\nWhat this is:\n\nG1R Deluxe aka Gen1Recomp is a native LÖVE2D recreation of Pokemon Red, Blue, Yellow, Gold, Silver, Crystal, FireRed, LeafGreen, Ruby, Sapphire, and Emerald. The engine and map behavior are hand-written Lua, ported from the pret disassemblies & C. Game data, graphics, and audio programs are decoded on first launch from a ROM you supply.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.theboisclub.gen1recompplusplus.png",
       "tintColor": "#86742c",
@@ -191103,9 +191141,9 @@
       "name": "Ghost Remote",
       "bundleIdentifier": "wiki.qaq.GhostRemote",
       "developerName": "owngoal-dev",
-      "version": "1.6.28",
-      "versionDate": "2026-11-13T19:40:16Z",
-      "downloadURL": "https://github.com/owngoal-dev/iGhostVT/releases/download/v1.6.28/GhostRemote-1.6.28.ipa",
+      "version": "1.6.29",
+      "versionDate": "2026-11-15T16:02:46Z",
+      "downloadURL": "https://github.com/owngoal-dev/iGhostVT/releases/download/v1.6.29/GhostRemote-1.6.29.ipa",
       "localizedDescription": "iGhostVT:\n\nA real terminal on iPhone, iPad, and Mac, drawn by the same engine as Ghostty on the desktop. Start a command, leave the app, and come back — the shell is still running.\n\nMac:\n\nUnzip the archive, drag iGhostVT.app into Applications, then open it from there. The app uses a background helper to run your sessions. If approval is requested, follow the app’s prompt to enable it in System Settings.\n\nGhost Remote is iGhostVT's remote access on its own, for an iPhone or iPad without custom firmware: it opens terminals on your devices running iGhostVT and runs none of its own. Add this source to AltStore or SideStore:\n\nhttps://owngoal-dev.github.io/iGhostVT/altstore.json\n\nFeatures:\n\n• Ghostty’s engine: GPU-drawn terminal, the Ghostty theme catalog, and extra keys on the software keyboard.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/wiki.qaq.GhostRemote.png",
       "tintColor": "#94a4dc",
@@ -192576,7 +192614,7 @@
       "versionDate": "2025-09-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14JXoW6howPNoxZCpkIqT8dxttLOYwdyU&export=download&confirm=t",
       "localizedDescription": "GlowUp 3.3.1 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/GlowUp_3.3.1_Pro__1758833320.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/GlowUp_3.3.1_Pro__1758833320.webp?v=1794652566.0"
     },
     {
       "name": "Glucora",
@@ -192730,7 +192768,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1mgppw9AFnO12iYvfPY4itOPBSC4Glt_j&export=download&confirm=t",
       "localizedDescription": "Goblin Tools from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Goblin%20Tools_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Goblin%20Tools_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Goblins Wood",
@@ -193086,7 +193124,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=10QVFOzPV8gvmhICUX87krs1JTRV3OiND&export=download&confirm=t",
       "localizedDescription": "Goodnotes Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Goodnotes_1758661510.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Goodnotes_1758661510.webp?v=1794652566.0"
     },
     {
       "name": "Goodnotes6",
@@ -193427,7 +193465,7 @@
       "versionDate": "2026-02-26",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Lco61uazFDX3derpxETuc7suc1Yf1lTI&export=download&confirm=t",
       "localizedDescription": "Google News Adfree 5.115 Mainstream legacy media is an iOS release entry for Google News on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/GoogleNews_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/GoogleNews_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Google Photos (Gunshot)",
@@ -193605,7 +193643,7 @@
       "versionDate": "2026-09-17",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1VY3bVa_E6m6aFqzis0qCe3h4e5dcG_2n&export=download&confirm=t",
       "localizedDescription": "GooglePhotos 7.92.0 GotoHP Unlimited storage mod from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/GooglePhotos_7.92.0_GotoHP_Unlimited_storage_mod_1789619977243607149.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/GooglePhotos_7.92.0_GotoHP_Unlimited_storage_mod_1789619977243607149.webp?v=1794652566.0"
     },
     {
       "name": "Gopeed",
@@ -198097,7 +198135,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1EINDP7yOubuxB-Q620EUtjmW2FIr0Uye&export=download&confirm=t",
       "localizedDescription": "GTA 5 Port iOS v1.6.3 Moe patched from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/GTA_5_Port_iOS_v1.6.3_Moe_patched_1794433252080212738.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/GTA_5_Port_iOS_v1.6.3_Moe_patched_1794433252080212738.webp?v=1794652566.0"
     },
     {
       "name": "GTA III",
@@ -200846,7 +200884,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=19_aobjMxeGff6gLpKviqT4p0DdcZ-Ckv&export=download&confirm=t",
       "localizedDescription": "Happy Scale Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Happy_Scale_1758661699.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Happy_Scale_1758661699.webp?v=1794652566.0"
     },
     {
       "name": "HappyScale",
@@ -205778,7 +205816,7 @@
       "versionDate": "2026-11-12",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1G47HIbnnb6hApLKRYWz0mbFB4Xr8ekkj&export=download&confirm=t",
       "localizedDescription": "Henge 0.3.0 Run MacOS on iPhone Natively from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Henge_0.1_Run_MacOS_on_iPhone_Natively_1793982835388407932.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Henge_0.1_Run_MacOS_on_iPhone_Natively_1793982835388407932.webp?v=1794652566.0"
     },
     {
       "name": "Her 75",
@@ -205812,7 +205850,7 @@
       "versionDate": "2026-11-12",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1JkOj4XyNR7I0rZ7mNaSR9jdRakZ3x2gm&export=download&confirm=t",
       "localizedDescription": "HermesEnablerMoe Patched from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/HermesEnablerMoe_Patched_1794444839444489582.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/HermesEnablerMoe_Patched_1794444839444489582.webp?v=1794652566.0"
     },
     {
       "name": "Hero Adventure",
@@ -208261,7 +208299,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1ZWjGiE9pkOMOuTE2hNLYAO-RJNZ-pL3I&export=download&confirm=t",
       "localizedDescription": "Hevy Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Hevy_1758660600.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Hevy_1758660600.webp?v=1794652566.0"
     },
     {
       "name": "HevyPro",
@@ -214875,7 +214913,7 @@
       "versionDate": "2026-11-03",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1FWxOZWAX6D1haJOb41L0gbjh8tD0_Hfh&export=download&confirm=t",
       "localizedDescription": "Hydra 4.5.0 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Hydra_1758406303.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Hydra_1758406303.webp?v=1794652566.0"
     },
     {
       "name": "Hydra Pro – Hydra++",
@@ -220223,7 +220261,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1g1EOQuVvVaxvr8MpyMUprgozZhu_etQV&export=download&confirm=t",
       "localizedDescription": "ImagineArt from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/ImagineArt_1758662979.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/ImagineArt_1758662979.webp?v=1794652566.0"
     },
     {
       "name": "Imagineart",
@@ -220565,7 +220603,7 @@
       "versionDate": "2025-12-09",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1kbH4_bQZpEqB0b85ycPM5pvHskkx47Uv&export=download&confirm=t",
       "localizedDescription": "iME 12.2.2 TGEXtra 1.7 Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/iMe_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/iMe_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "iMe Ai",
@@ -220887,7 +220925,7 @@
       "versionDate": "2025-10-07",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1PX410l1Q683AEU9k6kUw4U_O7BXBet2a&export=download&confirm=t",
       "localizedDescription": "Imgur 2025.09.02 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Imgur_Funny_Memes__GIF_Maker_1759872608.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Imgur_Funny_Memes__GIF_Maker_1759872608.webp?v=1794652566.0"
     },
     {
       "name": "Immortal Prince",
@@ -224665,7 +224703,7 @@
       "versionDate": "2026-04-10",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1cjeMp52an4b8wUOXRQHtXQxbfgPTVQsJ&export=download&confirm=t",
       "localizedDescription": "Infuse 8.4.2 Plus 2.5 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Infuse_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Infuse_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Infuse 8.5.1 Moe Plus 2.6",
@@ -224675,7 +224713,7 @@
       "versionDate": "2026-08-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1_zlwkGtWBfeSQh20b3D0HnfXanNAbzSP&export=download&confirm=t",
       "localizedDescription": "Infuse 8.5.1 Moe Plus 2.6 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Infuse_8.5.1_Moe_Plus_2.6_1786463206584833893.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Infuse_8.5.1_Moe_Plus_2.6_1786463206584833893.webp?v=1794652566.0"
     },
     {
       "name": "Infuse 8.5.10 2.6 Moe Plus",
@@ -224685,7 +224723,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1vH65yXVSgXm9dzR8Kv5fV6fZrkqTBj5J&export=download&confirm=t",
       "localizedDescription": "Infuse 8.5.10 2.6 Moe Plus from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Infuse_8.4.3_Moe_Plus_1776873809811426502.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Infuse_8.4.3_Moe_Plus_1776873809811426502.webp?v=1794652566.0"
     },
     {
       "name": "Infuse Plus (7.8.4)",
@@ -225367,7 +225405,7 @@
       "versionDate": "2025-12-07",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1vNGJ9RX4pDj1UeFkj63y14uA6AFrw6Go&export=download&confirm=t",
       "localizedDescription": "InjectionIPA is a non-App-Store iOS utility release on Moe's App Hub with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/InjectionIPA_1765065594.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/InjectionIPA_1765065594.webp?v=1794652566.0"
     },
     {
       "name": "InjectionIPA_v5.0",
@@ -232258,7 +232296,7 @@
       "versionDate": "2026-08-18",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1gadG48Tb0GXVGkNr2-OOvj59Km5ovRFv&export=download&confirm=t",
       "localizedDescription": "Instagram 443.0.0 NYX 1.6.4 B2 Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_411.1_NYX_1.6.0B3_Cracked_1767805749.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_411.1_NYX_1.6.0B3_Cracked_1767805749.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 443.0.0 Regram 6.0 OLED 1.5 Moe",
@@ -232268,7 +232306,7 @@
       "versionDate": "2026-08-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Crs_dpYMfggRnQIk_SlU5hXCMIVSetFW&export=download&confirm=t",
       "localizedDescription": "Instagram 443.0.0 Regram 6.0 OLED 1.5 Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_414_Regram_2.5_OLED_1.3_Moe_incase_other_415_version_crashes__1770262907.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_414_Regram_2.5_OLED_1.3_Moe_incase_other_415_version_crashes__1770262907.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 AC 1.5",
@@ -232278,7 +232316,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=15286X0sSatmOxP37yMsfNneAoZfzuwDA&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 AC 1.5 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_1756965043.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_1756965043.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 BH 1.2",
@@ -232288,7 +232326,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1WMpdEHQ2xz-Q7v0-kHpDZJKOh6Eb7Zw4&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 BH 1.2 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_1756965161.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_1756965161.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 DL 2.5 Cracked",
@@ -232298,7 +232336,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=16aB4PBqGegIlz_e48E-6hVxTk2me21MP&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 DL 2.5 Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_410.1_DL_2.5_Cracked_1767395377.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_410.1_DL_2.5_Cracked_1767395377.webp?v=1794652566.0"
     },
     {
       "name": "instagram 455.0.0 IGFormat 2.7",
@@ -232308,7 +232346,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1J07Ysnnitrkjb7Im0nIy4cnQsWvmuyQ7&export=download&confirm=t",
       "localizedDescription": "instagram 455.0.0 IGFormat 2.7 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_1756965340.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_1756965340.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 INK Plus 5.4",
@@ -232318,7 +232356,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1i4vvS-ROuqz626TA83uZStzbdP_qtPVm&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 INK Plus 5.4 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_396.0_inkKillerPlus2.4.80__1756969260.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_396.0_inkKillerPlus2.4.80__1756969260.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 LRD 2.19 Cracked",
@@ -232328,7 +232366,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1v3SKRHSpGV7qRU8SoVKeL6DDB7WLttBc&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 LRD 2.19 Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_410.1_LRD2.19_Cracked_1767395338.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_410.1_LRD2.19_Cracked_1767395338.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 Moe Multi 8.7",
@@ -232338,7 +232376,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1_2gHaeiDQ6dJgLpA17y-dc7mPc6HWpLk&export=download&confirm=t",
       "localizedDescription": "Do not sign with ESign. Hold the Reels button or use a three-finger gesture to open Moe Multi. A fresh install is recomm...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_400.1_Moe_Multi_3.1.0_1759883095.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_400.1_Moe_Multi_3.1.0_1759883095.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 Moe NYX 1.7.0",
@@ -232348,7 +232386,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1FwrbDN2WuFK5D9tj_SABWyapArZWxzzk&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 Moe NYX 1.7.0 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_443.0.0_Moe_NYX_1.7.0_1787252663416352110.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_443.0.0_Moe_NYX_1.7.0_1787252663416352110.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 Moe Regram 7.0.1",
@@ -232358,7 +232396,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=13GjSkgejtTF66SQbN9LrkWfNqwf8we4j&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 Moe Regram 7.0.1 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_442.0.0_Moe_Regram_5.2.1_OLED_1.5_1786468182058071782.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_442.0.0_Moe_Regram_5.2.1_OLED_1.5_1786468182058071782.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 Moe Rocket Cracked 4.3.3",
@@ -232368,7 +232406,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=17Y1nMfMpAUYnq-ULPotcSUiZXpRNW5vB&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 Moe Rocket Cracked 4.3.3 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_396_Rocket_3.8.36_1756968833.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_396_Rocket_3.8.36_1756968833.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 Moe RyukGram 1.5.1",
@@ -232378,7 +232416,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Mqef0qy51Na7ZPNuZWigqEA63kQxsh3h&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 Moe RyukGram 1.5.1 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_426.0.0_Moe_RyukGram_1.2.1_OLED_1776985098051592662.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_426.0.0_Moe_RyukGram_1.2.1_OLED_1776985098051592662.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 Moe Sparkle 1.6.1",
@@ -232388,7 +232426,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Wfy9uHCu9FT5g7iZgr4WXHCnlPQcbkNi&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 Moe Sparkle 1.6.1 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_445.0.0_Moe_Sparkle_1.3.0_1788294069667699485.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_445.0.0_Moe_Sparkle_1.3.0_1788294069667699485.webp?v=1794652566.0"
     },
     {
       "name": "instagram 455.0.0 NYX 1.7.2 Beta",
@@ -232398,7 +232436,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1uCgW4RivKUMIUycaeADA9i4tS8doQxfs&export=download&confirm=t",
       "localizedDescription": "instagram 455.0.0 NYX 1.7.2 Beta from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/instagram_396.0_NYX_1.6.0_Beta_3_1756967686.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/instagram_396.0_NYX_1.6.0_Beta_3_1756967686.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 SC 1.1.1 Moe",
@@ -232408,7 +232446,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Q8X67kYSwF9vuoIJ-p_o0_OPOseeqVRU&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 SC 1.1.1 Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_399_SC_0.80_Moe_Patched__1758659552.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_399_SC_0.80_Moe_Patched__1758659552.webp?v=1794652566.0"
     },
     {
       "name": "Instagram 455.0.0 Theta 5.0",
@@ -232418,7 +232456,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1_AewLAeGWqdwXqHzG1sjHLEJkDcyobt6&export=download&confirm=t",
       "localizedDescription": "Instagram 455.0.0 Theta 5.0 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_396_Theta_3.1_1756967109.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Instagram_396_Theta_3.1_1756967109.webp?v=1794652566.0"
     },
     {
       "name": "Instagram Plus",
@@ -237809,7 +237847,7 @@
       "versionDate": "2025-09-01",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1aDbgYm3kIz-aCzNBd6eb70To9biKSp5_&export=download&confirm=t",
       "localizedDescription": "Intentchat TGEXTRA is a non-App-Store iOS release on Moe's App Hub with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Lingogram_TGEXTRA_1756710278.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Lingogram_TGEXTRA_1756710278.webp?v=1794652566.0"
     },
     {
       "name": "Interior Ai - Room Design",
@@ -238862,6 +238900,23 @@
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.png",
       "tintColor": "000000",
       "size": 48708836
+    },
+    {
+      "name": "iPadn",
+      "bundleIdentifier": "app.local.iPadn",
+      "developerName": "mengangs",
+      "version": "2.1.3",
+      "versionDate": "2026-11-15T14:54:47Z",
+      "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.3/iPadn-2.1.3-lite-unsigned.ipa",
+      "localizedDescription": "在 iPhone 与 iPad 上搜索、下载并安装你已拥有的应用——包括历史版本与已下架应用，支持区域价格比较与原生安装。支持 iPhone、iPad、Apple TV 与 Mac 应用，提供 11 种语言。",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.png",
+      "tintColor": "#111111",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/search.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/detail.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/versions.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/prices.png"
+      ]
     },
     {
       "name": "IPAOMTK",
@@ -240097,7 +240152,7 @@
       "versionDate": "2025-10-17",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1L9zkui_fJWUjFK0zAVz_tnpU2SqJgBsf&export=download&confirm=t",
       "localizedDescription": "IPSW Go 1.4.7 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/IPSW_Go_1.4.7_1760733061.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/IPSW_Go_1.4.7_1760733061.webp?v=1794652566.0"
     },
     {
       "name": "IPSW_TS",
@@ -240137,7 +240192,7 @@
       "versionDate": "2025-12-04",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1CvTjVH4SE6hUk8A03RKDJhgIpNVwvppl&export=download&confirm=t",
       "localizedDescription": "IPTV Experts 9.1.3 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/IPTV_Experts_9.1.2_Pro_Moe_1764736160.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/IPTV_Experts_9.1.2_Pro_Moe_1764736160.webp?v=1794652566.0"
     },
     {
       "name": "iPTV Hub Pro",
@@ -243833,7 +243888,7 @@
       "versionDate": "2025-12-26",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1L2peGOplH9YNBAnodhKXxC8-CYyrLxEo&export=download&confirm=t",
       "localizedDescription": "Sign with custom entitlements file in esign if you have issues",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Istb1.29.3Promoepatched_1766436441.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Istb1.29.3Promoepatched_1766436441.webp?v=1794652566.0"
     },
     {
       "name": "iStoria",
@@ -243978,8 +244033,8 @@
       "bundleIdentifier": "moe.itoapp.ito",
       "developerName": "AtiinLabs",
       "version": "1.5.0",
-      "versionDate": "2026-11-15T01:00:05Z",
-      "downloadURL": "https://github.com/AtiinLabs/Ito/releases/download/dev-245/Ito-1.5.0-dev.245-unsigned.ipa",
+      "versionDate": "2026-11-15T16:23:44Z",
+      "downloadURL": "https://github.com/AtiinLabs/Ito/releases/download/dev-248/Ito-1.5.0-dev.248-unsigned.ipa",
       "localizedDescription": "Features:\n\n• Native manga and novel readers, plus video playback.\n• One library with local history and backups.\n• AniList discovery and progress tracking with AniList, MyAnimeList or MangaBaka.\n• Extensible .ito source plugins with search and source settings.\n\nBuild from source:\n\nRequires Xcode 26.2 or later. Supports iOS and iPadOS 15.4+.\n\nLet Swift packages resolve, select your signing team and device, then run with ⌘R.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/moe.itoapp.ito.png",
       "tintColor": "#64bd9e",
@@ -244940,7 +244995,7 @@
       "versionDate": "2025-12-18",
       "downloadURL": "https://drive.usercontent.google.com/download?id=183GiEh0fUtkGFd9CadJjTjS7LfJ57sGU&export=download&confirm=t",
       "localizedDescription": "Review the Itorrent 2.1.1-1 release details, including version 2.1.1-1, file size 80 MB, download options, and any source or App Store reference shown on this page.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Itorrent_1756494959.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Itorrent_1756494959.webp?v=1794652566.0"
     },
     {
       "name": "iTransfer Pro",
@@ -248853,7 +248908,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1I56H_pNOQC_eW1btP_TndH9Zmf4VSthx&export=download&confirm=t",
       "localizedDescription": "Keka from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Keka_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Keka_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Keka_1.0.1",
@@ -249667,7 +249722,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1IGs76Fd9WL4SPEY8v74f7uS6WQ9ULdjH&export=download&confirm=t",
       "localizedDescription": "Keychain Clean from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Keychain_Clean_1756494896.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Keychain_Clean_1756494896.webp?v=1794652566.0"
     },
     {
       "name": "Keylifts",
@@ -250537,7 +250592,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Jg2kx3Ep_pZ1lUrc72CBWRTzWHyvpoN1&export=download&confirm=t",
       "localizedDescription": "KickUnblock 1.0 adfree kick from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/KickUnblock_1.0_adfree_kick_1794433252079657535.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/KickUnblock_1.0_adfree_kick_1794433252079657535.webp?v=1794652566.0"
     },
     {
       "name": "Kidloland Kids Toddler Games",
@@ -256478,7 +256533,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1rM7oTRFL4TjjUA0l7PK-NYggq4-shKEQ&export=download&confirm=t",
       "localizedDescription": "Ksignlatest",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Ksign_1756494976.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Ksign_1756494976.webp?v=1794652566.0"
     },
     {
       "name": "Ksign",
@@ -258839,9 +258894,9 @@
       "name": "LatentJam",
       "bundleIdentifier": "io.github.nikitasud.latentjam.kmp",
       "developerName": "Nikita-sud",
-      "version": "0.9.4",
-      "versionDate": "2026-11-05T08:52:50Z",
-      "downloadURL": "https://github.com/Nikita-sud/latentjam/releases/download/v0.9.4/LatentJam-v0.9.4-unsigned.ipa",
+      "version": "0.9.5",
+      "versionDate": "2026-11-15T11:26:57Z",
+      "downloadURL": "https://github.com/Nikita-sud/latentjam/releases/download/v0.9.5/LatentJam-v0.9.5-unsigned.ipa",
       "localizedDescription": "F-Droid · iPhone (sideload, not on the App Store) No account · no analytics · no ads · no internet permission on Android · Support · Privacy · Install guide.\n\nShuffle on a local player is a dice roll. Pick a song in LatentJam and SMART, its shuffle, queues up others from your own library that sound like they belong next to it. For You brings back the records you own and forgot. Edit your tags, follow synced lyrics, see your library as a map. The models that listen to your music run on the phone itself, so nothing about your listening ever leaves it.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.nikitasud.latentjam.kmp.png",
       "tintColor": "#4a6eb6",
@@ -265369,7 +265424,7 @@
       "versionDate": "2025-10-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1GZ9QoQlJpCUMcAqYQ5I4pumC2hrk1_-l&export=download&confirm=t",
       "localizedDescription": "Lightroom 11.00 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Lightroom_1758406854.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Lightroom_1758406854.webp?v=1794652566.0"
     },
     {
       "name": "Lightroom Premium – Lightroom++",
@@ -268440,7 +268495,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1A-FNJEpjgZpvTe8ayL29QmmYVbJjVTNi&export=download&confirm=t",
       "localizedDescription": "LingoDeer Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/LingoDeer_1758661839.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/LingoDeer_1758661839.webp?v=1794652566.0"
     },
     {
       "name": "Lingokids",
@@ -268450,7 +268505,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1IRdPClno_UBfomFglCLlSCiv319I-F1P&export=download&confirm=t",
       "localizedDescription": "Lingokids from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Lingokids_1758662311.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Lingokids_1758662311.webp?v=1794652566.0"
     },
     {
       "name": "Lingokids",
@@ -269669,7 +269724,7 @@
       "versionDate": "2026-02-27",
       "downloadURL": "https://drive.usercontent.google.com/download?id=10tu3yqeRr8VDEb2JYTde31BLHM0yl0uo&export=download&confirm=t",
       "localizedDescription": "Litter Beta Run Codex on Phone Natively from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Litter_Beta_Run_Codex_on_Phone_Natively__1772164553.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Litter_Beta_Run_Codex_on_Phone_Natively__1772164553.webp?v=1794652566.0"
     },
     {
       "name": "Little Alchemist Remastered",
@@ -270518,7 +270573,7 @@
       "versionDate": "2025-09-22",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1PMRz1ZHsxUPdaHfnhPUrSagfiqtT1xSP&export=download&confirm=t",
       "localizedDescription": "LiveContainer is a non-App-Store iOS utility release on Moe's App Hub with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/LiveContainer_1758516302.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/LiveContainer_1758516302.webp?v=1794652566.0"
     },
     {
       "name": "LiveContainer + SideStore",
@@ -270589,7 +270644,19 @@
       "bundleIdentifier": "com.kdt.livecontainer",
       "developerName": "LiveContainer Team",
       "version": "3.8.13",
-      "versionDate": "2026-11-08T09:11:51Z",
+      "versionDate": "2026-11-09",
+      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
+      "localizedDescription": "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your apps.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/icon.png",
+      "tintColor": "000000",
+      "size": 23752778
+    },
+    {
+      "name": "LiveContainer+SideStore",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "LiveContainer Team",
+      "version": "3.8.14",
+      "versionDate": "2026-11-15T14:10:09Z",
       "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer%2BSideStore.ipa",
       "localizedDescription": "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your apps.",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/icon.png",
@@ -270599,18 +270666,6 @@
         "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/sources.png",
         "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/images/settings.png"
       ]
-    },
-    {
-      "name": "LiveContainer+SideStore",
-      "bundleIdentifier": "com.kdt.livecontainer",
-      "developerName": "LiveContainer Team",
-      "version": "3.8.13",
-      "versionDate": "2026-11-09",
-      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
-      "localizedDescription": "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your apps.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/master/apps/LiveContainer+SideStore/icon.png",
-      "tintColor": "000000",
-      "size": 23752778
     },
     {
       "name": "LiveContainer_1.0",
@@ -276984,7 +277039,7 @@
       "versionDate": "2025-10-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=17cES1RQWoYAn4uJLA2vHPXlP4vMacsYE&export=download&confirm=t",
       "localizedDescription": "LumaFusion 5.3.3 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/LumaFusion_1761765886.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/LumaFusion_1761765886.webp?v=1794652566.0"
     },
     {
       "name": "LumaFusion_3.0.10_iOS_15.0",
@@ -278324,9 +278379,9 @@
       "name": "Lumisound",
       "bundleIdentifier": "com.lumisound.ios",
       "developerName": "VoxeliseStudios",
-      "version": "2.0.0.48",
-      "versionDate": "2026-11-15T05:43:18Z",
-      "downloadURL": "https://github.com/VoxeliseStudios/Lumisound/releases/download/ios/v2.0.0.48/Lumisound-2.0.0.48.ipa",
+      "version": "2.0.0.51",
+      "versionDate": "2026-11-15T16:42:07Z",
+      "downloadURL": "https://github.com/VoxeliseStudios/Lumisound/releases/download/ios/v2.0.0.51/Lumisound-2.0.0.51.ipa",
       "localizedDescription": "What you get:\n\nSound.\n\n• The Lumisound engine: gapless playback, crossfade and DJ-style Smart Crossfade, speed and pitch.\n• LumiEQ with presets for every kind of music and Auto EQ that tunes itself to each song.\n• Volume boost that stays clean, Spatial Audio rooms with head tracking, reverb, night mode.\n• Effects such as Lo-Fi Tape, AM Radio, Vinyl Night, Underwater, Nightcore and Slowed + Reverb.\n• Music Haptics, Skip Silent Intros, ReplayGain.\n\nLibrary.\n\n• Duplicate Finder that compares the sound itself, Library Health, backups and a 30-day Recently Deleted.\n• Synced lyrics, smart playlists, stats, a yearly Rewind and achievements.\n\nNow Playing.\n\n• More than 25 animated artwork styles and 11 seeker styles, or design your own.\n• Widgets, a Live Activity, Siri and Shortcuts, Focus filters and Car Mode.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.lumisound.ios.png",
       "tintColor": "#8e60b4"
@@ -282524,7 +282579,7 @@
       "versionDate": "2026-11-04",
       "downloadURL": "https://drive.proton.me/urls/1WC0YBNPWR#GguBYGvUuuAm",
       "localizedDescription": "Madeira 0.2.0 latest Moe Patched from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Madeira_0.1.3_Moe_Patched_1791168265896624388.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Madeira_0.1.3_Moe_Patched_1791168265896624388.webp?v=1794652566.0"
     },
     {
       "name": "MADFUT",
@@ -283818,7 +283873,7 @@
       "versionDate": "2026-04-27",
       "downloadURL": "https://drive.usercontent.google.com/download?id=11wJ3_FErTsbFCJ_1AOEpJOlruEdpVdIy&export=download&confirm=t",
       "localizedDescription": "Another Login Fix for X Twitter but Supports Multiple Accounts 9.67 NFB read description for iOS, listed on Moe's App Hu...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Another_Login_Fix_for_X_but_Supports_Multiple_Accounts_9.67_NFB_read_description_1769715272.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Another_Login_Fix_for_X_but_Supports_Multiple_Accounts_9.67_NFB_read_description_1769715272.webp?v=1794652566.0"
     },
     {
       "name": "Mainspring",
@@ -283966,9 +284021,9 @@
       "name": "Manatan",
       "bundleIdentifier": "app.mangatan.mangatan",
       "developerName": "KolbyML",
-      "version": "6.3.18",
-      "versionDate": "2026-11-14T14:47:39Z",
-      "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.18/Manatan-v6.3.18-iOS.ipa",
+      "version": "6.3.20",
+      "versionDate": "2026-11-15T11:29:10Z",
+      "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.20/Manatan-v6.3.20-iOS.ipa",
       "localizedDescription": "Watch anime and YouTube. Read manga and novels. Look up words and save useful sentences without leaving the story.\n\nOne app, from immersion to review:\n\n• Watch, read, and listen. Local videos, YouTube, manga, EPUBs, web novels, and podcasts in one app.\n• Understand in context. Look up words with your imported dictionaries, use on-device manga OCR, and work with interactive subtitles.\n• Keep what matters. Save sentences with audio and images where available. Review in Manatan SRS with account sync, or keep using Anki.\n\nYour first lookup:\n\n• Install and open Manatan. A dictionary is installed automatically.\n• Open a video with subtitles, a manga chapter, or an EPUB you want to understand.\n• Look up a word. Save a useful sentence to Manatan SRS or Anki, then keep going.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.mangatan.mangatan.png",
       "tintColor": "#1a71e4",
@@ -284353,7 +284408,7 @@
       "versionDate": "2026-04-17",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1aM-fc4icGGi7yVThkncMHN_8RHTet0xT&export=download&confirm=t",
       "localizedDescription": "Manic Emu 1.9.1 JIT FP Fix is an iOS release entry for Manic EMU - Game Emulator on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Manicemu_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Manicemu_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Manic EMU v2.0.2",
@@ -285611,9 +285666,9 @@
       "name": "MayaIPTV",
       "bundleIdentifier": "com.mayaiptv.client",
       "developerName": "yannsar",
-      "version": "1.65.6",
-      "versionDate": "2026-11-13T14:24:52Z",
-      "downloadURL": "https://github.com/yannsar/mayaiptv-downloads/releases/download/v1.65.6/MayaIPTV-iOS.ipa",
+      "version": "1.66.0",
+      "versionDate": "2026-11-15T13:24:37Z",
+      "downloadURL": "https://github.com/yannsar/mayaiptv-downloads/releases/download/v1.66.0/MayaIPTV-iOS.ipa",
       "localizedDescription": "Maya IPTV:\n\nA modern, fast and free IPTV player for Android, Android TV / Fire TV, Windows and iOS.\n\nMaya IPTV is a media player. It does not provide, host or sell any channels, movies or subscriptions. You sign in with your own subscription (Xtream Codes or Stalker Portal) provided by your operator. You are responsible for the legality of the streams you play.\n\nFeatures:\n\n• Live TV with program guide (EPG) and fast zapping.\n• Movies & series (VOD) — rich detail pages, resume playback, seasons and episodes.\n• Full TV interface designed for the remote (D-pad) on Android TV and Fire TV.\n\n• Chromecast support.\n• Favorites, Continue Watching, smart search.\n• Built-in live football scores.\n• Subtitles, multiple audio tracks, advanced player settings.\n• Multi-connection: manage several subscriptions.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mayaiptv.client.png",
       "tintColor": "#3870cc",
@@ -288426,7 +288481,7 @@
       "versionDate": "2025-12-31",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1cwck_frqNw-RuAls2J7WYNhahxk4d8kt&export=download&confirm=t",
       "localizedDescription": "Review the MeloNX 2.2 JIT Enabled release details, including version 2.2, file size 80 MB, download options, and any source or App Store reference shown on this page.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MeloNX_1756494992.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MeloNX_1756494992.webp?v=1794652566.0"
     },
     {
       "name": "MeloX",
@@ -299329,9 +299384,9 @@
       "name": "MiruShin",
       "bundleIdentifier": "com.emp0ry.mirushin",
       "developerName": "emp0ry",
-      "version": "2.9.26",
-      "versionDate": "2026-11-12T15:48:52Z",
-      "downloadURL": "https://github.com/emp0ry/MiruShin/releases/download/v2.9.26/MiruShin-ios-v2.9.26.ipa",
+      "version": "2.9.27",
+      "versionDate": "2026-11-15T16:45:11Z",
+      "downloadURL": "https://github.com/emp0ry/MiruShin/releases/download/v2.9.27/MiruShin-ios-v2.9.27.ipa",
       "localizedDescription": "Your anime, movies, and shows: discover, track, and watch in one beautiful app",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.emp0ry.mirushin.png",
       "tintColor": "#9d56cc",
@@ -302307,7 +302362,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1tOkgJWRpShgxahQlB2rz5YhgaRZ5XnrL&export=download&confirm=t",
       "localizedDescription": "MoeSports2.2.ipa",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MoeSports_1756496131.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MoeSports_1756496131.webp?v=1794652566.0"
     },
     {
       "name": "MOEVERSE LIVE",
@@ -310343,6 +310398,17 @@
       "size": 150848297
     },
     {
+      "name": "Moovit",
+      "bundleIdentifier": "com.tranzmate.tranzmate1",
+      "developerName": "",
+      "version": "5.205.0",
+      "versionDate": "2026-11-15",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Moovit_5.205.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+      "size": 150895293
+    },
+    {
       "name": "Moovit: Bus & Transit Tracker",
       "bundleIdentifier": "com.ipaomtk.moovit.bus.transit.tracker.156949",
       "developerName": "ipaomtk.com",
@@ -312261,7 +312327,7 @@
       "versionDate": "2026-02-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1GwdwHcpFlfbFt9yCCT7hXqe-76d9QD45&export=download&confirm=t",
       "localizedDescription": "Review the MovieBox Pro 15.5 release details, including version 15.5, file size 80 MB, download options, and any source or App Store reference shown on this page.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MovieBox_Pro_1756495712.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MovieBox_Pro_1756495712.webp?v=1794652566.0"
     },
     {
       "name": "MovieBox TV",
@@ -312464,7 +312530,7 @@
       "versionDate": "2026-11-03",
       "downloadURL": "https://drive.usercontent.google.com/download?id=13TmVSwqx1NpAwbC0mRv-BYjc4LHUuN0J&export=download&confirm=t",
       "localizedDescription": "MovieBoxPro 16.3 Moe just patch Patched",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MovieBoxPro_15.6_Moe_1779293726385497186.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MovieBoxPro_15.6_Moe_1779293726385497186.webp?v=1794652566.0"
     },
     {
       "name": "MovieClaw",
@@ -312720,7 +312786,7 @@
       "versionDate": "2026-06-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1MDdU9gJeD2dhdMErcDIA7wTJ24_T-_rx&export=download&confirm=t",
       "localizedDescription": "MSGPlusX V1.1 MoePatched from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MSGPlusX_V1.1_MoePatched_1781213528326020815.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MSGPlusX_V1.1_MoePatched_1781213528326020815.webp?v=1794652566.0"
     },
     {
       "name": "MT - Browser & Private Vault",
@@ -314360,7 +314426,7 @@
       "versionDate": "2025-12-07",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1WqevJ6jyi9ReOPYhq8e5D8buvQ_3H6N6&export=download&confirm=t",
       "localizedDescription": "MUTube Adfree Youtube for Apple TV is an iOS release entry for YouTube on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MUTube_Adfree_Youtube_for_Apple_TV_1765146640.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/MUTube_Adfree_Youtube_for_Apple_TV_1765146640.webp?v=1794652566.0"
     },
     {
       "name": "MuzAi - Banana",
@@ -320279,7 +320345,7 @@
       "versionDate": "2026-10-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1j65L5irxkiWfBxm_CR49j8JlECJvuwAh&export=download&confirm=t",
       "localizedDescription": "hold down ask a question under settings for the lead settings",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Nagram_12.9.2.2_Moe_Lead_1.4.4_1790796772215408024.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Nagram_12.9.2.2_Moe_Lead_1.4.4_1790796772215408024.webp?v=1794652566.0"
     },
     {
       "name": "Naiad",
@@ -320825,7 +320891,7 @@
       "versionDate": "2026-10-27",
       "downloadURL": "https://drive.usercontent.google.com/download?id=18Rw2ZzgbBUm1fn3zZxNDRS88_7qIBexI&export=download&confirm=t",
       "localizedDescription": "Narwhal 2026.8 Pro Moe needs cert for pro to work from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Narwhal_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Narwhal_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Narwhal Pro for Reddit",
@@ -325806,6 +325872,17 @@
       ]
     },
     {
+      "name": "NFCTools",
+      "bundleIdentifier": "com.wakdev.wdnfc",
+      "developerName": "",
+      "version": "3.6",
+      "versionDate": "2026-11-15",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/NFCTools_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
+      "size": 8630531
+    },
+    {
       "name": "NFL RB 25",
       "bundleIdentifier": "com.karbinstoree",
       "developerName": "Karbin-Store",
@@ -326275,7 +326352,7 @@
       "versionDate": "2026-02-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1IOJ-V-5oyf6E9nsYXXlHzaoDKaQCKYkc&export=download&confirm=t",
       "localizedDescription": "hold down on ask a question to open tgmenu",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Nicegram_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Nicegram_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Nicegram_1.6.2",
@@ -333333,7 +333410,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1BxS95CgF8K5nzLweKhQShgjObqVipo3U&export=download&confirm=t",
       "localizedDescription": "Noteshelf 3 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Noteshelf_3_1758662865.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Noteshelf_3_1758662865.webp?v=1794652566.0"
     },
     {
       "name": "Noteshelf3",
@@ -336213,9 +336290,9 @@
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.media.nuvio",
       "developerName": "NuvioMedia",
-      "version": "0.6.12",
-      "versionDate": "2026-11-12T00:37:11Z",
-      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.12-beta/nuvio-0.6.12-full-release.ipa",
+      "version": "0.6.13",
+      "versionDate": "2026-11-15T09:36:16Z",
+      "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.13-beta/nuvio-0.6.13-full-release.ipa",
       "localizedDescription": "Get Nuvio Mobile:\n\n• Android on Google Play.\n• iOS via AltStore or SideStore: add this source URL in the app's Sources section, then install Nuvio.\n\nAndroid:\n\nAndroid development requires Android Studio and the Android SDK.\n\niOS:\n\niOS development requires macOS and Xcode.\n\nThe shared app is built with Kotlin Multiplatform and Compose Multiplatform.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nuvio.media.nuvio.png",
       "tintColor": "#696bd7"
@@ -336252,7 +336329,7 @@
       "versionDate": "2026-11-12",
       "downloadURL": "https://drive.usercontent.google.com/download?id=10q8MkDTmXeZxNk16nQqtX9kAVCNLozHz&export=download&confirm=t",
       "localizedDescription": "nuvio 0.6.12 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Nuvio_0.5.4_Moe_Patched_1790613385057390169.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Nuvio_0.5.4_Moe_Patched_1790613385057390169.webp?v=1794652566.0"
     },
     {
       "name": "Nuvio Enhanced",
@@ -337271,7 +337348,7 @@
       "versionDate": "2025-09-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=199q7gwmzhnBNWF_JP7egM3Ou7MRwHbRU&export=download&confirm=t",
       "localizedDescription": "Offline Music 3.6.9 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Offline_Music_3.6.9_Pro_1758833410.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Offline_Music_3.6.9_Pro_1758833410.webp?v=1794652566.0"
     },
     {
       "name": "Offline Music Player",
@@ -339205,7 +339282,7 @@
       "versionDate": "2025-12-07",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Dx9-Rammx3cN_HVSLWA9MolaWBjxXg9v&export=download&confirm=t",
       "localizedDescription": "OldOS is a non-App-Store iOS release entry on Moe's App Hub with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/OldOS_1765068916.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/OldOS_1765068916.webp?v=1794652566.0"
     },
     {
       "name": "OldOS",
@@ -340574,7 +340651,7 @@
       "versionDate": "2025-10-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1h7LZ-3vrupbtEdFT78XSVAkZ53s5FGay&export=download&confirm=t",
       "localizedDescription": "Omni 1.2 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Omni_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Omni_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Omni Banana - Ai Photo Editor",
@@ -340755,7 +340832,7 @@
       "versionDate": "2025-11-03",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1rhyHBpFr4FJQ1j1uIvzsVTgq9chDcJkI&export=download&confirm=t",
       "localizedDescription": "One4Wall 3.2.03 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/One4Wall_3.2.03_Pro_Moe_1762195646.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/One4Wall_3.2.03_Pro_Moe_1762195646.webp?v=1794652566.0"
     },
     {
       "name": "OneFootball",
@@ -341614,6 +341691,20 @@
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/16042.png",
       "tintColor": "000000",
       "size": 233078587
+    },
+    {
+      "name": "Open Screen Sharing",
+      "bundleIdentifier": "io.nekohasekai.screensharing",
+      "developerName": "nekohasekai",
+      "version": "1.0.6",
+      "versionDate": "2026-11-07T07:10:23Z",
+      "downloadURL": "https://github.com/nekohasekai/open-screen-sharing/releases/download/v1.0.6/OpenScreenSharing.ipa",
+      "localizedDescription": "Open Screen Sharing is a free and open-source remote desktop client optimized for Mac screen sharing and public networks, while also offering first-class support for standard VNC and RDP.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/icon.png",
+      "tintColor": "#1060F0",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/images/session.png"
+      ]
     },
     {
       "name": "OpenAgentd",
@@ -345372,17 +345463,6 @@
     {
       "name": "osu!",
       "bundleIdentifier": "sh.ppy.osulazer",
-      "developerName": "ppy",
-      "version": "2026.921.0",
-      "versionDate": "2026-09-21T05:32:11Z",
-      "downloadURL": "https://github.com/ppy/osu/releases/download/2026.921.0-lazer/osu.iOS.ipa",
-      "localizedDescription": "osu!:\n\nA free-to-win rhythm game. Rhythm is just a click away!\n\nStatus:\n\nThis project is under constant development, but we do our best to keep things in a stable state. Players are encouraged to install from a release alongside their stable osu! client. This project will continue to evolve until we eventually reach the point where most users prefer it over the previous \"osu!stable\" release.\n\nA few resources are available as starting points to getting involved and understanding the project:\n\n• Track our current efforts towards improving the game.\n\nLatest release::\n\nIf your platform is unsupported or not listed above, there is still a chance you can run the release or manually build it by following the instructions below.",
-      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/sh.ppy.osulazer.png",
-      "tintColor": "#de619b"
-    },
-    {
-      "name": "osu!",
-      "bundleIdentifier": "sh.ppy.osulazer",
       "developerName": "osu! team & contributors",
       "version": "1.0",
       "versionDate": "2026-09-21T05:51:33Z",
@@ -345396,6 +345476,17 @@
         "https://apikusu.github.io/altstore/osu/screenshots/iphone-3.jpg",
         "https://apikusu.github.io/altstore/osu/screenshots/iphone-4.jpg"
       ]
+    },
+    {
+      "name": "osu!",
+      "bundleIdentifier": "sh.ppy.osulazer",
+      "developerName": "ppy",
+      "version": "2026.1115.0",
+      "versionDate": "2026-11-15T11:27:22Z",
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2026.1115.0-lazer/osu.iOS.ipa",
+      "localizedDescription": "osu!:\n\nA free-to-win rhythm game. Rhythm is just a click away!\n\nStatus:\n\nThis project is under constant development, but we do our best to keep things in a stable state. Players are encouraged to install from a release alongside their stable osu! client. This project will continue to evolve until we eventually reach the point where most users prefer it over the previous \"osu!stable\" release.\n\nA few resources are available as starting points to getting involved and understanding the project:\n\n• Track our current efforts towards improving the game.\n\nLatest release::\n\nIf your platform is unsupported or not listed above, there is still a chance you can run the release or manually build it by following the instructions below.",
+      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/sh.ppy.osulazer.png",
+      "tintColor": "#de619b"
     },
     {
       "name": "Osu!lazer",
@@ -346227,9 +346318,9 @@
       "name": "Ozen",
       "bundleIdentifier": "com.arbelonson.ozen.Ozen",
       "developerName": "arbelonson-source",
-      "version": "0.3.127",
-      "versionDate": "2026-11-06T19:56:16Z",
-      "downloadURL": "https://github.com/arbelonson-source/ozen/releases/download/v0.3.127/Ozen.ipa",
+      "version": "0.3.128",
+      "versionDate": "2026-11-15T07:13:45Z",
+      "downloadURL": "https://github.com/arbelonson-source/ozen/releases/download/v0.3.128/Ozen.ipa",
       "localizedDescription": "Ozen (the word means \"ear\") turns what the people around you say into large, steady captions on your phone, as they speak. It was built for one grandmother with hearing loss, who found the transcription apps she tried either unreliable with external microphones or too shallow to trust.\n\n• Captions that hold still. Words settle in place instead of jumping around, and a name shows who is talking.\n• Private by design. No account and no company server: nothing leaves the phone unless you choose to send it.\n• Alerts she won't miss. The doorbell, a smoke alarm or her own name makes the phone buzz, even in a pocket; alarms flash the whole screen.\n• Talk back. Type a reply and the phone says it out loud, or shows it in huge letters.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.arbelonson.ozen.Ozen.png",
       "tintColor": "#527d37",
@@ -350627,7 +350718,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=15x90TvjZ2s8NmMwsU0UiXiHadStKL9Ww&export=download&confirm=t",
       "localizedDescription": "PDF Expert 7.26.4 Moe Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Pdfexpert_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Pdfexpert_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "PDF Expert Premium – PDF Expert++",
@@ -355209,7 +355300,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1E_pfcygExoFFZ_DK4kpD5kfjeoFc4k_9&export=download&confirm=t",
       "localizedDescription": "Pedometer from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Pedometer_1758662993.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Pedometer_1758662993.webp?v=1794652566.0"
     },
     {
       "name": "Pedometer",
@@ -355533,8 +355624,8 @@
       "bundleIdentifier": "org.peonpad.ios",
       "developerName": "chrissotraidis",
       "version": "0.1.0",
-      "versionDate": "2026-08-18T17:13:19Z",
-      "downloadURL": "https://github.com/chrissotraidis/peonpad/releases/download/v0.1.0-preview.1/PeonPad-0.1.0-preview.1-unsigned.ipa",
+      "versionDate": "2026-11-15T07:27:24Z",
+      "downloadURL": "https://github.com/chrissotraidis/peonpad/releases/download/v0.1.0-preview.2/PeonPad-0.1.0-preview.2-unsigned.ipa",
       "localizedDescription": "PeonPad does not include Warcraft II. To play, you provide data extracted from your own legally owned copy on a Mac or PC. That game content stays local to your machine and is never part of the PeonPad download.\n\nAI disclosure: PeonPad uses substantial AI assistance for code, tests, documentation, debugging and maintenance. Some support replies and maintenance tasks are automated. There is no audited percentage of AI-generated code. Build, test and device records describe what was checked. This disclosure concerns PeonPad's workflow, not the authorship of its upstream projects.\n\nWhat is PeonPad?:\n\nPeonPad is an independent Apple-platform Warcraft II port built on the open-source Stratagus engine and Wargus game layer. It runs engine code directly on iPadOS; it does not run a Windows executable, emulate x86, or stream a game from another computer.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.peonpad.ios.png",
       "tintColor": "#707c28",
@@ -358159,7 +358250,7 @@
       "versionDate": "2025-11-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1ZEKUfdNx0fXcz32sZqbEnIfOsACr15Aq&export=download&confirm=t",
       "localizedDescription": "Phocus 3.0.7 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Phocus_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Phocus_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Phoebe",
@@ -360612,7 +360703,7 @@
       "versionDate": "2026-02-12",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1TpjunnYoIVszExrEYmulpg1U8YEkExfB&export=download&confirm=t",
       "localizedDescription": "Photoleap 2.120 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Photoleap_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Photoleap_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Photoleap Premium – Photoleap++",
@@ -364498,7 +364589,7 @@
       "versionDate": "2026-08-10",
       "downloadURL": "https://drive.usercontent.google.com/download?id=191qG0YhgLB-fqBpeALjc37WT2zkEhM6B&export=download&confirm=t",
       "localizedDescription": "Photoroom 2026.33.01 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Photoroom_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Photoroom_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "PhotoRoom Pro – PhotoRoom++",
@@ -370148,7 +370239,7 @@
       "versionDate": "2026-08-10",
       "downloadURL": "https://drive.usercontent.google.com/download?id=18N6OS2sMh0iV5fHM04OCqZS7MOS9uc3m&export=download&confirm=t",
       "localizedDescription": "Picsart Pro 30.5.1 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/PicsArt_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/PicsArt_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "PicsArt+",
@@ -380103,7 +380194,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1kjpE-kd6UTpyp8P2jHKFNSz_3swp-0Ul&export=download&confirm=t",
       "localizedDescription": "Plane Finder from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Plane_Finder_1758660789.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Plane_Finder_1758660789.webp?v=1794652566.0"
     },
     {
       "name": "Plane Finder",
@@ -382990,7 +383081,7 @@
       "versionDate": "2026-11-04",
       "downloadURL": "https://drive.proton.me/urls/RJKRKYYFF4#zJZAacqg2xsm",
       "localizedDescription": "Playport 0.5.0 Moe Just Patch from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Playport_0.5.0_Moe_Just_Patch_1793817157140466407.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Playport_0.5.0_Moe_Just_Patch_1793817157140466407.webp?v=1794652566.0"
     },
     {
       "name": "Plays",
@@ -383332,7 +383423,7 @@
       "versionDate": "2025-10-07",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1FJvu3v9LV4aTu7nUM6zvBRQlMfJK4isj&export=download&confirm=t",
       "localizedDescription": "PocketMath 1.10.4 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/PocketMath_-_AI_Math_Solver_1759872513.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/PocketMath_-_AI_Math_Solver_1759872513.webp?v=1794652566.0"
     },
     {
       "name": "PocketSurvivorExpansion",
@@ -386003,7 +386094,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1a4TAos90gJ5Nc2fYOav-_Q4SMiwz3Rfa&export=download&confirm=t",
       "localizedDescription": "Polarr from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Polarr_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Polarr_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Polarsteps",
@@ -387462,7 +387553,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Tc5LsCj5gPESqYqORIBGeUvNO9oTi5I5&export=download&confirm=t",
       "localizedDescription": "Postbox from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Postbox_1756497031.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Postbox_1756497031.webp?v=1794652566.0"
     },
     {
       "name": "PostBox",
@@ -389663,7 +389754,7 @@
       "versionDate": "2026-01-18",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Cf1MEajVKJ6kYfdlK65htUW__m-ZuMF4&export=download&confirm=t",
       "localizedDescription": "Premade OLD Font Twitter Example Json is a non-App-Store resource entry on Moe's App Hub with file size and setup details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Premade_OLD_Font_Twitter_Example_Json_or_just_read_the_BLOG_For_DIY_1768769212.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Premade_OLD_Font_Twitter_Example_Json_or_just_read_the_BLOG_For_DIY_1768769212.webp?v=1794652566.0"
     },
     {
       "name": "Premiere",
@@ -392216,7 +392307,7 @@
       "versionDate": "2025-10-18",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1X4lSEylwqgKGA2BlvohxNDASCoTKgctX&export=download&confirm=t",
       "localizedDescription": "Pro Camera 26.0.2 IAP Unlocked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Pro_Camera_26.0.2_IAP_Unlocked_1760825142.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Pro_Camera_26.0.2_IAP_Unlocked_1760825142.webp?v=1794652566.0"
     },
     {
       "name": "Pro Camera by Moment",
@@ -396289,7 +396380,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1gxDPoPkg3umDL5P9AF5qoHRzv6lMhytS&export=download&confirm=t",
       "localizedDescription": "Smart uploaded app: Proshotv9.5.6Promoepatched",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Proshotv9.5.6Promoepatched_1756496394.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Proshotv9.5.6Promoepatched_1756496394.webp?v=1794652566.0"
     },
     {
       "name": "ProStore",
@@ -405017,9 +405108,9 @@
       "name": "RAtouch",
       "bundleIdentifier": "com.chrissotraidis.ratouch",
       "developerName": "chrissotraidis",
-      "version": "0.1.1",
-      "versionDate": "2026-10-30T03:12:28Z",
-      "downloadURL": "https://github.com/chrissotraidis/ratouch/releases/download/v0.1.1/RAtouch-v0.1.1-unsigned.ipa",
+      "version": "0.1.2",
+      "versionDate": "2026-11-15T10:48:56Z",
+      "downloadURL": "https://github.com/chrissotraidis/ratouch/releases/download/v0.1.2/RAtouch-v0.1.2-unsigned.ipa",
       "localizedDescription": "RAtouch is an Apple-platform port of the original Red Alert engine with one central goal: make a keyboard-and-mouse RTS genuinely playable by touch without redesigning the game underneath it.\n\nTap selects or orders. One finger drag-selects. Two fingers move the map. Pinch zooms the presentation. A hold becomes the original right-click. A slim native command deck supplies the keyboard actions and control groups an iPad otherwise lacks.\n\nThe campaigns, skirmish AI, movies, music, saves, production sidebar, hotkeys, and simulation rules remain engine-owned. RAtouch changes the platform and control layers around them.\n\nThis repository contains engine, platform code, project artwork, and one reviewed gameplay capture. It does not contain playable commercial game data. You provide legally acquired compatible data on your own device.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.ratouch.png",
       "tintColor": "#c23f36",
@@ -405473,7 +405564,7 @@
       "versionDate": "2026-02-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=16ymDsKbUvIR_TGhpl1DfSUM481Eplq-A&export=download&confirm=t",
       "localizedDescription": "Red Dead Redemption 2 Kamo Hacks is a non-App-Store release entry on Moe's App Hub with version, file size, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Red_Dead_Redemption_2_Kamo_Hacks__1772060639.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Red_Dead_Redemption_2_Kamo_Hacks__1772060639.webp?v=1794652566.0"
     },
     {
       "name": "Red Dot",
@@ -405632,7 +405723,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14H61VqfQp6UMJsEtSQPp8O-prIkMTjY2&export=download&confirm=t",
       "localizedDescription": "Hold down with 3 fingers to open moemod menu",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Moes_Reddit_2026.03.0__1769231115.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Moes_Reddit_2026.03.0__1769231115.webp?v=1794652566.0"
     },
     {
       "name": "Reddit RedditFilter",
@@ -408900,7 +408991,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Ye09zpU_GTn6EZxfVVjnqpJJu9MAQT9-&export=download&confirm=t",
       "localizedDescription": "Regitela 1.0.0 Moe Just Patch from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Regitela_1.0.0_Moe_Just_Patch_1794433252080534900.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Regitela_1.0.0_Moe_Just_Patch_1794433252080534900.webp?v=1794652566.0"
     },
     {
       "name": "Regram",
@@ -409918,7 +410009,7 @@
       "versionDate": "2026-04-02",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1WYO9dxpVocffaQNKHuPHOjlUtRkdB9VG&export=download&confirm=t",
       "localizedDescription": "Remodex 1.3 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Remodex_1.3_Pro_1775161343511666914.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Remodex_1.3_Pro_1775161343511666914.webp?v=1794652566.0"
     },
     {
       "name": "Remodex 1.6",
@@ -409928,7 +410019,7 @@
       "versionDate": "2026-05-19",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1c5MTNRDEtjhaw6XYF2IqQcYdHDinQgrB&export=download&confirm=t",
       "localizedDescription": "Remodex 1.6 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Remodex_1.6_1779210586510278348.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Remodex_1.6_1779210586510278348.webp?v=1794652566.0"
     },
     {
       "name": "Remote control for LG No Ads – LG Remote++",
@@ -410503,7 +410594,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=15kzin-8fQE1J9Io6rrCh8yapTUe6hWDF&export=download&confirm=t",
       "localizedDescription": "Renovate AI from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Renovate_AI_1758663007.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Renovate_AI_1758663007.webp?v=1794652566.0"
     },
     {
       "name": "Renovate AI (Pro)",
@@ -424997,7 +425088,7 @@
       "version": "1.1.0",
       "versionDate": "2026-10-19T09:17:29Z",
       "downloadURL": "https://github.com/j0shua-SYSON/S5LBox/releases/download/v1.1.0/S5LBox.ipa",
-      "localizedDescription": "S5LBox:\n\nClassic iPhone OS. On your iPhone.\n\nSlide to unlock. Open an old favorite. Make it yours again.\n\nS5LBox brings the iPhone 3G and its original iPhone OS 3.1.3 to your iPhone. It's the real operating system, running inside an app—not a theme or a recreation. Your iPhone doesn't need to be jailbroken.\n\nWhat you can do:\n\n• Rediscover the classics. Explore the familiar Home screen, built-in apps, and compatible apps from the early days of iPhone.\n\n• Bring your apps. Import .ipa files directly or put them in S5LBox's IPAs folder in Files. Choose what to install, one app at a time, without closing the running machine.\n\n• Explore your files. Browse, preview, import, and export guest files from Machine Settings. Full filesystem access is available after guest jailbreak.",
+      "localizedDescription": "S5LBox:\n\nClassic iPhone OS. On your iPhone or iPad.\n\nSlide to unlock. Open an old favorite. Make it yours again.\n\nS5LBox brings the iPhone 3G and its original iPhone OS 3.1.3 to your iPhone or iPad. It's the real operating system, running inside an app—not a theme or a recreation. Your iPhone doesn't need to be jailbroken.\n\nWhat you can do:\n\n• Rediscover the classics. Explore the familiar Home screen, built-in apps, and compatible apps from the early days of iPhone.\n\n• Bring your apps. Import .ipa files directly or put them in S5LBox's IPAs folder in Files. Choose what to install, one app at a time, without closing the running machine.\n\n• Explore your files. Browse, preview, import, and export guest files from Machine Settings. Full filesystem access is available after guest jailbreak.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.j0shua.S5LBox.png",
       "tintColor": "#4070be",
       "screenshotURLs": [
@@ -425446,7 +425537,7 @@
       "versionDate": "2026-02-26",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1UlsisRN-nc-OF-Z_HIgyQ5Oui10azZSS&export=download&confirm=t",
       "localizedDescription": "Satella Elite 2026 is a non-App-Store utility release on Moe's App Hub with version, file size, and usage details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Satella_Elite_2026_Hold_with_2_fingers_to_open_Menu_1772074753.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Satella_Elite_2026_Hold_with_2_fingers_to_open_Menu_1772074753.webp?v=1794652566.0"
     },
     {
       "name": "SatellaJailed",
@@ -430350,17 +430441,6 @@
       ]
     },
     {
-      "name": "Screen Sharing",
-      "bundleIdentifier": "io.nekohasekai.screensharing",
-      "developerName": "nekohasekai",
-      "version": "1.0.6",
-      "versionDate": "2026-11-07T07:10:23Z",
-      "downloadURL": "https://github.com/nekohasekai/open-screen-sharing/releases/download/v1.0.6/OpenScreenSharing.ipa",
-      "localizedDescription": "Open Screen Sharing:\n\nA remote desktop client that doesn't suck.\n\nThe App Store version excludes the following features due to App Store restrictions, but you can support my work by purchasing it:\n\n• Dragging files directly from a remote Mac into other iOS/iPadOS apps: relies on a private API.\n\nNightly builds:\n\nYou can also switch to the Nightly track in the App settings of the macOS app and update directly.\n\nRoadmap:\n\n• [x] Add support for macOS.\n• [x] Add support for RDP.\n• [x] Publish to iOS App Store.\n• Publish to Homebrew.\n• [x] Add support for Android.",
-      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.nekohasekai.screensharing.png",
-      "tintColor": "#5796fd"
-    },
-    {
       "name": "Screen Stream",
       "bundleIdentifier": "com.mobilenext.devicekit-ios",
       "developerName": "mobile-next",
@@ -434482,7 +434562,7 @@
       "versionDate": "2025-10-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1TrovqTMih6gVFFR-ZfsnL-8AaTt3UGyz&export=download&confirm=t",
       "localizedDescription": "Shadow Rocket 2.2.72 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Shadow_Rocket_2.2.72_Pro_Moe_1759776437.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Shadow_Rocket_2.2.72_Pro_Moe_1759776437.webp?v=1794652566.0"
     },
     {
       "name": "Shadow Survival",
@@ -436452,7 +436532,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1k0ozqRgFuMqjzeXmmdQbYjP3WZ1xMnAd&export=download&confirm=t",
       "localizedDescription": "Shapr3D from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Shapr3D_1758662225.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Shapr3D_1758662225.webp?v=1794652566.0"
     },
     {
       "name": "Shapy",
@@ -437150,9 +437230,9 @@
       "name": "Shefu",
       "bundleIdentifier": "fr.orvidia.shefu",
       "developerName": "lenios",
-      "version": "4.5.0",
-      "versionDate": "2026-11-14T16:09:15Z",
-      "downloadURL": "https://github.com/lenios/shefu/releases/download/v4.5.0%2B2893/shefu-unsigned.ipa",
+      "version": "4.6.1",
+      "versionDate": "2026-11-15T12:56:19Z",
+      "downloadURL": "https://github.com/lenios/shefu/releases/download/v4.6.1%2B2913/shefu-unsigned.ipa",
       "localizedDescription": "shefu:\n\nShefu is an offline, open source (GPLv3) digital cookbook and kitchen assistant, designed to help you track, organize, and cook your recipes in your native language. All of this with local storage (no internet required!).\n\nKey Features::\n\n• Organize and search your recipes: Easily add, edit, set as favorite, and search all your recipes with categories (mains, desserts, etc.). Advanced full-text search: search 'egg' and you'll find all your recipes including eggs, even meringue! Multi-term search: Click on favorites, select Japan in country dropdown and search for \"beef,rice\" to list all your favorite japanese recipes containing beef and rice, including gyudon/牛丼!",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/fr.orvidia.shefu.png",
       "tintColor": "#45b2e8",
@@ -446936,6 +447016,17 @@
       "size": 155548362
     },
     {
+      "name": "SimplyPiano",
+      "bundleIdentifier": "com.joytunes.asla",
+      "developerName": "",
+      "version": "9.11.4",
+      "versionDate": "2026-11-15",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/SimplyPiano_9.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "size": 155550029
+    },
+    {
       "name": "SimplySing",
       "bundleIdentifier": "com.joytunes.Sing",
       "developerName": "",
@@ -448242,7 +448333,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1VUPK5t0TBTteC_cCw0teX7VfMlI4EIvq&export=download&confirm=t",
       "localizedDescription": "Six Pack Abs - Abs Workout from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Six_Pack_Abs___Abs_Workout_1758663042.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Six_Pack_Abs___Abs_Workout_1758663042.webp?v=1794652566.0"
     },
     {
       "name": "SixPack Premium",
@@ -455693,7 +455784,7 @@
       "versionDate": "2026-10-28",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1BE4d6rz14S7H20HU4GCaMe2RjfyvmX2t&export=download&confirm=t",
       "localizedDescription": "SmartTube youtube client for ios Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/SmartTube_youtube_client_for_ios_Moe_1793213011260584991.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/SmartTube_youtube_client_for_ios_Moe_1793213011260584991.webp?v=1794652566.0"
     },
     {
       "name": "Smoothrase",
@@ -462240,7 +462331,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=13pNW4JuESU1bb-bs4TCKNw45BecIc0Kl&export=download&confirm=t",
       "localizedDescription": "SnapEdit from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/SnapEdit_1758660876.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/SnapEdit_1758660876.webp?v=1794652566.0"
     },
     {
       "name": "Snapedit.",
@@ -462376,7 +462467,7 @@
       "versionDate": "2026-10-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14eMXnd86HJEs7-TFsqGCN1UWhUSQCZ-W&export=download&confirm=t",
       "localizedDescription": "Snappier IPTV 5.7.2 Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Snappier%20IPTV_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Snappier%20IPTV_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "SnappierIptv",
@@ -467005,7 +467096,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1qQ_8UhSDBpaSFoaOr0-vF-iccQscMN56&export=download&confirm=t",
       "localizedDescription": "SNOW Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/SNOW_Pro_1758660766.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/SNOW_Pro_1758660766.webp?v=1794652566.0"
     },
     {
       "name": "SNOW VIP – SNOW++",
@@ -471150,7 +471241,7 @@
       "versionDate": "2026-03-19",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1q3GJFeXi82xaa8HLOwtUTiYANBgSKYjj&export=download&confirm=t",
       "localizedDescription": "Soundcloud 8.52.1 Adfree is an iOS release entry for SoundCloud: The Music You Love on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/SoundCloud_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/SoundCloud_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "SoundCloud 8.86.0 Nexa vaxmg B5",
@@ -471160,7 +471251,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1VArN00KSfXrtOFXrAee_NkiDgpk86Mc2&export=download&confirm=t",
       "localizedDescription": "SoundCloud 8.86.0 Nexa vaxmg B5 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/SoundCloud_8.64.0_Moe_Nexa_by_VagMG_1781213528326292936.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/SoundCloud_8.64.0_Moe_Nexa_by_VagMG_1781213528326292936.webp?v=1794652566.0"
     },
     {
       "name": "Soundcloud GO Unlocked 8.86.0 Pro VAXMG",
@@ -471170,7 +471261,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Tkr_Egtlvcq58ITFA8KN0vd9BbgFFGAu&export=download&confirm=t",
       "localizedDescription": "Soundcloud GO Unlocked 8.86.0 Pro VAXMG from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Soundcloud_GO%2B_Unlocked_8.33.0_Pro_1759246108.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Soundcloud_GO%2B_Unlocked_8.33.0_Pro_1759246108.webp?v=1794652566.0"
     },
     {
       "name": "SoundCloud++",
@@ -474324,7 +474415,7 @@
       "versionDate": "2025-10-18",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1zJkZRDQ6rq-D36abpRbGswDTRxncHhF1&export=download&confirm=t",
       "localizedDescription": "Spatial Camera 1.6.5 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Spatial_Camera_1.6.5_1760825244.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Spatial_Camera_1.6.5_1760825244.webp?v=1794652566.0"
     },
     {
       "name": "Speak",
@@ -483025,7 +483116,7 @@
       "versionDate": "2026-10-08",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Aoovz67FwnM_D03CVbXPeKHeUEQQv-90&export=download&confirm=t",
       "localizedDescription": "Spotify 9.1.90 Moe Vitrine 1.0 B 7 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Spotify_9.1.90_Moe_Vitrine_1.0_B_7_1791483606669148527.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Spotify_9.1.90_Moe_Vitrine_1.0_B_7_1791483606669148527.webp?v=1794652566.0"
     },
     {
       "name": "Spotify 9.2.0 Liquid Glass Edition Vitrine 1.0B16 and Pixie download",
@@ -483035,7 +483126,7 @@
       "versionDate": "2026-11-13",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14cEOgWHVxzIleTH9eZRq_hg2FfbkY62X&export=download&confirm=t",
       "localizedDescription": "Spotify 9.2.0 Liquid Glass Edition Vitrine 1.0B16 and Pixie download from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Spotify_9.1.82_Liquid_Glass_Edition_Moe_Eevee_Revived_by_jaydenjcp_Pro_and_also_spoti.pw_1789672811250693444.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Spotify_9.1.82_Liquid_Glass_Edition_Moe_Eevee_Revived_by_jaydenjcp_Pro_and_also_spoti.pw_1789672811250693444.webp?v=1794652566.0"
     },
     {
       "name": "Spotify 9.2.0 Moe Eevee Revived by jaydenjcp Pro",
@@ -483045,7 +483136,7 @@
       "versionDate": "2026-11-13",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Ygk0UlxUeXY1FDFNNpUxmDQI4qfPG26x&export=download&confirm=t",
       "localizedDescription": "Spotify 9.2.0 Moe Eevee Revived by jaydenjcp Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Spotify_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Spotify_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Spotify Tweaked",
@@ -492067,7 +492158,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1N2d_mIRF8aQoWSkLLQFRKnB_8VZ9__Uo&export=download&confirm=t",
       "localizedDescription": "Stik Debug 2.2.2 is a non-App-Store debug release on Moe's App Hub with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/StikDebug_1758407170.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/StikDebug_1758407170.webp?v=1794652566.0"
     },
     {
       "name": "StikDebug",
@@ -494293,6 +494384,17 @@
       "size": 148971150
     },
     {
+      "name": "Stndrd",
+      "bundleIdentifier": "uni.cbum",
+      "developerName": "",
+      "version": "4.1.65",
+      "versionDate": "2026-11-15",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Stndrd_4.1.65_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "size": 149694198
+    },
+    {
       "name": "Stndrd Pro",
       "bundleIdentifier": "com.shrubhub.moes.a1758660713.a5514",
       "developerName": "Moe's App Hub",
@@ -494300,7 +494402,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1AtgWFHJtydIysBl836Q9rQOn-pZANjLo&export=download&confirm=t",
       "localizedDescription": "Stndrd Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Stndrd_Pro_1758661122.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Stndrd_Pro_1758661122.webp?v=1794652566.0"
     },
     {
       "name": "stoic",
@@ -496010,7 +496112,7 @@
       "versionDate": "2026-11-03",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1J81Hw_aV-F8AL9V2rtVlvQGFQJ744UBS&export=download&confirm=t",
       "localizedDescription": "Stremio 2.1.1 Beta 25 Latest possible ipa from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Stremio_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Stremio_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Stremio-1.3.6",
@@ -501496,7 +501598,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1v_kPAwGuE-UTbmNw0Yxt2-Vf59z6ZqzB&export=download&confirm=t",
       "localizedDescription": "superagent from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/superagent_1758662904.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/superagent_1758662904.webp?v=1794652566.0"
     },
     {
       "name": "Superbrothers: S&S EP Micro",
@@ -503394,7 +503496,7 @@
       "versionDate": "2025-11-28",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1_RpFqQUF2mRAGaasDg2UG808s95jfAVw&export=download&confirm=t",
       "localizedDescription": "Swiftgram Crack Files 1.1-7 sourced from (https://jailrepo.initnil.com/) is an iOS release entry for Swiftgram: Telegram mod client on Moe's App Hub, with version, file size, icon,...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Swiftgram_Crack_Files_sourced_from__1763748503.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Swiftgram_Crack_Files_sourced_from__1763748503.webp?v=1794652566.0"
     },
     {
       "name": "Swiftgram Pro 12.9.3 TGExtra and PREMIUM Swiftgram alt patch",
@@ -503404,7 +503506,7 @@
       "versionDate": "2026-09-28",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1vffoLFPsq9-eHrsILQHTskgRqkklW6JI&export=download&confirm=t",
       "localizedDescription": "hold down ask a question to open tgmenu",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Swiftgram_12.1.1_TG_Extra_1.5_Liquid_Glass_Beta_1760679599.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Swiftgram_12.1.1_TG_Extra_1.5_Liquid_Glass_Beta_1760679599.webp?v=1794652566.0"
     },
     {
       "name": "Swiftgram Pro 13.0 TG Extra 1.7.7 Cracked Latest",
@@ -503414,7 +503516,7 @@
       "versionDate": "2026-10-13",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1rY4-c1v9TOvczakZ4GBi8EoB4pCTuGlc&export=download&confirm=t",
       "localizedDescription": "hold down \"ask a question\" under settings",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Swiftgram_12.3_TG_Extra_1.7.1_Cracked_Latest_Alternate_patch_1768418940.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Swiftgram_12.3_TG_Extra_1.7.1_Cracked_Latest_Alternate_patch_1768418940.webp?v=1794652566.0"
     },
     {
       "name": "Swiftgram Pro 13.0 With Premium and Lead 2.0 Moe",
@@ -503424,7 +503526,7 @@
       "versionDate": "2026-11-03",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1-yke4pxrTb4hrCea1pnRTGaKEUkfgQoJ&export=download&confirm=t",
       "localizedDescription": "Hold Down ask a question under swiftgram settings yes includes SG Pro!",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Swiftgram_Pro_12.6.2_With_Lead_1.3.4_Moe_1778444482801089470.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Swiftgram_Pro_12.6.2_With_Lead_1.3.4_Moe_1778444482801089470.webp?v=1794652566.0"
     },
     {
       "name": "Swiftgram v11.2",
@@ -506219,7 +506321,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1tFKdth_pTe6wG2LyYKsbXBIo5Fn4jiiD&export=download&confirm=t",
       "localizedDescription": "Syfer from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Syfer_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Syfer_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "SymbiosSettings",
@@ -513694,7 +513796,7 @@
       "versionDate": "2026-10-22",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Zc0wD9pqJX6gkYcWiVFlwnWlM7UwiRPU&export=download&confirm=t",
       "localizedDescription": "Textastic 10.9.10 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Textastic_1757227391.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Textastic_1757227391.webp?v=1794652566.0"
     },
     {
       "name": "Textastic Code Editor",
@@ -513801,7 +513903,7 @@
       "versionDate": "2025-09-22",
       "downloadURL": "https://drive.usercontent.google.com/download?id=12Mgs7jBpqVnIYscgSB61OgPL_qUUl6Nt&export=download&confirm=t",
       "localizedDescription": "TFLinks is a non-App-Store iOS utility release on Moe's App Hub with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TFLinks_1758516385.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TFLinks_1758516385.webp?v=1794652566.0"
     },
     {
       "name": "The Architect",
@@ -515862,7 +515964,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=15n0-wMjsI7_N-8ag1r9EGIFXTSrRX-VM&export=download&confirm=t",
       "localizedDescription": "Theostipsv1.0 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Theostipsv1.0_1756497003.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Theostipsv1.0_1756497003.webp?v=1794652566.0"
     },
     {
       "name": "ThePiano",
@@ -520808,7 +520910,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1kaZZk9ECrlp3LTgVqHobgLFFqhiD2mTk&export=download&confirm=t",
       "localizedDescription": "Threads 455.0 Moe ThreadsPulse 1.24.3 New Tweak from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Threads_455.0_Moe_ThreadsPulse_1.24.3_New_Tweak_1794433252080673181.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Threads_455.0_Moe_ThreadsPulse_1.24.3_New_Tweak_1794433252080673181.webp?v=1794652566.0"
     },
     {
       "name": "Threads Saver 455.0.0 Pro",
@@ -520818,7 +520920,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1vo-RYIJfW_lpCUl7HCLWMX_NJMhVLcwx&export=download&confirm=t",
       "localizedDescription": "Threads Saver 455.0.0 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Threads_1758661682.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Threads_1758661682.webp?v=1794652566.0"
     },
     {
       "name": "Three kingdoms Allstar : Idle RPG",
@@ -520929,7 +521031,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1LmJt8_XIKoNsJwHp4-YXzDqeALYYFP4A&export=download&confirm=t",
       "localizedDescription": "Thunder Vpn 10 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Thunder_Vpn_10_1756496852.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Thunder_Vpn_10_1756496852.webp?v=1794652566.0"
     },
     {
       "name": "ThunderCatch",
@@ -525757,7 +525859,7 @@
       "versionDate": "2026-01-27",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1uIjF1yQ0sZDv7F_AwBlGnS6t9uMAulJW&export=download&confirm=t",
       "localizedDescription": "Do not sign with ESign. Open Moe Multi by holding the Profile button or name, tapping the battery icon in Profile, or us...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.3.0_MoeMulti_3.3.0_with_working_RX_flags_1764534729.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.3.0_MoeMulti_3.3.0_with_working_RX_flags_1764534729.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 41.3.0 RX 1.5.4 Last Tiktok Version with Comment Flags Working",
@@ -525767,7 +525869,7 @@
       "versionDate": "2025-11-30",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1KTHmQVF77phDpXaLXP4qNa7u_qBSQOgj&export=download&confirm=t",
       "localizedDescription": "Tiktok 41.3.0 RX 1.5.4 Last Tiktok Version with Comment Flags Working is an iOS release entry for TikTok - Videos, Shop & LIVE on Moe's App Hub, with version, file size, icon, and ...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.3.0_RX_1.4.5_Last_Tiktok_Version_with_Comment_Flags_Working_1762895401.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.3.0_RX_1.4.5_Last_Tiktok_Version_with_Comment_Flags_Working_1762895401.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 43.8.0 EOS Beta 10 Moe",
@@ -525777,7 +525879,7 @@
       "versionDate": "2026-02-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1QAoXJ4UMqUIK9O9wV5p-_nimNDFvsXJm&export=download&confirm=t",
       "localizedDescription": "Tiktok 43.8.0 EOS Beta 10 Moe is an iOS release entry for TikTok - Videos, Shop & LIVE on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_EOS_Beta10_Moe_Patched_1757106678.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_EOS_Beta10_Moe_Patched_1757106678.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 43.9.0 DL 2.1.4 Moe",
@@ -525787,7 +525889,7 @@
       "versionDate": "2026-02-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1acmGCxrNask-Lbj2IsHhjspgkqhZ_-59&export=download&confirm=t",
       "localizedDescription": "Tiktok 43.9.0 DL 2.1.4 Moe is an iOS release entry for TikTok - Videos, Shop & LIVE on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_DL2.1.3_Moe_Patched_1757106738.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_DL2.1.3_Moe_Patched_1757106738.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 47.7.0 AC 2.1 Moe",
@@ -525797,7 +525899,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1GdAc-RFcm6VZb-nXjKiniSSxNnAWvZeR&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_AC2.1_Moe_Patched_1757106556.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_AC2.1_Moe_Patched_1757106556.webp?v=1794652566.0"
     },
     {
       "name": "TikTok 47.7.0 DL 2.1.4 Cracked",
@@ -525807,7 +525909,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Ke7QKWJNq7GmH78hmlCpnNa1YFHNiNHA&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_43.1.0_DL_2.1.4_Cracked_1767499171.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_43.1.0_DL_2.1.4_Cracked_1767499171.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 47.7.0 EOS 1.0 B10 Cracked",
@@ -525817,7 +525919,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=10fO9tCJpEJksUQi9VA0yTrYbERHNvMZE&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_43.4.0_EOS1.0B10_Cracked_1768239458.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_43.4.0_EOS1.0B10_Cracked_1768239458.webp?v=1794652566.0"
     },
     {
       "name": "TikTok 47.7.0 LRD 3.12 Cracked",
@@ -525827,7 +525929,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1RjKvTHTrqaTaabNsPSimk4XeJa3JlP9F&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_43.1.0_LRD_3.12_Cracked_1767499111.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_43.1.0_LRD_3.12_Cracked_1767499111.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 47.7.0 LRD 3.5 Moe",
@@ -525837,7 +525939,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1OIMiO7YnRH2LHdbll1EEZCW7JqUGwM5M&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_LRD_3.10_Moe_Patched_1757106632.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_LRD_3.10_Moe_Patched_1757106632.webp?v=1794652566.0"
     },
     {
       "name": "TikTok 47.7.0 Moe ASJ 1.4",
@@ -525847,7 +525949,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=154yOtNnXSSjFQKt730j_FY8-jtFltBK4&export=download&confirm=t",
       "localizedDescription": "TikTok 47.7.0 Moe ASJ 1.4 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_46.8.0_Moe_ASJ_1.2_1789344467536691967.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_46.8.0_Moe_ASJ_1.2_1789344467536691967.webp?v=1794652566.0"
     },
     {
       "name": "TikTok 47.7.0 Moe BHTTPP 1.9.3 Moe",
@@ -525857,7 +525959,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1PH3479ROz11xL8tY6sJSr6lSSkQJFE3Z&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_BHTTP1.9.3_Moe_Patched_1757106780.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_BHTTP1.9.3_Moe_Patched_1757106780.webp?v=1794652566.0"
     },
     {
       "name": "TikTok 47.7.0 Moe GTok 2.5",
@@ -525867,7 +525969,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1OaGMIKyKs7C9TFzsZxovsCVBzLJN46p4&export=download&confirm=t",
       "localizedDescription": "TikTok 47.7.0 Moe GTok 2.5 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_46.8.0_Moe_GTok_1.9_1789344467536401046.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_46.8.0_Moe_GTok_1.9_1789344467536401046.webp?v=1794652566.0"
     },
     {
       "name": "TikTok 47.7.0 Moe InfiniTok 0.2",
@@ -525877,7 +525979,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1KChEz4cL-9GH4q6AM04Fy7wVJXqp5p9i&export=download&confirm=t",
       "localizedDescription": "TikTok 47.7.0 Moe InfiniTok 0.2 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_46.5.0_Moe_InfiniTok_0.2_1787343626273291935.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_46.5.0_Moe_InfiniTok_0.2_1787343626273291935.webp?v=1794652566.0"
     },
     {
       "name": "TikTok 47.7.0 Moe RuskTok 2.0",
@@ -525887,7 +525989,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1WtcQXtpybz1OY8ZTnB8LDn6YA82eSiBj&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_46.0.0_Moe_RuskTok_1.0_1784003426117604207.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TikTok_46.0.0_Moe_RuskTok_1.0_1784003426117604207.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 47.7.0 MoeMulti 10.4",
@@ -525897,7 +525999,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1IRpktYUEf3SMJ2czs1sRx5wUeuhaYZGn&export=download&confirm=t",
       "localizedDescription": "Do not sign with ESign. Hold the Profile button or use a three-finger gesture to open Moe Multi. For login help, see the...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_42.9.0_Multi_3.3.0_Moe_Patched_V2_1765813755.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_42.9.0_Multi_3.3.0_Moe_Patched_V2_1765813755.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 47.7.0 RX 2.0.4",
@@ -525907,7 +526009,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1GY7YIXlsdAZejpX-FWu57RmUFdj4GYtK&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/TikTok_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/TikTok_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 47.7.0 SY 2.1 Moe",
@@ -525917,7 +526019,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1tKjQrX4IlisDURSEL47jbZZfAjDxpZUi&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.8.0_SY_1.10_Moe_1759517260.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.8.0_SY_1.10_Moe_1759517260.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 47.7.0 TTKillerPlus 2.3.7",
@@ -525927,7 +526029,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1-G01CUKpUkTUYryDTQKahtHs-3m4dBdp&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_44.5.0_TTKillerPlus_1.0_initial_release_1775438885894735138.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_44.5.0_TTKillerPlus_1.0_initial_release_1775438885894735138.webp?v=1794652566.0"
     },
     {
       "name": "Tiktok 47.7.0 VibeTok 1.77 Moe",
@@ -525937,7 +526039,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1cpBWNH4s_Bv5XvK_g4ntr1b3nJG8jrvz&export=download&confirm=t",
       "localizedDescription": "If you dont know how to login read my blog page",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_Vibetok1.2_Moe_Patched_1757106595.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiktok_41.5.0_Vibetok1.2_Moe_Patched_1757106595.webp?v=1794652566.0"
     },
     {
       "name": "TikTok BH++",
@@ -528246,7 +528348,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=12_He48FGAHmL82u3W27uEiYY9mvPrDpe&export=download&confirm=t",
       "localizedDescription": "Tiny Decisions from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiny_Decisions_1758660927.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tiny_Decisions_1758660927.webp?v=1794652566.0"
     },
     {
       "name": "Tiny Heroes: Idle Boss Fight",
@@ -529435,9 +529537,9 @@
       "name": "Tolkara",
       "bundleIdentifier": "local.tolkara.app",
       "developerName": "tolkara",
-      "version": "0.2.1",
-      "versionDate": "2026-10-11T18:13:36Z",
-      "downloadURL": "https://github.com/tolkara/tolkara/releases/download/v0.2.1/Tolkara-unsigned.ipa",
+      "version": "0.3.0",
+      "versionDate": "2026-11-15T12:41:10Z",
+      "downloadURL": "https://github.com/tolkara/tolkara/releases/download/v0.3.0/Tolkara-unsigned.ipa",
       "localizedDescription": "Tolkara:\n\nTolkara runs unmodified arm64 macOS applications on an iPad, with experimental iPhone support. It loads the original executable as data, executes its instructions natively on the device's Apple silicon, and translates the macOS API calls it makes (AppKit, Metal, CoreAudio, Carbon, Security, …) into their iOS/iPadOS equivalents.\n\nIt follows the model of Wine and Valve's Proton: the program is not ported or patched, and its executable is never modified or re-signed. Only the operating-system calls underneath it are translated. The application's own code, logic, assets and network protocol are left exactly as the vendor shipped them.\n\nTolkara is a do-it-yourself developer project. You build it yourself.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/local.tolkara.app.png",
       "tintColor": "#4d6fbe"
@@ -530621,7 +530723,7 @@
       "versionDate": "2026-11-13",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1O-PR8zIQu16hgWt58g2sU-Td-yze2iyv&export=download&confirm=t",
       "localizedDescription": "TOR Browser 4.0.16 Moe Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tor_1756750985.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Tor_1756750985.webp?v=1794652566.0"
     },
     {
       "name": "TOR Browser: Onion TOR VPN",
@@ -542659,7 +542761,7 @@
       "versionDate": "2025-09-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=17M4eEVGdf_UR-mV_tuxyw2grKNB97StG&export=download&confirm=t",
       "localizedDescription": "TuneInradio 40.1.0 pro is an iOS release entry for TuneIn Radio: Music & Sports on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TuneInradio_40.1.0_pro__1758833360.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/TuneInradio_40.1.0_pro__1758833360.webp?v=1794652566.0"
     },
     {
       "name": "Tuner T1 Pro",
@@ -544009,7 +544111,7 @@
       "versionDate": "2026-01-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1bvCetmwaSFEN5rzB8cSkACuOlSSt5OEe&export=download&confirm=t",
       "localizedDescription": "hold down on ask turrit under settings to open tgmenu",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Turrit_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Turrit_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Tutorials for iOS Programming",
@@ -544621,7 +544723,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1h34UxeYnGT6-LK8OkkAmv_9ACbHa791I&export=download&confirm=t",
       "localizedDescription": "Twitch is an iOS release entry for Twitch: Live Streaming on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Twitch_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Twitch_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Twitch",
@@ -545004,7 +545106,7 @@
       "versionDate": "2026-04-17",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1NHLDkaL4eBURvp3RN2df7TWXk74qfdUZ&export=download&confirm=t",
       "localizedDescription": "hold down with 3 fingers for 4 seconds to open the mod menu",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_27.7_Adfree_Moe_Zerobeef_tweak_1768431327.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_27.7_Adfree_Moe_Zerobeef_tweak_1768431327.webp?v=1794652566.0"
     },
     {
       "name": "Twitch 29.0 Tweach 2.3.1",
@@ -545014,7 +545116,7 @@
       "versionDate": "2026-04-17",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1mdqTh7fPdw8FQhZKiIQjPBG-h_lz4sJY&export=download&confirm=t",
       "localizedDescription": "Twitch 29.0 Tweach 2.3.1 is an iOS release entry for Twitch: Live Streaming on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_29.0_Tweach_2.3.1_1776407802257220280.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_29.0_Tweach_2.3.1_1776407802257220280.webp?v=1794652566.0"
     },
     {
       "name": "Twitch 32.0 Moe TwitchControl 0.0.6 read description",
@@ -545024,7 +545126,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1wpxlqdsy8zmrj9CGF_qdXkXDvcMk-AlU&export=download&confirm=t",
       "localizedDescription": "for adblock to work, open mod menu, and import the file you download from https://tinyurl.com/3n9sz6mv into the mods set...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_29.1_Moe_TwitchControl_0.0.2_1776873809811974185.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_29.1_Moe_TwitchControl_0.0.2_1776873809811974185.webp?v=1794652566.0"
     },
     {
       "name": "Twitch 32.0 Tweach 2.4.1",
@@ -545034,7 +545136,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1GWohIoWiGnwKrAXOzqRJhcY61-Ib-dl-&export=download&confirm=t",
       "localizedDescription": "Twitch 32.0 Tweach 2.4.1 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_29.1_Moe_Tweach_2.3.1_1776873809811834224.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_29.1_Moe_Tweach_2.3.1_1776873809811834224.webp?v=1794652566.0"
     },
     {
       "name": "Twitch Streamside",
@@ -545055,7 +545157,7 @@
       "versionDate": "2026-11-13",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14QJ4KrnDG10OVXavxVW1Oy26IIb9850Z&export=download&confirm=t",
       "localizedDescription": "Twitch Unblock 1.7.1 new twitch adblock client Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_Unblock_new_twitch_adblock_clientMoe_1791168265896180706.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Twitch_Unblock_new_twitch_adblock_clientMoe_1791168265896180706.webp?v=1794652566.0"
     },
     {
       "name": "Twitch++",
@@ -547996,7 +548098,7 @@
       "versionDate": "2026-08-10",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1R7v3D3HdxnnYpR2f4GI9s1cgMNI8KwRk&export=download&confirm=t",
       "localizedDescription": "UHF IPTV 1.100.0 Adfree Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/UHF_1.79.1_Adfree_Moe_Patched_1764701364.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/UHF_1.79.1_Adfree_Moe_Patched_1764701364.webp?v=1794652566.0"
     },
     {
       "name": "UiharuX Free - TrollStore",
@@ -552682,7 +552784,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1oyHl1nFWg7-lt578fATUzLKQc0n8rqpU&export=download&confirm=t",
       "localizedDescription": "Unzip5.13 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Unzip_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Unzip_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Up Ahead",
@@ -557550,8 +557652,8 @@
       "bundleIdentifier": "com.chrissotraidis.vaultpad",
       "developerName": "chrissotraidis",
       "version": "0.1.0",
-      "versionDate": "2026-10-30T03:08:35Z",
-      "downloadURL": "https://github.com/chrissotraidis/vaultpad/releases/download/v0.1.0-preview.2/VaultPad-0.1.0-preview.2-unsigned.ipa",
+      "versionDate": "2026-11-15T10:49:12Z",
+      "downloadURL": "https://github.com/chrissotraidis/vaultpad/releases/download/v0.1.0-preview.3/VaultPad-0.1.0-preview.3-unsigned.ipa",
       "localizedDescription": "VaultPad does not include Fallout 2 or any Bethesda, ZeniMax, or Microsoft assets. You need data from a legally purchased copy. Import happens locally; VaultPad does not download or upload your game files.\n\nAI disclosure: VaultPad uses substantial AI assistance for code, tests, documentation, debugging and maintenance. Some support replies and maintenance tasks are automated. There is no audited percentage of AI-generated code. Build, test and device records describe what was checked. This disclosure concerns VaultPad's workflow, not the authorship of its upstream projects.\n\nBuilt for fingers. Faithful to Fallout 2.:\n\nFallout 2 Community Edition makes the game portable. VaultPad makes it playable by touch. Instead of asking every finger movement to impersonate a mouse, VaultPad turns the actions you need into clear, persistent choices.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.vaultpad.png",
       "tintColor": "#926e3a",
@@ -559492,7 +559594,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=18Fg-b8QfkCr0pijw5Dj9c21H4P8GhS4O&export=download&confirm=t",
       "localizedDescription": "IPA uploaded via Smart Upload: VEED Captions",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/VEED_Captions_1758662048.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/VEED_Captions_1758662048.webp?v=1794652566.0"
     },
     {
       "name": "VEED Captions",
@@ -561227,9 +561329,9 @@
       "name": "VeneraX",
       "bundleIdentifier": "io.github.kyosee.venera",
       "developerName": "Kyosee",
-      "version": "2.3.12",
-      "versionDate": "2026-11-08T08:15:56Z",
-      "downloadURL": "https://github.com/Kyosee/VeneraX/releases/download/v2.3.12/VeneraX-ios-2.3.12%2B257.ipa",
+      "version": "3.0.0",
+      "versionDate": "2026-11-15T10:37:41Z",
+      "downloadURL": "https://github.com/Kyosee/VeneraX/releases/download/v3.0.0/VeneraX-ios-3.0.0%2B258.ipa",
       "localizedDescription": "VeneraX is a free, open-source comic reader for multiple platforms, maintained and enhanced from Venera.\n\nOriginal Project: This project is forked from venera-app/venera.\n\nRead the VeneraX User Agreement and Disclaimer before use for information about the Software’s features, third-party service risks and data processing. This Notice adds no license restrictions beyond the GNU GPLv3; any separate consent to data processing required by law must still be obtained.\n\nDownload & Installation:\n\nChoose a package for your operating system and processor architecture, and read the installation notes for that release.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.kyosee.venera.png",
       "tintColor": "#8567bb"
@@ -562263,7 +562365,7 @@
       "versionDate": "2025-10-07",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1kE0vBa_KRV6ajGdPr0tsSz8M7wR8kNPN&export=download&confirm=t",
       "localizedDescription": "Video Lite 6.2 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Video_Lite_1759872554.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Video_Lite_1759872554.webp?v=1794652566.0"
     },
     {
       "name": "Video Lite No Ads – Video Lite++",
@@ -563945,7 +564047,7 @@
       "versionDate": "2026-02-12",
       "downloadURL": "https://drive.usercontent.google.com/download?id=17zl2boMSiUUS43QK-IysZyC5Sp31ulDp&export=download&confirm=t",
       "localizedDescription": "Videoleap 2.81 Pro is an iOS release entry for Videoleap: AI Video Editor on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Videoleap_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Videoleap_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Videoleap Premium – Videoleap++",
@@ -567713,7 +567815,7 @@
       "versionDate": "2025-10-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1wcUyEbf7ji7os9Sd5Jr-y55BbqK5UHkS&export=download&confirm=t",
       "localizedDescription": "Vidi 1.8.2 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Vidi_1.8.2_Pro_Moe_1759776528.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Vidi_1.8.2_Pro_Moe_1759776528.webp?v=1794652566.0"
     },
     {
       "name": "VidList",
@@ -568885,7 +568987,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1b2C3kVupvbexAAlTOniYb_JiF2Ep8m8O&export=download&confirm=t",
       "localizedDescription": "Vinegar from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Vinegar_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Vinegar_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "Vinegar_2.4.2",
@@ -573546,6 +573648,24 @@
       "screenshotURLs": []
     },
     {
+      "name": "VortX",
+      "bundleIdentifier": "com.stremiox.app.native",
+      "developerName": "VortXTV",
+      "version": "0.5.6",
+      "versionDate": "2026-11-15T10:58:14Z",
+      "downloadURL": "https://github.com/VortXTV/VortX/releases/download/v0.5.6-beta.14/VortX-iOS-v0.5.6-beta.14-ci.ipa",
+      "localizedDescription": "VortX:\n\nVortX is a native media app for Apple TV, iPhone, iPad and Mac, with an Android phone, tablet and TV app alongside them. Browse your add-ons and personal media, pick a source and keep your profiles and progress together with a VortX account. Apple uses SwiftUI with native playback engines, not a web wrapper.\n\nCurrent release:\n\nRemoving the old comparison engine and Node runtime does not remove Stremio-compatible add-ons, optional Stremio account/library import or Cinemeta. Android remains a technical preview. The full Swift 6 migration, wider performance work, all dependency upgrades and remaining reported bugs are not finished. See the changelog for changes and the roadmap for what remains.",
+      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stremiox.app.native.png",
+      "tintColor": "#9f6013",
+      "screenshotURLs": [
+        "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/home.png",
+        "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/detail.png",
+        "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/streams.png",
+        "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/player.png",
+        "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/library.png"
+      ]
+    },
+    {
       "name": "VortX (Apple TV)",
       "bundleIdentifier": "com.stremiox.tv",
       "developerName": "Mamaclapper",
@@ -573619,7 +573739,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1QZST5yjHajzjvP37Cqz2u-XkAOQyAHcN&export=download&confirm=t",
       "localizedDescription": "Vpn from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Vpn_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Vpn_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "VPN Satoshi",
@@ -573641,7 +573761,7 @@
       "versionDate": "2025-09-20",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1-XMOkenrYwAA3C4IpDl9NwIVui9H9BsQ&export=download&confirm=t",
       "localizedDescription": "Vpn Superx from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/Vpn%20Superx_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/Vpn%20Superx_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "VPN_FAST",
@@ -573713,7 +573833,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1qyw8nvqWwoblBqhChZoCjKWanhXGK6Vx&export=download&confirm=t",
       "localizedDescription": "Vpnphantom from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Vpnphantom_1756496747.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Vpnphantom_1756496747.webp?v=1794652566.0"
     },
     {
       "name": "VPNPremium",
@@ -575619,7 +575739,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1RGwKu9QgVegsOlpiYOftNU_wtfC2cGiZ&export=download&confirm=t",
       "localizedDescription": "VSCO 441.0.1 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/VSCO_1758660331.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/VSCO_1758660331.webp?v=1794652566.0"
     },
     {
       "name": "VSCOLion",
@@ -576911,7 +577031,7 @@
       "versionDate": "2026-10-16",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1kgxaEK5Zg2V9NfskYmpNbK88PrLa0w58&export=download&confirm=t",
       "localizedDescription": "Wallcraft 3.42 Pro Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Wallcraft_1758656993.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Wallcraft_1758656993.webp?v=1794652566.0"
     },
     {
       "name": "Wallcraft Pro – Wallcraft++",
@@ -577508,7 +577628,7 @@
       "versionDate": "2026-10-13",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1msTehB8nHubtDKpcr7oMEO0sTrNClmHT&export=download&confirm=t",
       "localizedDescription": "Walli 2.0.21 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Walli_1756964761.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Walli_1756964761.webp?v=1794652566.0"
     },
     {
       "name": "Walli Cool WallpapersHD",
@@ -578216,7 +578336,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1a33quYbBeN4muJQ6N2DABn2bkod50KRz&export=download&confirm=t",
       "localizedDescription": "Wallpapers Central Pro is an iOS release entry for Wallpapers Central on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Wallpapers_Central_1758660842.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Wallpapers_Central_1758660842.webp?v=1794652566.0"
     },
     {
       "name": "WallpapersCentral",
@@ -581467,9 +581587,9 @@
       "name": "Waypage",
       "bundleIdentifier": "io.github.danielnoam.waypage",
       "developerName": "danielnoam",
-      "version": "1.61.0",
-      "versionDate": "2026-11-14T17:56:34Z",
-      "downloadURL": "https://github.com/danielnoam/waypage/releases/download/app-v1.61.0/Waypage.ipa",
+      "version": "1.62.0",
+      "versionDate": "2026-11-15T16:55:33Z",
+      "downloadURL": "https://github.com/danielnoam/waypage/releases/download/app-v1.62.0/Waypage.ipa",
       "localizedDescription": "Waypage:\n\nSave a web page to your phone and read it with no connection: on a plane, in a tunnel, anywhere. The text is kept whole, pictures keep a small preview with a link to the full size, and videos keep a thumbnail that plays when you're back online. Every clip links back to the original.\n\nPlain HTML, CSS and JS with no build step and no dependencies. The same files run in a browser (the web copy on GitHub Pages) and, wrapped by Capacitor, as the Android and iOS apps.\n\nEach section below shows the computer (left) and the phone (right).\n\nLibrary:\n\n• Continue reading at the top, then Collections, then Clips.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.danielnoam.waypage.png",
       "tintColor": "#4376a5",
@@ -584357,7 +584477,7 @@
       "versionDate": "2026-10-27",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1J_LqTC_qFQIYlyO1cDhlUERysGC07OKc&export=download&confirm=t",
       "localizedDescription": "Webssh 33.2 Pro from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/WebSSH_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/WebSSH_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "WebSSH Monitor",
@@ -588695,7 +588815,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1FhQcBBeiFFncrl2U6oiSZGa-rihLW69Z&export=download&confirm=t",
       "localizedDescription": "Widgetsmith pro is an iOS release entry for Widgetsmith on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Widgetsmith_1758660623.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Widgetsmith_1758660623.webp?v=1794652566.0"
     },
     {
       "name": "Widgy",
@@ -591127,7 +591247,7 @@
       "versionDate": "2025-09-23",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1ODeeQV2uXtCQSLEkt6RrmhL7lxCxlo_m&export=download&confirm=t",
       "localizedDescription": "Windy Pro is an iOS release entry for Windy.app — Wind, Tides, Radar on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Windy.app_1758662350.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Windy.app_1758662350.webp?v=1794652566.0"
     },
     {
       "name": "Windy.app",
@@ -595718,6 +595838,20 @@
       "size": 817121
     },
     {
+      "name": "WQ Files",
+      "bundleIdentifier": "cz.kolbi.wqfiles",
+      "developerName": "kolbicz",
+      "version": "0.9.9",
+      "versionDate": "2026-11-15T14:08:50Z",
+      "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.9/WQFiles.ipa",
+      "localizedDescription": "File browser, app data manager and cache cleaner for iOS 26 and 27, built on the worse_query sandbox technique. Browse other apps' containers, edit plists, hex and SQLite databases, and back up, restore or clear app data without a jailbreak or kernel exploit.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/icon.png",
+      "tintColor": "#1E8FC7",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/images/home.jpeg"
+      ]
+    },
+    {
       "name": "WQ Manager",
       "bundleIdentifier": "mumu.pduola.WQManager",
       "developerName": "WQManager",
@@ -595779,7 +595913,7 @@
       "versionDate": "2026-11-13",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1kyV5pgTiNJUlp-qUqw-SJYuu1moeUlj5&export=download&confirm=t",
       "localizedDescription": "WQFilesMoe cache cleaner 0.9.6 patched from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/WQFilesMoe_cache_cleaner_patched_1794433252080041977.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/WQFilesMoe_cache_cleaner_patched_1794433252080041977.webp?v=1794652566.0"
     },
     {
       "name": "WQGuard",
@@ -598698,7 +598832,7 @@
       "versionDate": "2026-03-19",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14JO1b7fYsMwnrNTZzdnx1wbRuLFGWlYG&export=download&confirm=t",
       "localizedDescription": "X 11.75 DL 2.1.6 Moe is an iOS release entry for X on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.22_DL_2.1.4_Moe_1758407754.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.22_DL_2.1.4_Moe_1758407754.webp?v=1794652566.0"
     },
     {
       "name": "X 11.89 Moe BH 4.4 Spoofed",
@@ -598708,7 +598842,7 @@
       "versionDate": "2026-05-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1VN30fFR0FqoO5XJ7a1WfASJfDP5r31L_&export=download&confirm=t",
       "localizedDescription": "X 11.89 Moe BH 4.4 Spoofed from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.22_BH_4.4_Moe_1758407722.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.22_BH_4.4_Moe_1758407722.webp?v=1794652566.0"
     },
     {
       "name": "X 11.89 Moe DL 2.1.6 Cracked Spoofed DL Cracked",
@@ -598718,7 +598852,7 @@
       "versionDate": "2026-05-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1k98MOWHWVP8nfeyk09EbkTuHsDgo8grI&export=download&confirm=t",
       "localizedDescription": "X 11.89 Moe DL 2.1.6 Cracked Spoofed DL Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.54_DL2.1.6_Cracked_1767639400.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.54_DL2.1.6_Cracked_1767639400.webp?v=1794652566.0"
     },
     {
       "name": "X 11.89 Moe TwiGalaxy 1.13 Spoofed",
@@ -598728,7 +598862,7 @@
       "versionDate": "2026-05-06",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1BirxYzp_8Y7AU5V9uxlqMYSmbYpAzcNZ&export=download&confirm=t",
       "localizedDescription": "X 11.89 Moe TwiGalaxy 1.13 Spoofed from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_1756969175.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_1756969175.webp?v=1794652566.0"
     },
     {
       "name": "X 12.43 Moe BH 4.4",
@@ -598738,7 +598872,7 @@
       "versionDate": "2026-11-12",
       "downloadURL": "https://drive.usercontent.google.com/download?id=12kgRY4rrUNTAwM_dByMhOCuJ32Kg4Zga&export=download&confirm=t",
       "localizedDescription": "X 12.43 Moe BH 4.4 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.86_Moe_BH_4.4_NotSpoofed_1777320240649328012.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.86_Moe_BH_4.4_NotSpoofed_1777320240649328012.webp?v=1794652566.0"
     },
     {
       "name": "X 12.43 Moe DL 2.1.6 Cracked",
@@ -598748,7 +598882,7 @@
       "versionDate": "2026-11-12",
       "downloadURL": "https://drive.usercontent.google.com/download?id=186Z93ZVLyZ5308qySnMajGsoFvxX8RSt&export=download&confirm=t",
       "localizedDescription": "X 12.43 Moe DL 2.1.6 Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.86_Moe_DL_2.1.6_Cracked_NotSpoofed_1777320240649596853.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.86_Moe_DL_2.1.6_Cracked_NotSpoofed_1777320240649596853.webp?v=1794652566.0"
     },
     {
       "name": "X 12.43 Moe Multi 8.7 Not Themed",
@@ -598758,7 +598892,7 @@
       "versionDate": "2026-11-14",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1nQZKiNdCIfgZ868ek52rgDSHV-HjlFss&export=download&confirm=t",
       "localizedDescription": "Do not sign with ESign. Use a three-finger hold to open Moe Multi settings. enable moes login fix in moemulti menu!",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_12.8_Moe_Multi_7.4_Normal_Liquid_Glass_1784080973683933008.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_12.8_Moe_Multi_7.4_Normal_Liquid_Glass_1784080973683933008.webp?v=1794652566.0"
     },
     {
       "name": "X 12.43 Moe Multi 8.7 Twitter Themed",
@@ -598768,7 +598902,7 @@
       "versionDate": "2026-11-14",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1j24VWQ9FMnZ46v2j2khoq9gfKX7bS9A5&export=download&confirm=t",
       "localizedDescription": "Do not sign with ESign. Use a three-finger hold to open Moe Multi settings. enable moes login fix in moemulti menu!",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.86_Moe_Multi_7.1_Twitter_Themed_NotSpoofed_1777320240649869255.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_11.86_Moe_Multi_7.1_Twitter_Themed_NotSpoofed_1777320240649869255.webp?v=1794652566.0"
     },
     {
       "name": "X 12.43 Moe NFB 7.3.1 by @orionblur",
@@ -598778,7 +598912,7 @@
       "versionDate": "2026-11-14",
       "downloadURL": "https://drive.usercontent.google.com/download?id=14eAzrIa89DXuyjUc7DDqswRGOOZX_s5I&export=download&confirm=t",
       "localizedDescription": "On Home tab Hold the Twitter logo on top to open settings! X 12.43 Moe NFB 7.3.1 by @orionblur https://github.com/NeoFre...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_12.43_Moe_NFB_7.3.1_by_orionblur_1794687277182869698.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_12.43_Moe_NFB_7.3.1_by_orionblur_1794687277182869698.webp?v=1794652566.0"
     },
     {
       "name": "X 12.43 Moe TwiGalaxy 1.14",
@@ -598788,7 +598922,7 @@
       "versionDate": "2026-11-12",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1y2tYuiPsuX3yMFrKCgFG5vzm6agvahRn&export=download&confirm=t",
       "localizedDescription": "X 12.43 Moe TwiGalaxy 1.14 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_12.8_Moe_TwiGalaxy_1.13_1784080973684412972.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/X_12.8_Moe_TwiGalaxy_1.13_1784080973684412972.webp?v=1794652566.0"
     },
     {
       "name": "X Login Fix IPA For X Read Instructions",
@@ -598798,7 +598932,7 @@
       "versionDate": "2026-01-05",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1ruaxPzZSUckwSJvDuJc2BGrID68ZDLDi&export=download&confirm=t",
       "localizedDescription": "Install this IPA, tap the circle, click enable login, then login like normal, after your logged in you can install a new...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Login_Fix_IPA_For_X_Read_Instructions_1765350182.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Login_Fix_IPA_For_X_Read_Instructions_1765350182.webp?v=1794652566.0"
     },
     {
       "name": "X NFB",
@@ -599260,9 +599394,9 @@
       "name": "XeniOS",
       "bundleIdentifier": "com.xenios.jp",
       "developerName": "xenios-jp",
-      "version": "2.3.2",
-      "versionDate": "2026-11-12T15:28:59Z",
-      "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.3.2-build-11934/xenios_ios_iphone_ipad.ipa",
+      "version": "2.3.3",
+      "versionDate": "2026-11-15T10:21:49Z",
+      "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.3.3-build-11940/xenios_ios_iphone_ipad.ipa",
       "localizedDescription": "XeniOS is an experimental Apple-focused fork of Xenia, currently based on Xenia Edge. It exists as a fast-moving place to develop, test, and ship iOS and macOS work while also carrying platform changes that benefit ARM64 Windows, Linux, and Android. Relevant improvements are intended to flow back upstream over time.\n\nCurrent Focus:\n\n• macOS (Apple Silicon).\n• macOS (Intel).\n\nCurrent published releases focus on iOS and macOS. For Windows or Linux builds, use Xenia Edge or Xenia Canary.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.xenios.jp.png",
       "tintColor": "#91733b"
@@ -599517,7 +599651,7 @@
       "versionDate": "2025-08-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=194rLPeS9KuWEA4J_Bo_P5QD3DZ7X-6lI&export=download&confirm=t",
       "localizedDescription": "Xs from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Xs_1756496702.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Xs_1756496702.webp?v=1794652566.0"
     },
     {
       "name": "xScan - Document Scanner App",
@@ -605842,7 +605976,7 @@
       "versionDate": "2025-11-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1rVZ7Y-DkRfZnUw5VQruFMvOQfEcDUeBe&export=download&confirm=t",
       "localizedDescription": "Youtube 20.10.4 YTPlus 5.2 Beta 4 Cyan Edition is an iOS release entry for YouTube on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.10.4_YTPlus5.2_Beta3_Cyan_Edition_%28super_stable%29_1758409530.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.10.4_YTPlus5.2_Beta3_Cyan_Edition_%28super_stable%29_1758409530.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.08.3 LRD 1.13 Moe",
@@ -605852,7 +605986,7 @@
       "versionDate": "2026-02-25",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1DqaJlMTm6sk6Wz3c6-remt0bafveHGRO&export=download&confirm=t",
       "localizedDescription": "Youtube 21.08.3 LRD 1.13 Moe is an iOS release entry for YouTube on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube20.37.3_Tube_LRD_1.11_Moe_1758409597.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube20.37.3_Tube_LRD_1.11_Moe_1758409597.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.24.3 Moe DLTube 2.16.3 Cracked",
@@ -605862,7 +605996,7 @@
       "versionDate": "2026-07-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1qCYBGPVD5mMnLjxpbyVAIPvgNseLhDAQ&export=download&confirm=t",
       "localizedDescription": "Youtube 21.24.3 Moe DLTube 2.16.3 Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.50.9_DL2.5_Cracked__1767418206.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.50.9_DL2.5_Cracked__1767418206.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.24.3 Moe YouMod 1.3.0",
@@ -605872,7 +606006,7 @@
       "versionDate": "2026-07-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1Ayw8-fQ8vz-9K2dr93iURmbBYDRuu1al&export=download&confirm=t",
       "localizedDescription": "YouTube 21.24.3 Moe YouMod 1.3.0 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.28.3_Moe_YouMod_1.3.0_1784003426117914849.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.28.3_Moe_YouMod_1.3.0_1784003426117914849.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.24.3 Moe YouPro 0.3",
@@ -605882,7 +606016,7 @@
       "versionDate": "2026-07-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1eJQwNMP54U63MhP9QJ4ZUmA6onqTPICd&export=download&confirm=t",
       "localizedDescription": "YouTube 21.24.3 Moe YouPro 0.3 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.28.3_Moe_YouPro_0.3_1784003426118058050.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.28.3_Moe_YouPro_0.3_1784003426118058050.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.26.4 DLTube 2.16.4 Moe Patched",
@@ -605892,7 +606026,7 @@
       "versionDate": "2026-06-29",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1-69ChuwMKZHoMwjkzOIw9MVmyzzxB7Ny&export=download&confirm=t",
       "localizedDescription": "Youtube 21.26.4 DLTube 2.16.4 Moe Patched from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.37.3_DLTube_2.16.1_Moe_Patched_1758409515.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.37.3_DLTube_2.16.1_Moe_Patched_1758409515.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.29.03 Moe LRD 1.13 Cracked",
@@ -605902,7 +606036,7 @@
       "versionDate": "2026-07-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1swKiNiwYwPbCQmjjzSXSFWUT1Wfj3Zvg&export=download&confirm=t",
       "localizedDescription": "YouTube 21.29.03 Moe LRD 1.13 Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_LRD_1.13_Cracked_1784606462411881682.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_LRD_1.13_Cracked_1784606462411881682.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.29.03 Moe Multi 10.16 Not as Stable as 21.24.3",
@@ -605912,7 +606046,7 @@
       "versionDate": "2026-07-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1RQ8gnGEQErSDApIVhYWk55NIXoK2PlvR&export=download&confirm=t",
       "localizedDescription": "Do not sign with ESign. Use a four-finger hold to open Moe Multi.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_Multi_10.16_Not_as_Stable_as_21.24.3_1784606462412056763.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_Multi_10.16_Not_as_Stable_as_21.24.3_1784606462412056763.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.29.03 Moe YTK 5.9.7.2 not stable use 21.24",
@@ -605922,7 +606056,7 @@
       "versionDate": "2026-07-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1zZuJuLXtqPyWeYoxgglC8K1HskBsm1nM&export=download&confirm=t",
       "localizedDescription": "YouTube 21.29.03 Moe YTK 5.9.7.2 not stable use 21.24 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YTK_5.9.7.2_not_stable_use_21.24_1784606462412528807.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YTK_5.9.7.2_not_stable_use_21.24_1784606462412528807.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.29.03 Moe YTPlus 5.2.1 Free",
@@ -605932,7 +606066,7 @@
       "versionDate": "2026-07-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1vprBg8J-iu-onWSvkbFsINw9kL6f3bRq&export=download&confirm=t",
       "localizedDescription": "YouTube 21.29.03 Moe YTPlus 5.2.1 Free from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YTPlus_5.2.1_Free_1784606462412642007.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YTPlus_5.2.1_Free_1784606462412642007.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.29.03 Moe YTPlus 5.2.2",
@@ -605942,7 +606076,7 @@
       "versionDate": "2026-07-21",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1LTL3eKC0YD8PNVzdHF6c981pWEPH_Uv_&export=download&confirm=t",
       "localizedDescription": "YouTube 21.29.03 Moe YTPlus 5.2.2 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YTPlus_5.2.2_1784606462412751888.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YTPlus_5.2.2_1784606462412751888.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.32.4 Moe Multi 10.17 Stable",
@@ -605952,7 +606086,7 @@
       "versionDate": "2026-08-09",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1GVqj8dsEXxAmvknmoNtWMxqqL8aeHveO&export=download&confirm=t",
       "localizedDescription": "Do not sign with ESign. Use a four-finger hold to open Moe Multi.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.37.3_Multi_2.7.5_Moe_Patched_1758409576.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.37.3_Multi_2.7.5_Moe_Patched_1758409576.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.41.5 Moe SY 2.0 Moe",
@@ -605962,7 +606096,7 @@
       "versionDate": "2026-10-13",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1MnX8Sl0Vwtixiv7vDDl-_NinAbQfFT-E&export=download&confirm=t",
       "localizedDescription": "Youtube 21.41.5 Moe SY 2.0 Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.39.6_SY_1.9_Moe__1759517364.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.39.6_SY_1.9_Moe__1759517364.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.45.4 Moe DLTube 2.16.3 Cracked",
@@ -605972,7 +606106,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1dlE6PA1hV63jXshWQCtGrrpzc8uUSSaS&export=download&confirm=t",
       "localizedDescription": "YouTube 21.45.4 Moe DLTube 2.16.3 Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_DLTube_2.16.3_Cracked_1784606462411703001.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_DLTube_2.16.3_Cracked_1784606462411703001.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.45.4 Moe LRD 1.13 Cracked",
@@ -605982,7 +606116,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1JeOpvsigJVGSUjC7zrVGh7TZwU8R061c&export=download&confirm=t",
       "localizedDescription": "Youtube 21.45.4 Moe LRD 1.13 Cracked from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.50.9_LRD1.12_Cracked_1767418254.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.50.9_LRD1.12_Cracked_1767418254.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.45.4 Moe Multi 11.1",
@@ -605992,7 +606126,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1qyneOQbwmRDtElYDe9mJo8bL0Ud6rAI4&export=download&confirm=t",
       "localizedDescription": "Dont sign with esign, To Open Multi settings, use the button under the youtube settings or you can also hold anywhere wi...",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.37.3_Multi_2.7.5_Moe_Patched_1758409576.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.37.3_Multi_2.7.5_Moe_Patched_1758409576.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.45.4 Moe SY 2.0",
@@ -606002,7 +606136,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1xpUTeggitTduxpJxKHbrd3198Ue9FZbU&export=download&confirm=t",
       "localizedDescription": "YouTube 21.45.4 Moe SY 2.0 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_SY_2.0_1784606462412180844.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_SY_2.0_1784606462412180844.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.45.4 Moe YouMod 2.0",
@@ -606012,7 +606146,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=172NfjSPx3_BA9sR0_o0CrzahhhIQs8ox&export=download&confirm=t",
       "localizedDescription": "YouTube 21.45.4 Moe YouMod 2.0 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YouMod_1.3.0_1784606462412299845.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YouMod_1.3.0_1784606462412299845.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.45.4 Moe YouPro 0.3",
@@ -606022,7 +606156,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1SMIaekHZgd2NjF3YIE8XiIQF-3e2gZVf&export=download&confirm=t",
       "localizedDescription": "YouTube 21.45.4 Moe YouPro 0.3 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YouPro_0.3_1784606462412414766.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.29.03_Moe_YouPro_0.3_1784606462412414766.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.45.4 Moe YTPlus 5.2.1 Free",
@@ -606032,7 +606166,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=19DsPn42qQxEEUkRRtzZcV8cavUHgynuQ&export=download&confirm=t",
       "localizedDescription": "Youtube 21.45.4 Moe YTPlus 5.2.1 Free from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_20.37.3_Beta_3_Cyan_Edition_1758409559.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_20.37.3_Beta_3_Cyan_Edition_1758409559.webp?v=1794652566.0"
     },
     {
       "name": "Youtube 21.45.4 Moe YTPlus 6.0 Paid",
@@ -606042,7 +606176,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1QZsgEABxtaMDiw0kUm8WFbv1lMETPq_4&export=download&confirm=t",
       "localizedDescription": "Youtube 21.45.4 Moe YTPlus 6.0 Paid from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_20.37.3_Beta_3_Cyan_Edition_1758409559.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_20.37.3_Beta_3_Cyan_Edition_1758409559.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.45.4 YTKACE 1.1.7 Moe",
@@ -606052,7 +606186,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1AGGTNxJLNypzP_NSnY3jUZoWORkhtMqL&export=download&confirm=t",
       "localizedDescription": "YouTube 21.45.4 YTKACE 1.1.7 Moe from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.31.3_YTKACE_0.80_Moe_1786032663726232874.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_21.31.3_YTKACE_0.80_Moe_1786032663726232874.webp?v=1794652566.0"
     },
     {
       "name": "YouTube 21.45.4 YTKillerPlus 6.8 Stable with Mods",
@@ -606062,7 +606196,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1_TLqLbTXy03LZH6OgBsJ6R_hGjpMKrjV&export=download&confirm=t",
       "localizedDescription": "YouTube 21.45.4 YTKillerPlus 6.8 Stable with Mods from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.37.3_YTKillerPlus_3.2.94_Patched_1758409583.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_20.37.3_YTKillerPlus_3.2.94_Patched_1758409583.webp?v=1794652566.0"
     },
     {
       "name": "YouTube IPAOMTK.COM",
@@ -606524,7 +606658,7 @@
       "versionDate": "2026-07-16",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1UGZU6LoUIK3yfxyNj_UGjfM8OLW4f0Pu&export=download&confirm=t",
       "localizedDescription": "YouTube Music 9.26.2 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_Music_9.26.2_1784173597847920916.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/YouTube_Music_9.26.2_1784173597847920916.webp?v=1794652566.0"
     },
     {
       "name": "Youtube Music 9.45.2 Ultimate Enhanced 2.4.1",
@@ -606534,7 +606668,7 @@
       "versionDate": "2026-11-11",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1DFJ_LbYYS29XBFQs_Aa2WqQ-DC0a-pBj&export=download&confirm=t",
       "localizedDescription": "Youtube Music 9.45.2 Ultimate Enhanced 2.4.1 from Moe's App Hub.",
-      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_Music_9.06_Ultimate_Enhanced_2.3.1__1770927442.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/uploads/icons/Youtube_Music_9.06_Ultimate_Enhanced_2.3.1__1770927442.webp?v=1794652566.0"
     },
     {
       "name": "YouTube Music Ultimate (iOS14+)",
@@ -611649,7 +611783,7 @@
       "versionDate": "2026-04-10",
       "downloadURL": "https://drive.usercontent.google.com/download?id=1UHCpfIpPNBH132ph5fxNLEj2cFOSYyRU&export=download&confirm=t",
       "localizedDescription": "YTmusic 9.14 Ultimate 2.4.1 is an iOS release entry for YouTube Music on Moe's App Hub, with version, file size, icon, and install details.",
-      "iconURL": "https://moe.mohkg1017.pro/static/icons/YouTube%20Music_xlarge.webp?v=1794652566.1794687838"
+      "iconURL": "https://moe.mohkg1017.pro/static/icons/YouTube%20Music_xlarge.webp?v=1794652566.0"
     },
     {
       "name": "YTMusicUltimate",
@@ -615021,7 +615155,7 @@
     "sourceCount": 108,
     "successfulSources": 106,
     "failedSources": 2,
-    "appCount": 46369,
+    "appCount": 46379,
     "failed": [
       {
         "url": "https://appstore.sidelix.vip/repos/altstore.php",
