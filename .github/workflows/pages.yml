@@ -1,4 +1,4 @@
-name: Deploy ESign feed to GitHub Pages
+name: Deploy unified repository feeds to GitHub Pages
 
 on:
   workflow_dispatch:
@@ -20,7 +20,6 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
@@ -28,13 +27,21 @@ jobs:
       - name: Prepare site
         run: |
           mkdir -p _site
-          cp esign.json _site/esign.json
-          printf '<html><body><a href="esign.json">esign.json</a></body></html>' > _site/index.html
+          cp esign.json repo.json _site/
+          cat > _site/index.html <<'HTML'
+          <!doctype html>
+          <html lang="en">
+          <head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ShrubLibrary Unified Repo</title></head>
+          <body>
+            <h1>ShrubLibrary Unified Repository</h1>
+            <p>Add either feed to a compatible sideloading app:</p>
+            <ul><li><a href="repo.json">repo.json</a> — unified source</li><li><a href="esign.json">esign.json</a> — ESign-compatible alias</li></ul>
+          </body></html>
+          HTML
 
       - uses: actions/upload-pages-artifact@v3
         with:
           path: "_site"
 
-      - name: Deploy
+      - uses: actions/deploy-pages@v4
         id: deployment
-        uses: actions/deploy-pages@v4
