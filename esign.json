@@ -1,7 +1,7 @@
 {
   "name": "ShrubLibrary — Unified Repository",
   "identifier": "com.qrioctgamer.shrublibrary.unified",
-  "subtitle": "Unified sideloading repository — 46,631 app builds",
+  "subtitle": "Unified sideloading repository — 46,646 app builds",
   "website": "https://shrublibrary.pages.dev/",
   "sourceURL": "https://qrioct-gamer.github.io/REPO/esign.json",
   "apps": [
@@ -22636,13 +22636,13 @@
       "name": "An1me Tracker",
       "bundleIdentifier": "io.github.thomasthanos.An1me-Tracker",
       "developerName": "thomasthanos",
-      "version": "8.4.0",
-      "versionDate": "2026-11-16T20:44:05Z",
-      "downloadURL": "https://github.com/thomasthanos/An1me-Tracker/releases/download/tracker-v8.4.0/An1meTracker-8.4.0.ipa",
+      "version": "8.4.1",
+      "versionDate": "2026-11-17T17:37:43Z",
+      "downloadURL": "https://github.com/thomasthanos/An1me-Tracker/releases/download/tracker-v8.4.1/An1meTracker-8.4.1.ipa",
       "localizedDescription": "Your next episode, already waiting.:\n\nTrack what you watch. Resume at your saved timestamp. Keep your anime library with you, on desktop and iPhone.\n\nBuilt around your watchlist:\n\nWatch → save → come back. Open an1me.to, play an episode and let the tracker save your progress. Continue Watching brings you back to your saved timestamp; episodes become watched at 85% playback.\n\n• Your collection: cover artwork, search, custom categories, episode counters and filler tags.\n• Your progress: saved playback positions, watch statistics, goals and JSON backup / restore.\n• Your player: integrated speed boost and AniSkip outro skipping.\n• Your devices: optional Firebase library and resume sync; desktop AniList integration and new-episode alerts.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.thomasthanos.An1me-Tracker.png",
       "tintColor": "#72b6d6",
-      "size": 8247296
+      "size": 8247731
     },
     {
       "name": "Analog Acoustic",
@@ -53808,13 +53808,13 @@
       "name": "Bird Chaser",
       "bundleIdentifier": "com.wyatthoutz.birding",
       "developerName": "WyattHoutz",
-      "version": "2.2.2",
-      "versionDate": "2026-11-16T03:11:53Z",
-      "downloadURL": "https://github.com/WyattHoutz/birding-app/releases/download/v2.2.2/BirdChaser-unsigned.ipa",
+      "version": "2.4.0",
+      "versionDate": "2026-11-17T15:16:23Z",
+      "downloadURL": "https://github.com/WyattHoutz/birding-app/releases/download/v2.4.0/BirdChaser-unsigned.ipa",
       "localizedDescription": "Bird Chaser (iOS):\n\nA self-contained iPhone app for personal eBird target tracking, built with Capacitor. It is a native app you sideload onto your own device — no App Store, no paid Apple Developer account.\n\n🐍 Looking for the Python pipeline, the backlog, or the release runbook? They live in the sibling repository birding (private).\n\nTwo repositories, and why:\n\nThe project is split in two, and you can land in either one. Here is the map.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.wyatthoutz.birding.png",
       "tintColor": "#7cadd2",
-      "size": 143484256
+      "size": 143489049
     },
     {
       "name": "Bitalyze",
@@ -63847,16 +63847,32 @@
       "size": 169303561
     },
     {
+      "name": "Breeze",
+      "bundleIdentifier": "com.zephyr.breeze",
+      "developerName": "deretame",
+      "version": "3.0.38",
+      "versionDate": "2026-11-15T09:03:41Z",
+      "downloadURL": "https://github.com/breeze-project-org/Breeze/releases/download/v3.0.38/Breeze-iOS-v3.0.38.ipa",
+      "localizedDescription": "使用 Flutter 构建的跨平台漫画阅读器，漫画源以插件形式提供，内置插件商店，支持本地与云收藏。",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/icon.png",
+      "tintColor": "#E03030",
+      "size": 27173399,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/images/home.jpeg",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Breeze/images/plugin.jpeg"
+      ]
+    },
+    {
       "name": "BrewLog",
       "bundleIdentifier": "com.brewlog.app",
       "developerName": "proelio57",
-      "version": "2.3.1",
-      "versionDate": "2026-11-15T10:54:11Z",
-      "downloadURL": "https://github.com/proelio57/BrewLog/releases/download/v2.3.1/BrewLog.ipa",
+      "version": "2.5.1",
+      "versionDate": "2026-11-17T16:36:47Z",
+      "downloadURL": "https://github.com/proelio57/BrewLog/releases/download/v2.5.1/BrewLog.ipa",
       "localizedDescription": "Features:\n\n• Setup assistant on first launch: one simple question per screen with big tappable tiles: brewer (pour-over or espresso machine like Cafelat Robot, Flair 58, Decent DE1, La Marzocco, Gaggia) → connect the espresso machine (GaggiMate, Decent DE1 or La Marzocco; only if you picked one) → filter papers (the ones that fit your brewer come first; skipped for espresso only) → grinder + your usual setting → beans → scale. The Gear tab lists espresso machines apart from pour-over brewers. Every step can be skipped. \"Skip, just use the scale\" goes straight to Quick weigh. Run it again any time from Gear → Setup assistant. If you skipped it, the Brew tab shows a small reminder card.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.brewlog.app.png",
       "tintColor": "#b96e3e",
-      "size": 12665493,
+      "size": 12720780,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/welcome.png",
         "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/setup-brewer.png",
@@ -64377,12 +64393,12 @@
       "bundleIdentifier": "com.brownbear.app",
       "developerName": "DudeAint",
       "version": "0.1.0",
-      "versionDate": "2026-11-16T16:54:00Z",
+      "versionDate": "2026-11-17T16:42:34Z",
       "downloadURL": "https://github.com/DudeAint/brownbear/releases/download/nightly/BrownBear-nightly.ipa",
       "localizedDescription": "The first iOS browser to bring ScriptCat-class power to userscripts — background execution, @crontab scheduling, and a sandboxed GM API — and run real Chrome Web Store extensions, all wrapped in a Chromium-inspired interface.\n\niOS has never had a true power userscript runtime. Safari extensions like Userscripts and Stay brought Greasemonkey-style injection to mobile, and Gear Browser proved a dedicated userscript browser can ship on the App Store. But none of them deliver the one thing ScriptCat gives desktop users:\n\nScripts that keep working in the background — on a schedule — without a tab open.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.brownbear.app.png",
       "tintColor": "#3b82f6",
-      "size": 7484768
+      "size": 7484767
     },
     {
       "name": "Browser",
@@ -66571,6 +66587,17 @@
       "localizedDescription": "Injected with Premium",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
       "size": 110908783
+    },
+    {
+      "name": "Buddy",
+      "bundleIdentifier": "com.iPwners.Plonkan",
+      "developerName": "",
+      "version": "13.53",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Buddy_13.53_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+      "size": 110910144
     },
     {
       "name": "Buddy",
@@ -74801,6 +74828,17 @@
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
       "tintColor": "000000",
       "size": 126393032
+    },
+    {
+      "name": "Calm",
+      "bundleIdentifier": "com.calm.calmapp",
+      "developerName": "",
+      "version": "7.5.1",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Calm_7.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+      "size": 126765273
     },
     {
       "name": "Calm Premium – Calm++",
@@ -93928,23 +93966,35 @@
       ]
     },
     {
+      "name": "CloverPit-1.4.3",
+      "bundleIdentifier": "com.PanikArcade.CloverPit",
+      "developerName": "CloverPit-1.4.3 x CyPwn",
+      "version": "1.4.3",
+      "versionDate": "2026-04-17",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.3.ipa",
+      "localizedDescription": "A rogue-lite slot machine nightmare",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/CloverPit-1.4.3.png",
+      "tintColor": "FFC300",
+      "size": 145888378,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.3/CloverPit-1.4.3-0.png",
+        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.3/CloverPit-1.4.3-1.png",
+        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.3/CloverPit-1.4.3-2.png",
+        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.3/CloverPit-1.4.3-3.png",
+        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.3/CloverPit-1.4.3-4.png"
+      ]
+    },
+    {
       "name": "CloverPit-1.4.8",
       "bundleIdentifier": "com.PanikArcade.CloverPit",
       "developerName": "CloverPit-1.4.8 x CyPwn",
       "version": "1.4.8",
-      "versionDate": "2026-07-07",
+      "versionDate": "2026-09-17",
       "downloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
-      "localizedDescription": "A rogue-lite slot machine nightmare",
+      "localizedDescription": "A rogue-lite slot machine nightmare\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/CloverPit-1.4.8.png",
-      "tintColor": "FFC300",
-      "size": 146328780,
-      "screenshotURLs": [
-        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.8/CloverPit-1.4.8-0.png",
-        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.8/CloverPit-1.4.8-1.png",
-        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.8/CloverPit-1.4.8-2.png",
-        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.8/CloverPit-1.4.8-3.png",
-        "https://ipa.cypwn.xyz/serve/screenshots/CloverPit-1.4.8/CloverPit-1.4.8-4.png"
-      ]
+      "tintColor": "000000",
+      "size": 146330883
     },
     {
       "name": "Clue: Classic Edition",
@@ -103344,6 +103394,17 @@
       "size": 191115437
     },
     {
+      "name": "ColorPop",
+      "bundleIdentifier": "com.mwm.procolor",
+      "developerName": "",
+      "version": "2.69.03",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/ColorPop_2.69.03_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.procolor.png",
+      "size": 191124012
+    },
+    {
       "name": "Colouring and drawing for kids++",
       "bundleIdentifier": "me.ipalibrary.colouringanddrawingforkids",
       "developerName": "Arima Jain",
@@ -104021,12 +104082,12 @@
       "bundleIdentifier": "media.conduit.mobile",
       "developerName": "davidvanderklay",
       "version": "0.1.6",
-      "versionDate": "2026-11-15T14:46:47Z",
-      "downloadURL": "https://github.com/davidvanderklay/conduit/releases/download/ios/v0.1.6-nightly.20261115.50/conduit-0.1.6-nightly.20261115.50-ios-unsigned.ipa",
+      "versionDate": "2026-11-17T17:11:21Z",
+      "downloadURL": "https://github.com/davidvanderklay/conduit/releases/download/ios/v0.1.6-nightly.20261117.52/conduit-0.1.6-nightly.20261117.52-ios-unsigned.ipa",
       "localizedDescription": "Conduit:\n\nA self-hosted film and television app built around Stremio-compatible add-ons. Share household profiles, libraries, and watch progress across your devices. Clients fetch catalogs and media directly from add-ons and sources.\n\nContribute · Ask a question.\n\nPlatform status:\n\nPre-release software. Keep profile exports and database backups.\n\nHelp build Conduit:\n\nCode, documentation, reproducible bug reports, and device testing are welcome.\n\nand comment before starting.\n\n• Read the contribution guide and development setup.\n• Use Discussions for questions, ideas, and device test results.\n\nWhat Conduit does:\n\n• Shared household profiles with independent libraries and watch history.\n• Stremio-compatible catalogs, metadata, streams, and subtitles.\n• Web and Electron desktop clients backed by one shared interface.\n• Android and iOS clients with shared Compose UI and native playback.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/media.conduit.mobile.png",
       "tintColor": "#d69f11",
-      "size": 46617667,
+      "size": 46618254,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/davidvanderklay/conduit@main/docs/assets/screenshots/web-home.png"
       ]
@@ -108072,13 +108133,13 @@
       "name": "Cupola",
       "bundleIdentifier": "com.matthwlabs.cupola",
       "developerName": "matthw-labs",
-      "version": "1.1.0",
-      "versionDate": "2026-11-12T14:35:08Z",
-      "downloadURL": "https://github.com/matthw-labs/cupola/releases/download/v1.1.0-beta/cupola-1.1.0-beta.ipa",
-      "localizedDescription": "Cupola:\n\nA Cupola over your server.\n\nOne native app for your entire self-hosted media stack, and the box it runs on. 19 services. iOS, Android, macOS. No cloud, no account, no middleman. Install · Supported services · Security & privacy.\n\nWhy Cupola:\n\nRunning a media stack means running a dozen web UIs. On a phone, most of them are unusable, and none of them know about each other. Cupola is one app that knows about all of them.",
+      "version": "1.2.0",
+      "versionDate": "2026-11-17T14:36:49Z",
+      "downloadURL": "https://github.com/matthw-labs/cupola/releases/download/v1.2.0-beta/cupola-1.2.0-beta.ipa",
+      "localizedDescription": "Cupola:\n\nA Cupola over your server.\n\nOne native app for your entire self-hosted media stack, and the box it runs on. 19 services. iOS, Android, macOS. No cloud, no account, no middleman. Install · Supported services · Security & privacy.\n\nWhy Cupola:\n\nRunning a media stack means running a dozen web UIs. On a phone, most of them are unusable, and none of them know about each other. Cupola is one app that knows about all of them.\n\n• No Cupola server. No relay, no sign-up, and no telemetry of ours. The app speaks directly to the hosts you own, and credentials live in the device keychain. One exception, explained under Security & privacy: background search hands a request to the OS, API key included, so it ships off.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.matthwlabs.cupola.png",
       "tintColor": "#7997d4",
-      "size": 26863169,
+      "size": 27169378,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/matthw-labs/cupola@main/screenshots/home.png",
         "https://cdn.jsdelivr.net/gh/matthw-labs/cupola@main/screenshots/title.png",
@@ -114220,13 +114281,13 @@
       "name": "Delta",
       "bundleIdentifier": "com.gloop.deltamobile",
       "developerName": "Delta Exploits",
-      "version": "2.745.1138",
-      "versionDate": "2026-11-08T06:10:27Z",
-      "downloadURL": "https://cdn.glopdelivery.com/file/Delta-2.745.1138.ipa",
+      "version": "2.747.1486",
+      "versionDate": "2026-11-17T08:00:19Z",
+      "downloadURL": "https://cdn.glopdelivery.com/file/Delta-2.747.1486.ipa",
       "localizedDescription": "Delta Executor for iOS. This unofficial AltStore-style source was created and is maintained by Shrubbery / ShrubHub and automatically tracks new Delta iOS releases from Delta's distribution pages.",
       "iconURL": "https://cdn.weao.gg/slug/delta/logo.png",
       "tintColor": "#335FFF",
-      "size": 149181747,
+      "size": 151044365,
       "screenshotURLs": {
         "iphone": [
           "https://cdn.weao.gg/slug/delta/screenshot1.png",
@@ -124227,6 +124288,23 @@
       "size": 28479268
     },
     {
+      "name": "Doer",
+      "bundleIdentifier": "com.naine.doer",
+      "developerName": "moliango",
+      "version": "1.8.8.1",
+      "versionDate": "2026-11-17T09:01:54Z",
+      "downloadURL": "https://github.com/moliango/doer/releases/download/v1.8.8.1/doer-unsigned.ipa",
+      "localizedDescription": "A native iOS client for Linux.do — UIKit + Swift, no SwiftUI in the main app.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/icon.png",
+      "tintColor": "#4080E0",
+      "size": 28504713,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/home.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/detail.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Doer/images/me.png"
+      ]
+    },
+    {
       "name": "Dofu Player",
       "bundleIdentifier": "com.dofuplayer",
       "developerName": "Dofu",
@@ -128662,13 +128740,13 @@
       "name": "DSH Tether",
       "bundleIdentifier": "cc.zexa.dshtether",
       "developerName": "zexadev",
-      "version": "0.1.32",
-      "versionDate": "2026-11-16T12:13:00Z",
-      "downloadURL": "https://github.com/zexadev/dsh-tether/releases/download/v0.1.32/dsh-tether-0.1.32-ios-unsigned.ipa",
+      "version": "0.1.33",
+      "versionDate": "2026-11-17T10:37:15Z",
+      "downloadURL": "https://github.com/zexadev/dsh-tether/releases/download/v0.1.33/dsh-tether-0.1.33-ios-unsigned.ipa",
       "localizedDescription": "DSH Tether carries the DeepSeek Harness web interface to your phone over a direct peer-to-peer connection. The agent keeps running on the machine your code lives on, and the phone gets DSH's own full interface — conversations, tool calls, approvals and settings, not a reimplementation of them. Pair once with a 6-digit code; after that the two ends find each other whatever network they are on.\n\nWhen there is no machine around, the same app can run DSH on the phone itself (Android) — see Local mode.\n\nThe case it solves:\n\nYou are not on your machine's network, and you do not want a server in the middle.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/cc.zexa.dshtether.png",
       "tintColor": "#4abc30",
-      "size": 7202271,
+      "size": 7201843,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/zexadev/dsh-tether@main/assets/phone-cellular.png",
         "https://cdn.jsdelivr.net/gh/zexadev/dsh-tether@main/assets/phone-sidebar-drawer.png",
@@ -148185,13 +148263,13 @@
       "name": "Erosion-CN",
       "bundleIdentifier": "com.jbdotparty.Erosion",
       "developerName": "Kianuni",
-      "version": "1.0.1",
-      "versionDate": "2026-11-17T05:26:32Z",
-      "downloadURL": "https://github.com/Kianuni/Erosion-CN/releases/download/v1.0.1/Erosion_v1.0.1_Bilingual.ipa",
+      "version": "1.0.4",
+      "versionDate": "2026-11-17T14:37:22Z",
+      "downloadURL": "https://github.com/Kianuni/Erosion-CN/releases/download/v1.0.4/Erosion_v1.0.4_Bilingual.ipa",
       "localizedDescription": "Erosion MobileGestalt 工具箱的简体中文本地化版本，针对 iOS / iPadOS 27.x 的系统配置强化了写入与备份流程，并部分支持 iOS / iPadOS 26.x。重签名时至少需要一个 App Group 权限。",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/icon.png",
       "tintColor": "#D07030",
-      "size": 6696463,
+      "size": 6857330,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/home.jpeg",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Erosion-CN/images/tweaks.jpeg",
@@ -171543,6 +171621,17 @@
       ]
     },
     {
+      "name": "Fitia",
+      "bundleIdentifier": "com.ulisesolave.Fitia",
+      "developerName": "",
+      "version": "25.3",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Fitia_25.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+      "size": 122650680
+    },
+    {
       "name": "Fitmeter Bike - GPS Cycling",
       "bundleIdentifier": "de.schueppel.volker.FitmeterBikeFull",
       "developerName": "ipaomtk.com",
@@ -192562,13 +192651,13 @@
       "name": "GitWriter",
       "bundleIdentifier": "dev.jotalac.git-writer",
       "developerName": "jotalac",
-      "version": "1.2.1",
-      "versionDate": "2026-11-10T13:34:11Z",
-      "downloadURL": "https://github.com/jotalac/git-writer/releases/download/1.2.1/GitWriter-1.2.1-ios.ipa",
+      "version": "1.2.2",
+      "versionDate": "2026-11-17T08:49:29Z",
+      "downloadURL": "https://github.com/jotalac/git-writer/releases/download/1.2.2/GitWriter-1.2.2-ios.ipa",
       "localizedDescription": "Git Writer:\n\nA minimalistic, cross-platform note-taking app that uses Git repositories to keep your Markdown notes version-controlled and synchronized across devices. Supports all major platforms (Linux, macOS, Windows, Android, iOS).\n\nUsed technologies::\n\n• Git Integration: JGit (Desktop and Android), libgit2.\n• Image & File Handling: Coil 3 & FileKit.\n• Markdown parsing & rendering: multiplatform-markdown-renderer & jetbrains-markdown.\n\nSpell Checking:\n\n• misspellings are checked against the spell check language in the app settings, which defaults to the app language.\n\nPackage names include the region: hunspell-es and hunspell-cs, but hunspell-de-de on Debian and Ubuntu. Chinese is not spell checked, hunspell has no dictionary with word segmentation.\n\nDesktop Distributions:\n\n• Current OS:.\n• Linux (.deb / .rpm):.\n• macOS (.dmg / .pkg):.\n• Windows (.msi / .exe):.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.jotalac.git-writer.png",
       "tintColor": "#c76444",
-      "size": 34890238
+      "size": 34861903
     },
     {
       "name": "Gizmo",
@@ -216030,12 +216119,12 @@
       "bundleIdentifier": "ikemen-engine.I-K-E-M-E-N-Go",
       "developerName": "ikemen-engine",
       "version": "1.1",
-      "versionDate": "2026-11-16T03:26:43Z",
+      "versionDate": "2026-11-17T16:47:01Z",
       "downloadURL": "https://github.com/ikemen-engine/Ikemen-GO/releases/download/branch-modern-input/Ikemen_GO-modern-input-ios.ipa",
       "localizedDescription": "Features:\n\nIkemen GO aims for backwards-compatibility on par with M.U.G.E.N version 1.1 Beta, while simultaneously expanding on its features in a variety of ways.\n\nThis does not mean bug-for-bug emulation. Behavior may intentionally differ when matching M.U.G.E.N would mean preserving bugs, quirks, or unnecessarily limiting the engine.\n\nSystem requirements:\n\nA GPU supporting OpenGL 3.3, OpenGL ES 3.2 or Vulkan is required.\n\nyou need them. Intel macOS builds are not currently published.\n\nRunning:\n\nDownload the ZIP archive that matches your operating system and extract its contents to your preferred location.\n\nOn Windows, double-click Ikemen_GO.exe. On macOS or Linux, double-click Ikemen_GO.command. On Android, install ikemen-go.apk from the Android archive.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ikemen-engine.I-K-E-M-E-N-Go.png",
       "tintColor": "#2099ee",
-      "size": 56429312
+      "size": 56431162
     },
     {
       "name": "iA Writer",
@@ -216785,12 +216874,12 @@
       "bundleIdentifier": "com.joemattiello.iCube",
       "developerName": "Provenance-Emu",
       "version": "1.0.0",
-      "versionDate": "2026-11-17T06:46:43Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-527/Non-Jailbroken.ipa",
+      "versionDate": "2026-11-17T09:22:29Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-531/Non-Jailbroken.ipa",
       "localizedDescription": "DolphiniOS:\n\nDolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.\n\nThis is the repository for the new DolphiniOS codebase.\n\nSelf-hosted game libraries:\n\niCube development builds can browse and import your own GameCube and Wii games from an Emulation Server (ECS). Direct support for self-hosted RomM libraries is in development.\n\nJIT on iOS 26 (Trusted Execution Monitor):\n\niCube runs the JIT recompiler again on iOS 26. TXM will not execute a freshly written code page until a debugger has written to that page, so iCube asks an attached broker to touch every page of its 288 MB code region once at startup. After that the broker can detach and the region stays usable for the life of the process.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.joemattiello.iCube.png",
       "tintColor": "#8347f6",
-      "size": 124285967
+      "size": 124339365
     },
     {
       "name": "ID Photo Full – ID Photo++",
@@ -260444,12 +260533,12 @@
       "bundleIdentifier": "com.leccheck.app",
       "developerName": "Emanuel4100",
       "version": "2.0.0",
-      "versionDate": "2026-11-16T21:44:07Z",
-      "downloadURL": "https://github.com/Emanuel4100/LecCheck2/releases/download/v2.0.0-beta.20/LecCheck-2.0.0-beta.20-ios.ipa",
+      "versionDate": "2026-11-17T11:38:29Z",
+      "downloadURL": "https://github.com/Emanuel4100/LecCheck2/releases/download/v2.0.0-beta.21/LecCheck-2.0.0-beta.21-ios.ipa",
       "localizedDescription": "LecCheck:\n\nMark every lecture, practice and lab you attend, and see your semester at a glance. Fast, offline-first, and synced live between your phone and computer — for free.\n\nAndroid · iPhone · Linux · (Windows coming).\n\nLecCheck 2 is a from-scratch rebuild of LecCheck v1. v1 saved the whole app as one JSON blob and rebuilt every screen on each tap; v2 keeps a local SQLite database on every device, redraws only what changed, and syncs individual fields in the background — so it is instant, works offline, and never loses edits.\n\nFeatures:\n\n• Today — what's on now or next with a live countdown, one-tap Attended / Missed / Watched, and a \"needs marking\" queue (swipe right = attended, left = missed, with undo).",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leccheck.app.png",
       "tintColor": "#5367d1",
-      "size": 11615693,
+      "size": 11740509,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/Emanuel4100/LecCheck2@main/app/test_screenshots/goldens/en_light_today.png",
         "https://cdn.jsdelivr.net/gh/Emanuel4100/LecCheck2@main/app/test_screenshots/goldens/en_light_week.png",
@@ -282710,7 +282799,7 @@
       "tintColor": "#f42446",
       "size": 29884713,
       "screenshotURLs": [
-        "https://m3ue.sparkison.dev/img/tv-social-card.jpg?v=2"
+        "https://m3ue.sparkison.dev/img/tv-social-card.jpg?v=3"
       ]
     },
     {
@@ -283893,13 +283982,13 @@
       "name": "Maestro Mobile",
       "bundleIdentifier": "dev.maestromobile.app",
       "developerName": "netcookies",
-      "version": "0.20.7",
-      "versionDate": "2026-11-08T07:37:50Z",
-      "downloadURL": "https://github.com/netcookies/pi-maestro-app-party/releases/download/v0.20.7/maestro-mobile-unsigned-0.20.7.ipa",
+      "version": "0.20.9",
+      "versionDate": "2026-11-17T16:06:25Z",
+      "downloadURL": "https://github.com/netcookies/pi-maestro-app-party/releases/download/v0.20.9/maestro-mobile-unsigned-0.20.9.ipa",
       "localizedDescription": "About the project:\n\nMaestro Mobile is an iOS / Android companion for Pi. Your sessions run on your computer; the app connects through a local Host service to show progress and control authorized live sessions.\n\n• Stay informed: browse sessions, search history, and inspect real-time usage, active tasks, teammates and execution progress.\n• Keep working: send text or images, steer running turns, queue follow-ups while streaming, adjust thinking levels, switch models with collapsible floating controls, or stop long-running tasks.\n• Track execution: inspect the execution drawer for Goal metrics (progress, tokens, duration), Loop cycles, and step-by-step Todo breakdowns with duration bars and summary notes.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.maestromobile.app.png",
       "tintColor": "#937744",
-      "size": 9660173,
+      "size": 9660176,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/netcookies/pi-maestro-app-party@main/docs/images/screenshots/ios-launched.png",
         "https://cdn.jsdelivr.net/gh/netcookies/pi-maestro-app-party@main/docs/images/screenshots/ios-sessions.png",
@@ -285262,13 +285351,13 @@
       "name": "Manatan",
       "bundleIdentifier": "app.mangatan.mangatan",
       "developerName": "KolbyML",
-      "version": "6.3.21",
-      "versionDate": "2026-11-16T20:52:25Z",
-      "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.21/Manatan-v6.3.21-iOS.ipa",
+      "version": "6.3.22",
+      "versionDate": "2026-11-17T09:49:57Z",
+      "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.22/Manatan-v6.3.22-iOS.ipa",
       "localizedDescription": "Watch anime and YouTube. Read manga and novels. Look up words and save useful sentences without leaving the story.\n\nOne app, from immersion to review:\n\n• Watch, read, and listen. Local videos, YouTube, manga, EPUBs, web novels, and podcasts in one app.\n• Understand in context. Look up words with your imported dictionaries, use on-device manga OCR, and work with interactive subtitles.\n• Keep what matters. Save sentences with audio and images where available. Review in Manatan SRS with account sync, or keep using Anki.\n\nYour first lookup:\n\n• Install and open Manatan. A dictionary is installed automatically.\n• Open a video with subtitles, a manga chapter, or an EPUB you want to understand.\n• Look up a word. Save a useful sentence to Manatan SRS or Anki, then keep going.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.mangatan.mangatan.png",
       "tintColor": "#1a71e4",
-      "size": 443501055,
+      "size": 444222010,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/lookup.webp",
         "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/manga.webp",
@@ -305943,6 +306032,17 @@
     },
     {
       "name": "Mojo",
+      "bundleIdentifier": "archery.storify",
+      "developerName": "",
+      "version": "1.283.0",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Mojo_1.283.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+      "size": 182299263
+    },
+    {
+      "name": "Mojo",
       "bundleIdentifier": "com.unknown.mojo",
       "developerName": "Karbin-Store",
       "version": "1.209.0",
@@ -312081,6 +312181,24 @@
       "iconURL": "https://pub-dd800571175348b6a2745b3396360028.r2.dev/App%20Icons/Mornye-Icons/Icon-App-1024x1024_Normal.png",
       "tintColor": "#1DB954",
       "size": 39027651
+    },
+    {
+      "name": "Mornye",
+      "bundleIdentifier": "com.zarz.mornye",
+      "developerName": "zarzet",
+      "version": "5.4.0",
+      "versionDate": "2026-11-17T09:32:14Z",
+      "downloadURL": "https://github.com/mornyeapp/Mornye/releases/download/v5.4.0/Mornye-v5.4.0-ios-unsigned.ipa",
+      "localizedDescription": "Mornye is a Flutter and Rust music app with a full-screen player, hi-res and bit-perfect output, synced word-by-word lyrics, and installable extensions for metadata and audio downloads. Downloads and your own music folders share one local library, and SMB, WebDAV, HTTP or Subsonic servers can stream straight to the phone.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/icon.png",
+      "tintColor": "#1E4E4F",
+      "size": 41067187,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/nowplaying.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/lyrics.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/devices.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Mornye/images/settings.png"
+      ]
     },
     {
       "name": "Morphing LED Banner",
@@ -327382,13 +327500,13 @@
       "name": "NFS Most Wanted",
       "bundleIdentifier": "com.bep1s.nfsmwios",
       "developerName": "bep1s69",
-      "version": "0.6.0",
-      "versionDate": "2026-11-06T15:18:25Z",
-      "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.6.0/NFSMW.ipa",
-      "localizedDescription": "NFSMW Recompiled for iOS:\n\nNeed for Speed: Most Wanted (2005), Xbox 360, running natively on iPhone and iPad.\n\nRequires iOS or iPadOS 18 or later.\n\nThe Xbox 360 PowerPC code is recompiled ahead of time for Apple arm64 using ReXGlue. The port uses a native Metal renderer for the game's shaders.\n\nYou need your own copy of the game. The app on the.\n\nfiles: no textures, models, sounds, music, videos or tracks. It reads all of them from your own ISO of the USA Xbox 360 game. This repository contains no game files and no translated game code. See Legal.\n\nVersion 0.6.0 adds LAN racing, redesigned menus with first-launch setup, more Extra Options, and lower memory use. See the changelog for the full release notes.",
+      "version": "0.6.1",
+      "versionDate": "2026-11-17T16:30:02Z",
+      "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.6.1/NFSMW.ipa",
+      "localizedDescription": "NFSMW Recompiled for iOS:\n\nNeed for Speed: Most Wanted (2005), Xbox 360, running natively on iPhone and iPad.\n\nRequires iOS or iPadOS 18 or later.\n\nThe Xbox 360 PowerPC code is recompiled ahead of time for Apple arm64 using ReXGlue. The port uses a native Metal renderer for the game's shaders.\n\nYou need your own copy of the game. The app on the.\n\nfiles: no textures, models, sounds, music, videos or tracks. It reads all of them from your own ISO of the Xbox 360 game. This repository contains no game files and no translated game code. See Legal.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.bep1s.nfsmwios.png",
       "tintColor": "#ab8242",
-      "size": 30669422
+      "size": 39180016
     },
     {
       "name": "NFSU2",
@@ -337708,6 +337826,17 @@
       "size": 77995927
     },
     {
+      "name": "NutriCoach",
+      "bundleIdentifier": "nutrition.coach",
+      "developerName": "",
+      "version": "2.7.1",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/NutriCoach_2.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
+      "size": 78019764
+    },
+    {
       "name": "Nuvio",
       "bundleIdentifier": "com.nuvio.hub",
       "developerName": "ipaomtk.com",
@@ -343328,6 +343457,21 @@
       "size": 13714353
     },
     {
+      "name": "Open Screen Sharing",
+      "bundleIdentifier": "io.nekohasekai.screensharing",
+      "developerName": "nekohasekai",
+      "version": "1.0.7",
+      "versionDate": "2026-11-17T10:21:29Z",
+      "downloadURL": "https://github.com/nekohasekai/open-screen-sharing/releases/download/v1.0.7/OpenScreenSharing.ipa",
+      "localizedDescription": "Open Screen Sharing is a free and open-source remote desktop client optimized for Mac screen sharing and public networks, while also offering first-class support for standard VNC and RDP.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/icon.png",
+      "tintColor": "#1060F0",
+      "size": 11840191,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/images/session.png"
+      ]
+    },
+    {
       "name": "OpenAgentd",
       "bundleIdentifier": "com.openagentd.mobile",
       "developerName": "lthoangg",
@@ -347150,13 +347294,13 @@
       "name": "osu!",
       "bundleIdentifier": "sh.ppy.osulazer",
       "developerName": "ppy",
-      "version": "2026.1115.0",
-      "versionDate": "2026-11-15T11:27:22Z",
-      "downloadURL": "https://github.com/ppy/osu/releases/download/2026.1115.0-lazer/osu.iOS.ipa",
+      "version": "2026.1117.0",
+      "versionDate": "2026-11-17T08:51:12Z",
+      "downloadURL": "https://github.com/ppy/osu/releases/download/2026.1117.0-lazer/osu.iOS.ipa",
       "localizedDescription": "osu!:\n\nA free-to-win rhythm game. Rhythm is just a click away!\n\nStatus:\n\nThis project is under constant development, but we do our best to keep things in a stable state. Players are encouraged to install from a release alongside their stable osu! client. This project will continue to evolve until we eventually reach the point where most users prefer it over the previous \"osu!stable\" release.\n\nA few resources are available as starting points to getting involved and understanding the project:\n\n• Track our current efforts towards improving the game.\n\nLatest release::\n\nIf your platform is unsupported or not listed above, there is still a chance you can run the release or manually build it by following the instructions below.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/sh.ppy.osulazer.png",
       "tintColor": "#de619b",
-      "size": 269007098
+      "size": 269016022
     },
     {
       "name": "Osu!lazer",
@@ -372007,6 +372151,17 @@
       "size": 119191274
     },
     {
+      "name": "Picsart",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "",
+      "version": "31.1.1",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Picsart_31.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+      "size": 127614932
+    },
+    {
       "name": "Picsart Pro 30.5.1",
       "bundleIdentifier": "com.shrubhub.moes.a1757008016.a3276",
       "developerName": "Moe's App Hub",
@@ -389707,6 +389862,21 @@
       "size": 402970322
     },
     {
+      "name": "Power Warriors 18.0",
+      "bundleIdentifier": "com.ZombiAriel.Power-Warriors",
+      "developerName": "Power Warriors 18.0 x CyPwn",
+      "version": "18",
+      "versionDate": "2026-06-27",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Power Warriors 18.0.ipa",
+      "localizedDescription": "Power Warriors iOS port by mancha",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Power Warriors 18.0.png",
+      "tintColor": "FFC300",
+      "size": 174126530,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/serve/screenshots/Power Warriors 18.0/Power Warriors 18.0-0.png"
+      ]
+    },
+    {
       "name": "PowerThesaurus",
       "bundleIdentifier": "org.powerthesaurus.powerthesaurus",
       "developerName": "",
@@ -390134,15 +390304,12 @@
       "bundleIdentifier": "com.ZombiAriel.Power-Warriors",
       "developerName": "PowerWarriors_18.0 x CyPwn",
       "version": "18",
-      "versionDate": "2026-07-20",
+      "versionDate": "2026-09-17",
       "downloadURL": "https://ipa.cypwn.xyz/ipas/PowerWarriors_18.0.ipa",
-      "localizedDescription": "Power Warriors iOS port by mancha",
+      "localizedDescription": "Power Warriors iOS port by mancha\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/PowerWarriors_18.0.png",
-      "tintColor": "FFC300",
-      "size": 174126530,
-      "screenshotURLs": [
-        "https://ipa.cypwn.xyz/serve/screenshots/PowerWarriors_18.0/PowerWarriors_18.0-0.png"
-      ]
+      "tintColor": "000000",
+      "size": 174121434
     },
     {
       "name": "PPSSPP",
@@ -418452,13 +418619,13 @@
       "name": "Reynard",
       "bundleIdentifier": "com.minh-ton.Reynard",
       "developerName": "minh-ton",
-      "version": "0.21.0",
-      "versionDate": "2026-11-10T16:07:30Z",
-      "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.21.0/Reynard.ipa",
+      "version": "0.22.0",
+      "versionDate": "2026-11-17T13:13:13Z",
+      "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.22.0/Reynard.ipa",
       "localizedDescription": "Reynard Browser:\n\nReynard is a Gecko-based web browser for iOS 13+.\n\nUnlike other browsers on iOS that are forced to use Apple's WebKit engine (including Safari and all third-party browsers), Reynard uses Gecko. This is the same engine that powers the Firefox browser on desktop and Android devices.\n\nBesides providing an alternative, up-to-date browser engine[^1], Reynard supports Firefox add-ons, including more capable ad-blocking extensions, along with privacy features such as Enhanced Tracking Protection and DNS over HTTPS.\n\niOS 14 (iPhone 6S Plus, 14.1):\n\nThese sites are known to break or render incorrectly on iOS 14. The screenshots below compare how they load in Safari versus Reynard.\n\niOS 26 (iPhone 13 mini, 26.1):\n\nReynard also works great on the latest version of iOS!",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.minh-ton.Reynard.png",
       "tintColor": "#fc6e5d",
-      "size": 111496704,
+      "size": 113650109,
       "screenshotURLs": [
         "https://github.com/user-attachments/assets/d89f4385-c478-4aea-aa9d-6c9fca72252b",
         "https://github.com/user-attachments/assets/279f8268-b196-415d-9199-66c06989ae7f",
@@ -423469,13 +423636,13 @@
       "name": "RisuNest",
       "bundleIdentifier": "io.github.rsyumi.risunest",
       "developerName": "rsyumi",
-      "version": "1.4.0",
-      "versionDate": "2026-11-10T19:17:36Z",
-      "downloadURL": "https://github.com/rsyumi/RisuNest/releases/download/app-v1.4.0/RisuNest-1.4.0-ios-aarch64-unsigned.ipa",
+      "version": "1.4.1",
+      "versionDate": "2026-11-17T15:42:41Z",
+      "downloadURL": "https://github.com/rsyumi/RisuNest/releases/download/app-v1.4.1/RisuNest-1.4.1-ios-aarch64-unsigned.ipa",
       "localizedDescription": "Introduction:\n\nRisuNest is an independent community project unaffiliated with the upstream RisuAI developer and is not officially approved or endorsed by RisuAI.\n\nDownloads:\n\n• iOS builds are distributed as unsigned IPAs and must be sideloaded using tools such as AltStore or Sideloadly.\n• To build from source yourself, see Building from Source.\n\nAdd to AppDB.\n\nBuild Integrity & Security:\n\n• Never install or run builds from untrusted sources.\n\nKey Features:\n\n• Multi-Device Sync: Share your library across devices through RisuNest Sync.\n• Cloud Storage: Back up and restore your data with WebDAV, S3, or Google Drive.\n• Desktop and Mobile: Use the app on Windows, macOS, Linux, Android, and iOS.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.rsyumi.risunest.png",
       "tintColor": "#449be1",
-      "size": 79003861
+      "size": 79067784
     },
     {
       "name": "RIVAL GUNS",
@@ -441231,12 +441398,12 @@
       "name": "Shrubify",
       "bundleIdentifier": "com.shrubify.client",
       "developerName": "shrubbery & ShrubHub team",
-      "version": "9.1.94",
-      "versionDate": "2026-11-02",
-      "downloadURL": "https://github.com/ShrubHub-iOS/Shrubify/releases/download/shrubify-s9.1.94-v4.0.0-gb8fce30/Shrubify-Spotify-9.1.94-v4.0.0-b42.ipa",
-      "localizedDescription": "Shrubify 3.0 adds Studio with saved player layouts, a quick-access ShrubPanel, opt-in local Replay and ShrubQueue bookmarks and snapshots. Source credits and GPL notices are in the repository.",
+      "version": "9.2.0",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://github.com/ShrubHub-iOS/Shrubify/releases/download/shrubify-s9.2.0-v4.1.1-g7d8083d/Shrubify-Spotify-9.2.0-v4.1.1-b79.ipa",
+      "localizedDescription": "Shrubify 4.1.1: Evolved player and pages, expanded lyrics sources, ShrubPanel, opt-in Replay, ShrubQueue and sleep timer. Source credits and GPL notices are in the repository.",
       "iconURL": "https://raw.githubusercontent.com/ShrubHub-iOS/Shrubify/Master/docs/icon.png",
-      "size": 131726474
+      "size": 151567403
     },
     {
       "name": "Shrubify (v4.0.0-b42)",
@@ -498310,28 +498477,6 @@
     {
       "name": "Stremio",
       "bundleIdentifier": "com.stremio.pal",
-      "developerName": "Stremio",
-      "version": "2.1.1",
-      "versionDate": "2026-10-31",
-      "downloadURL": "https://dl.strem.io/apple/2.1.1b25/ios/stremio_iOS.ipa",
-      "localizedDescription": "Stremio — a modern media center for movies, series, live TV and web channels. Expand your content library with the add-on system. Requires iPhone and iPad, iOS 13.0+. NOTE: Some features such as Apple Login and Handoff do not work in the sideloaded version.",
-      "iconURL": "https://www.stremio.com/website/stremio-logo-small.png",
-      "tintColor": "#7055D9",
-      "size": 84752072,
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/ee/19/6aee194d-7b33-aaab-b3bf-64b9773e6120/login.png/1242x2688ss.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/9d/46/8a9d46c5-68f5-4396-7e97-a0fdc2e4c99b/7A634238-A47C-4B30-9373-0EDCE5E01D8C.png/1242x2688ss.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/3b/96/e03b96c3-e1a5-ad13-b45a-a267cf9860a5/D1DC7867-6EE9-4837-919E-81902FC3344F.png/1242x2688ss.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/ec/de/9decdee5-5e8c-4ac8-f213-6cd259ce7eeb/5EA57C1E-F7EC-4C2D-AC9A-771814B51ED4.png/1242x2688ss.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/54/b9/7154b96c-b3e1-148b-0711-b5c26c6dc280/login-ipad.png/2048x2732ss.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/ae/9c/7dae9cc9-d812-92df-46a3-301fc6b6ce1a/9B597930-50BE-4D8E-AEEC-EEF762C1E768.png/2048x2732ss.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/0d/24/760d2486-cdb1-5935-3d98-f21e695d7151/9A77F888-EADE-4EEB-9549-EDDA02E1BEE3.png/2048x2732ss.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/2b/cd/402bcd56-0df9-17c3-508b-b19540d6205e/D452C7D4-67E6-4AFF-BA25-3DF914C326DA.png/2048x2732ss.jpg"
-      ]
-    },
-    {
-      "name": "Stremio",
-      "bundleIdentifier": "com.stremio.pal",
       "developerName": "@ipavault",
       "version": "2.1.1",
       "versionDate": "2026-11-02",
@@ -498369,6 +498514,28 @@
         "https://delvek.net/img/!/stremio2.png",
         "https://delvek.net/img/!/stremio3.png",
         "https://delvek.net/img/!/stremio4.png"
+      ]
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Stremio",
+      "version": "2.1.2",
+      "versionDate": "2026-11-17",
+      "downloadURL": "https://dl.strem.io/apple/2.1.2b27/ios/stremio_iOS.ipa",
+      "localizedDescription": "Stremio — a modern media center for movies, series, live TV and web channels. Expand your content library with the add-on system. Requires iPhone and iPad, iOS 13.0+. NOTE: Some features such as Apple Login and Handoff do not work in the sideloaded version.",
+      "iconURL": "https://www.stremio.com/website/stremio-logo-small.png",
+      "tintColor": "#7055D9",
+      "size": 88256855,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/ee/19/6aee194d-7b33-aaab-b3bf-64b9773e6120/login.png/1242x2688ss.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/9d/46/8a9d46c5-68f5-4396-7e97-a0fdc2e4c99b/7A634238-A47C-4B30-9373-0EDCE5E01D8C.png/1242x2688ss.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/3b/96/e03b96c3-e1a5-ad13-b45a-a267cf9860a5/D1DC7867-6EE9-4837-919E-81902FC3344F.png/1242x2688ss.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/ec/de/9decdee5-5e8c-4ac8-f213-6cd259ce7eeb/5EA57C1E-F7EC-4C2D-AC9A-771814B51ED4.png/1242x2688ss.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/54/b9/7154b96c-b3e1-148b-0711-b5c26c6dc280/login-ipad.png/2048x2732ss.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/ae/9c/7dae9cc9-d812-92df-46a3-301fc6b6ce1a/9B597930-50BE-4D8E-AEEC-EEF762C1E768.png/2048x2732ss.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/0d/24/760d2486-cdb1-5935-3d98-f21e695d7151/9A77F888-EADE-4EEB-9549-EDDA02E1BEE3.png/2048x2732ss.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/2b/cd/402bcd56-0df9-17c3-508b-b19540d6205e/D452C7D4-67E6-4AFF-BA25-3DF914C326DA.png/2048x2732ss.jpg"
       ]
     },
     {
@@ -498456,30 +498623,24 @@
       "bundleIdentifier": "com.stremio.pal",
       "developerName": "Stremio-2.0.0 x CyPwn",
       "version": "2.0.0",
-      "versionDate": "2026-07-07",
+      "versionDate": "2026-09-17",
       "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.0.ipa",
-      "localizedDescription": "Watch videos, movies, TV series and",
+      "localizedDescription": "Watch videos, movies, TV series and\n\nGet pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.0.png",
-      "tintColor": "FFC300",
-      "size": 79303802,
-      "screenshotURLs": [
-        "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.0/Stremio-2.0.0-0.png"
-      ]
+      "tintColor": "000000",
+      "size": 79307695
     },
     {
       "name": "Stremio-2.0.6",
       "bundleIdentifier": "com.stremio.pal",
       "developerName": "Stremio-2.0.6 x CyPwn",
       "version": "2.0.6",
-      "versionDate": "2026-07-23",
+      "versionDate": "2026-09-17",
       "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.6.ipa",
-      "localizedDescription": "",
+      "localizedDescription": "Get pinged when any of your tweaks update. Free on Discord:\nhttps://discord.gg/mnJjP5qJRC",
       "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.6.png",
-      "tintColor": "FFC300",
-      "size": 77175193,
-      "screenshotURLs": [
-        "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.6/Stremio-2.0.6-0.png"
-      ]
+      "tintColor": "000000",
+      "size": 77175328
     },
     {
       "name": "Stremio-2.0.7",
@@ -515018,6 +515179,26 @@
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/terraria-150x150.png",
       "tintColor": "000000",
       "size": 190147272
+    },
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "developerName": "NabzClan",
+      "version": "1.4.5.8.1",
+      "versionDate": "2026-11-17T11:47:18-05:00",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/15/app_15_nabzclan_sidelix.ipa",
+      "localizedDescription": "The world is at your fingertips as you fight for survival, explore for fortune, and dig for glory. Delve deep into cavernous expanses, test your mettle in combat, or construct your own city!\n\nTerraria offers more than ever - including the brand new 1.4.5 Bigger and Boulder Content! \n\r\n\n\r\nPresenting an impressive catalogue of 5,000+ items, 25+ NPCs, and 400+ enemies and blending elements of classic action games with sandbox-style creativity, Terraria is truly a unique adventure!\n\r\n\n\r\nThe latest content update includes: \n\r\n\n\r\nNEW 1.4.5 CONTENT:\n\r\n- Dead Cells crossover content – new weapons, combat accessories and more!\n\r\n- Iconic Pals from Palworld have arrived in Terraria!\n\r\n- Fifteen new furniture sets. \n\r\n- Five new types of boulders — watch your step!\n\r\n- Four new transformation mounts.\n\r\n- New whips and Summoner prefixes. \n\r\n- New Kites, critters, and decorative features. \n\r\n- And so much more to discover! \n\r\n\n\r\n\n\r\nNEW WORLD SEEDS TO DISCOVER:\n\r\n- A new Skyblock world seed.\n\r\n- A new world creation menu allowing you to mix and match special seeds.\n\r\n- Improvements to existing seeds!\n\r\n\n\r\nIMPROVEMENTS:\n\r\n- Reworks and balance improvements to weapons. \n\r\n- Visual updates to many classic sprites.\n\r\n- And so many more improvements!\n\r\n\n\r\n• MULTIPLAYER – Play with up to 7 friends on Local Wifi or Online via device-device Wifi hosted games or through the Mobile Terraria Dedicated Server for PC (available for free on Terraria.org)\n\r\n• TERRARIA REIMAGINED FOR MOBILE – Fully customizable controls and User Interface provide a level of polish and capability not previously possible!\n\r\n• Gamepad support – including fully-remappable buttons - Play with your Bluetooth connected gamepad where supported.\n\r\n• Full array of World sizes – Small/Medium/Large...the same size as on Terraria for PC! Now includes random world name generator and the ability to use World Seeds (including some hidden easter egg worlds)\n\r\n• Over 400 enemies to combat, defeat, and plunder for loot\n\r\n• Over 20 Biomes and Mini-Biomes to explore, both above and underground – from lush forests to barren deserts to dungeons, the underworld, and even the terrifying Corruption await!\n\r\n• Updated crafting with multiple added item options\n\r\n• Over 20 NPCs to discover, each providing their own benefits and unique style\n\r\n• More than 1000 new items to discover – bringing the total item count to more than 5000!\n\r\n• In-depth building options that are easy to learn but allow for amazing feats of architecture in the hands of a master.\n\r\n• And much, much more!\n\r\n\n\r\nIn short, every pixel of Terraria has been reimagined and hand crafted for the BEST possible mobile experience!\n\r\nFollow us on Twitter @Terraria_Logic and @505_Games\n\r\n\n\r\n\n\r\nJoin our community on Discord @ http://Discord.GG/Terraria\n\r\n\n\r\n\n\r\nLike us on Facebook at www.facebook.com/TerrariaOfficial and https://www.facebook.com/505Games\n\r\n\n\r\n\n\r\nVisit us on the web at www.terraria.org\n\r\n\n\r\n\n\r\nJoin the official Terraria Forums at: https://forums.terraria.org/",
+      "iconURL": "https://appstore.sidelix.vip/images/1794934095_7617.webp",
+      "tintColor": "#2ecc71",
+      "size": 190001497,
+      "screenshotURLs": [
+        "https://appstore.sidelix.vip/screenshots/17949340952687739.webp",
+        "https://appstore.sidelix.vip/screenshots/17949340954110476.webp",
+        "https://appstore.sidelix.vip/screenshots/17949340951456590.webp",
+        "https://appstore.sidelix.vip/screenshots/17949340962493885.webp",
+        "https://appstore.sidelix.vip/screenshots/17949340962385385.webp",
+        "https://appstore.sidelix.vip/screenshots/17949340964332218.webp"
+      ]
     },
     {
       "name": "Terraria",
@@ -584466,7 +584647,7 @@
       "localizedDescription": "Waypage:\n\nSave a web page to your phone and read it with no connection: on a plane, in a tunnel, anywhere. The text is kept whole, pictures keep a small preview with a link to the full size, and videos keep a thumbnail that plays when you're back online. Every clip links back to the original.\n\nPlain HTML, CSS and JS with no build step and no dependencies. The same files run in a browser (the web copy on GitHub Pages) and, wrapped by Capacitor, as the Android and iOS apps.\n\nEach section below shows the computer (left) and the phone (right).\n\nLibrary:\n\n• Continue reading at the top, then Collections, then Clips.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.danielnoam.waypage.png",
       "tintColor": "#4376a5",
-      "size": 11228704,
+      "size": 11229947,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/danielnoam/waypage@main/docs/shots/library-phone.jpg",
         "https://cdn.jsdelivr.net/gh/danielnoam/waypage@main/docs/shots/sidebar-phone.jpg",
@@ -598858,6 +599039,21 @@
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/icon.png",
       "tintColor": "000000",
       "size": 2078252
+    },
+    {
+      "name": "WQ Files",
+      "bundleIdentifier": "cz.kolbi.wqfiles",
+      "developerName": "kolbicz",
+      "version": "0.9.18",
+      "versionDate": "2026-11-17T15:21:21Z",
+      "downloadURL": "https://github.com/kolbicz/WQFiles/releases/download/v0.9.18/WQFiles.ipa",
+      "localizedDescription": "File browser, app data manager and cache cleaner for iOS 26 and 27, built on the worse_query sandbox technique. Browse other apps' containers, edit plists, hex and SQLite databases, and back up, restore or clear app data without a jailbreak or kernel exploit.",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/icon.png",
+      "tintColor": "#1E8FC7",
+      "size": 2171189,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQFiles/images/home.jpeg"
+      ]
     },
     {
       "name": "WQ Manager",
@@ -618543,11 +618739,11 @@
     }
   ],
   "_build": {
-    "generatedAt": "2026-11-17T07:52:57.704607Z",
+    "generatedAt": "2026-11-17T20:54:02.469247Z",
     "sourceCount": 108,
     "successfulSources": 107,
     "failedSources": 1,
-    "appCount": 46631,
+    "appCount": 46646,
     "loaded": [
       {
         "url": "https://driftywinds.github.io/AltStore/apps.json",
@@ -618557,7 +618753,7 @@
       {
         "url": "https://ipa.cypwn.xyz/cypwn.json",
         "name": "CyPwn IPA Library",
-        "apps": 209
+        "apps": 207
       },
       {
         "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
@@ -618622,7 +618818,7 @@
       {
         "url": "https://fastsign.dev/repo.json",
         "name": "Alan's Gigantic Repo",
-        "apps": 16915
+        "apps": 16919
       },
       {
         "url": "https://xitrix.github.io/iTorrent/AltStore.json",
@@ -618677,7 +618873,7 @@
       {
         "url": "https://appstore.sidelix.vip/repos/altstore.php",
         "name": "Sidelix App Store",
-        "apps": 10
+        "apps": 11
       },
       {
         "url": "https://delvek.net/repo.json",
@@ -618722,7 +618918,7 @@
       {
         "url": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links-no-pal.json",
         "name": "Minoa's Combined",
-        "apps": 10874
+        "apps": 10885
       },
       {
         "url": "https://randomblock1.com/altstore/apps.json",
@@ -618732,7 +618928,7 @@
       {
         "url": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/all-apps.json",
         "name": "AltGallery",
-        "apps": 11
+        "apps": 16
       },
       {
         "url": "https://provenance-emu.com/apps.json",
@@ -619052,7 +619248,7 @@
       {
         "url": "https://repository.apptesters.org",
         "name": "AppTesters IPA Repo",
-        "apps": 35
+        "apps": 31
       },
       {
         "url": "https://iosvizor-source.shrubhub.workers.dev/iosvizor.json",
