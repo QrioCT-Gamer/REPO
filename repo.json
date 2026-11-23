@@ -1,7 +1,7 @@
 {
   "name": "ShrubLibrary — Unified Repository",
   "identifier": "com.qrioctgamer.shrublibrary.unified",
-  "subtitle": "Unified sideloading repository — 31,891 app builds",
+  "subtitle": "Unified sideloading repository — 31,931 app builds",
   "website": "https://shrublibrary.pages.dev/",
   "sourceURL": "https://qrioct-gamer.github.io/REPO/repo.json",
   "apps": [
@@ -15286,6 +15286,17 @@
       "size": 165399307
     },
     {
+      "name": "Aloha",
+      "bundleIdentifier": "com.alohabrowser.alohabrowser",
+      "developerName": "",
+      "version": "8.14.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Aloha_8.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
+      "size": 167735351
+    },
+    {
       "name": "Aloha 7.12 Pro Moe",
       "bundleIdentifier": "com.shrubhub.moes.a1758404111.a1361",
       "developerName": "Moe's App Hub",
@@ -22211,13 +22222,13 @@
       "name": "ARMSX2",
       "bundleIdentifier": "com.armsx2.ios",
       "developerName": "ARMSX2",
-      "version": "2.6.0-nightly.20261122.2300",
-      "versionDate": "2026-11-22T06:28:24Z",
-      "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261122/ARMSX2-nightly-20261122-6370337611-iOS-arm64.ipa",
+      "version": "2.6.0-nightly.20261123.2028",
+      "versionDate": "2026-11-23T20:48:17Z",
+      "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261123/ARMSX2-nightly-20261123-d8d9a02783-iOS-arm64.ipa",
       "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming handheld.",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/icon.png",
       "tintColor": "#3CAEFF",
-      "size": 40930252,
+      "size": 40949886,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/game.png",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/images/list.png",
@@ -32267,6 +32278,17 @@
       "size": 68104619
     },
     {
+      "name": "Bearable",
+      "bundleIdentifier": "co.codeleap.bearable",
+      "developerName": "",
+      "version": "1.0.617",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Bearable_1.0.617_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
+      "size": 69731749
+    },
+    {
       "name": "BearPro",
       "bundleIdentifier": "net.shinyfrog.bear-iOS",
       "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
@@ -38181,13 +38203,13 @@
       "name": "Bird Chaser",
       "bundleIdentifier": "com.wyatthoutz.birding",
       "developerName": "WyattHoutz",
-      "version": "2.11.4",
-      "versionDate": "2026-11-20T17:31:20Z",
-      "downloadURL": "https://github.com/WyattHoutz/birding-app/releases/download/v2.11.4/BirdChaser-unsigned.ipa",
+      "version": "2.12.1",
+      "versionDate": "2026-11-23T13:04:46Z",
+      "downloadURL": "https://github.com/WyattHoutz/birding-app/releases/download/v2.12.1/BirdChaser-unsigned.ipa",
       "localizedDescription": "Bird Chaser (iOS):\n\nA self-contained iPhone app for personal eBird target tracking, built with Capacitor. It is a native app you sideload onto your own device — no App Store, no paid Apple Developer account.\n\n🐍 Looking for the Python pipeline, the backlog, or the release runbook? They live in the sibling repository birding (private).\n\nTwo repositories, and why:\n\nThe project is split in two, and you can land in either one. Here is the map.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.wyatthoutz.birding.png",
       "tintColor": "#7cadd2",
-      "size": 143495328
+      "size": 143505884
     },
     {
       "name": "Bitchat",
@@ -44970,13 +44992,13 @@
       "name": "BrewLog",
       "bundleIdentifier": "com.brewlog.app",
       "developerName": "proelio57",
-      "version": "2.11.0",
-      "versionDate": "2026-11-20T12:13:35Z",
-      "downloadURL": "https://github.com/proelio57/BrewLog/releases/download/v2.11.0/BrewLog.ipa",
+      "version": "2.12.1",
+      "versionDate": "2026-11-23T09:20:58Z",
+      "downloadURL": "https://github.com/proelio57/BrewLog/releases/download/v2.12.1/BrewLog.ipa",
       "localizedDescription": "Features:\n\n• Setup assistant on first launch: one simple question per screen with big tappable tiles: brewer (pour-over or espresso machine like Cafelat Robot, Flair 58, Decent DE1, La Marzocco, Gaggia) → connect the espresso machine (GaggiMate, Decent DE1 or La Marzocco; only if you picked one) → filter papers (the ones that fit your brewer come first; skipped for espresso only) → grinder + your usual setting → beans → scale. The Gear tab lists espresso machines apart from pour-over brewers. Every step can be skipped. \"Skip, just use the scale\" goes straight to Quick weigh. Run it again any time from Gear → Setup assistant. If you skipped it, the Brew tab shows a small reminder card.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.brewlog.app.png",
       "tintColor": "#b96e3e",
-      "size": 12863906,
+      "size": 12864162,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/welcome.png",
         "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/setup-brewer.png",
@@ -49310,7 +49332,7 @@
       "version": "1.2.3",
       "versionDate": "2026-11-13T12:45:46Z",
       "downloadURL": "https://github.com/chrisgleissner/c64commander/releases/download/1.2.3/c64commander-1.2.3-ios.ipa",
-      "localizedDescription": "C64 Commander:\n\nControl and manage a Commodore 64 Ultimate from Android, iOS, or a self-hosted web deployment on your local network.\n\nFeatures:\n\n• Device support: Works with the C64 Ultimate, Ultimate 64 Elite I/II, and Ultimate-II+(L) cartridges.\n• Search: Find any page, setting, action, tune or disk by name. Three ways in — the field at the top of Home, the Quick menu, or the 7 key. A result you cannot use yet is still listed, with the reason.\n• Guided tour: A first-run walk through every part of the app.\n• Dashboard: Control the machine, drives, printer, SID mixer, lighting, and streams from one page.\n• Playlists and SID Radio: Play programs and SID music from local files, device storage, HVSC, or CommoServe.",
+      "localizedDescription": "C64 Commander:\n\nControl and manage a Commodore 64 Ultimate from Android, iOS, or a self-hosted web deployment on your local network.\n\nFeatures:\n\n• Device support: Works with the C64 Ultimate, Ultimate 64 Elite I/II, and Ultimate-II+(L) cartridges.\n• Multiple devices: Save several devices, check their health, and switch between them.\n• Dashboard: Control the machine, drives, printer, SID mixer, lighting, and streams from one page.\n• Remote Input and Live View: Use an on-screen joystick or keyboard, and stream audio or video from the running machine.\n• Playlists and SID Radio: Play programs and SID music from local files, device storage, HVSC, or CommoServe.\n• SID Player: A music-player mode for phones without a C64 Ultimate. It plays SID tunes on the phone, with playlists, HVSC and SID Radio.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/uk.gleissner.c64commander.png",
       "tintColor": "#bea85c",
       "size": 7615230,
@@ -58229,6 +58251,27 @@
         "https://delvek.net/img/!/carvideorecord2.png",
         "https://delvek.net/img/!/carvideorecord3.png",
         "https://delvek.net/img/!/carvideorecord4.png"
+      ]
+    },
+    {
+      "name": "Carbon (Hacked)",
+      "bundleIdentifier": "com.joincarbon.nutrition",
+      "developerName": "NabzClan",
+      "version": "2.78.6119",
+      "versionDate": "2026-11-23T02:40:38-05:00",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/169/app_175_nabzclan_sidelix.ipa",
+      "localizedDescription": "Hack feature: Subscription Unlocked\n\nAbout Carbon\n\nThe macro tracker that coaches you.\n\nCarbon Diet Coach is a nutrition coach and calorie tracker in one. Log your food, weigh in, and check in once a week. Carbon reviews your weight trend and what you logged, decides whether your targets should change, and explains every decision.\n\nCarbon pioneered adaptive macro coaching, and thousands of members use it to lose fat, build muscle, maintain, and reverse diet.\n\nHOW WEEKLY COACHING WORKS\n\n• Answer a few questions about your goal, body, and preferences\n\n• Get personalized calorie, protein, carb, and fat targets\n\n• Log your food and weigh in, or sync your weight from Apple Health\n\n• Check in weekly. Carbon looks at your multi-week weight trend and what you actually logged, then adjusts your macros or holds them steady\n\n• Read a clear check-in report, so you're never left wondering why Carbon did or didn't make a change\n\n• Pick your check-in day, or check in early when your schedule changes\n\nPROTEIN BUILT AROUND YOU\n\nYour protein target is based on your lean body mass, with an optimal range for your goal and diet style. Research links higher protein intake during fat loss to keeping more lean mass, so Carbon keeps protein front and center all week.\n\nFLEXIBLE CALORIE PLANNER\n\nThe Calorie Planner works like a weekly calorie budget. Give yourself more calories for weekends, dinners out, and events, and fewer on quieter days, while your week stays on target.\n\n• Finished days reflect what you actually tracked, and the rest of your week rebalances around them\n\n• Hold protein keeps your protein target steady while daily calories shift\n\n• Adjust calories, protein, carbs, and fat for any upcoming day, or reset a day to your weekly defaults\n\nCOACHING WITH GUARDRAILS\n\nWhen progress stalls, Carbon makes small changes instead of big cuts, keeps your rate of loss in check, and sets a calorie floor for you. If you reach it, Carbon recommends a switch to maintenance or a reverse diet. If your week wasn't fully tracked, Carbon won't react to incomplete data.\n\nSMART LOGGING\n\nSmart Logger: snap a photo of your meal or describe it, and Carbon matches each food to an entry in our verified food database. You review the matches, confirm your servings, and log the whole plate at once.\n\nSmart Suggestions: foods you log often are pre-filled in your diary. Tap to confirm or skip.\n\nRemaining Macros: see what's left for the day and preview how a food fits before you log it.\n\nServing Amount Solver: enter the macros you have left and Carbon finds the serving that fits.\n\nPlus a barcode scanner, nutrition label scanner, quick add, copy meals, favorites, and custom foods and recipes.\n\nGOALS AND DIET STYLES\n\nFat loss, muscle gain, weight maintenance, and reverse dieting. Choose Balanced, Low Carb, Low Fat, Keto, Plant-Based, or High Protein then fine-tune each macro within recommended ranges.\n\nPROGRESS YOU CAN SEE\n\nCharts for weight, body fat, lean body mass, calories, macros, and estimated metabolic rate, plus a check-in history showing every adjustment and why.\n\nALREADY HAVE YOUR OWN TARGETS?\n\nUse Carbon as a macro, protein, and nutrition tracker, calorie counter, and food log.\n\nSUPPORT FROM REAL PEOPLE\n\nQuestions go to Carbon's support team, and mem...",
+      "iconURL": "https://appstore.sidelix.vip/images/1795419638_7219.webp",
+      "tintColor": "#2ecc71",
+      "size": 52061220,
+      "screenshotURLs": [
+        "https://appstore.sidelix.vip/screenshots/17954196386216989.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196386523382.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196383896164.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196385459114.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196384614285.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196383292570.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196385943057.webp"
       ]
     },
     {
@@ -72590,6 +72633,27 @@
       ]
     },
     {
+      "name": "Combyne (Hacked)",
+      "bundleIdentifier": "com.pungme.combyne",
+      "developerName": "NabzClan",
+      "version": "8.10.8",
+      "versionDate": "2026-11-23T02:41:51-05:00",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/172/app_178_nabzclan_sidelix.ipa",
+      "localizedDescription": "Hack feature: Subscription Unlocked\n\nAbout Combyne\n\nCombine your perfect outfit in no time. Be inspired by your style peers, discover the latest fashion trends and find your new favourite items from over 800 brands and online shops. Share them with your followers and get their instant feedback.\n\ncombyne is creativity \n\nFind your individual look by combining all items in our unique combyner, your personal virtual dressing room. Whether you're looking for tops, dresses, shoes, jeans, skirts, accessories, etc, you'll find them in over 35 categories. Search for your favourite fashion designers, brands, or items on sale. Once you've created an outfit, share it with your friends and followers and get their instant feedback.\n\ncombyne is communication\n\nFollow your friends, favourite bloggers and style icons, or any other user. Share your outfits with them or comment on their outfits. The combyne feed will keep you up to date on what the people you follow have been combining and you can tell them what you think of it.\n\ncombyne is inspiration\n\nOur fashion team carefully curated a selection of fashion trends, must-haves, outfits and looks. With combyne you'll never miss the latest trends, always get great fashion advice and browse every day for new clothes.\n\ncombyne is Community\n\nGet matched and find your fashion soulmate, who thinks and dresses just like you! The chat feature lets you share your looks immediately with your friends and receive quick feedback.\n\ncombyne is a fashion challenge\n\nOur users create Outfit Challenge every day. Create your look following the rules of the challenge, rate the others' looks, get the most likes.\n\ncombyne is online shopping\n\nYou can buy every item or outfit directly via the app at over 50 partner shops and brands. With one click, we will forward you to your favorite item in the online shop or current sale.\n\ncombyne is your virtual wardrobe\n\nSave your favourite items and outfits, name them by event or style and never lose track of your wardrobe again.\n\ncombyne Features:\n\n- Combine personal outfits and find new looks\n\n- Get new fashion tips und share them with friends\n\n- Follow friends, bloggers and style icons and comment on their outfits\n\n- Create an individual looks\n\n- Save your favourite outfits\n\n- Get fashion-matched with your style-soulmate\n\n- More than 50 online shops\n\n- More than 1.000 fashion brands\n\nSome feedback from our users:\n\nRestore your faith in fashion!!\n\nLove love LOVEEEEEEEE this app!! ….By far the best, most interactive fashion/styling app available!! And trust me I’ve tried all!!\n\n_by Hannahkristal\n\nFinally, everything in just one app!!!\n\nGreat, finally everything I need in regards to fashion all in one app:\n\n1. Inspiration from other users that I can use. \n\n2. Generate and save (or post) outfits or pieces of clothing from my own wardrobe and pair them with pieces from other users or one of the many shops in the app.\n\n3. Super chat function - so many useful tips about things I have searched for.\n\n4. Great overview and all information and categories clear at first glance. \n\nAnd since the backgrounds can be loaded individually, it is really creative!\n\nAttention: Take into account that the app should be updated regularly, because they keep adding new features!\n\nWhatsApp...",
+      "iconURL": "https://appstore.sidelix.vip/images/1795419711_3758.webp",
+      "tintColor": "#2ecc71",
+      "size": 60386729,
+      "screenshotURLs": [
+        "https://appstore.sidelix.vip/screenshots/17954197118926652.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197113988805.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197117246079.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197111191665.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197113983329.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197116414911.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197117648832.webp"
+      ]
+    },
+    {
       "name": "Comical (dev)",
       "bundleIdentifier": "com.porksphere.comical",
       "developerName": "porksphere",
@@ -86813,6 +86877,17 @@
       "size": 298901563
     },
     {
+      "name": "Documents",
+      "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+      "developerName": "",
+      "version": "8.23",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Documents_8.23_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+      "size": 298519205
+    },
+    {
       "name": "Documents - File Manager & Docs",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
       "developerName": "DocumentsFileManager&Docs",
@@ -91605,8 +91680,8 @@
         "https://cdn.jsdelivr.net/gh/elymsyr/dungeon-master-tool@main/media/session.webp",
         "https://cdn.jsdelivr.net/gh/elymsyr/dungeon-master-tool@main/media/worlds.webp",
         "https://cdn.jsdelivr.net/gh/elymsyr/dungeon-master-tool@main/media/map.webp",
-        "https://cdn.jsdelivr.net/gh/elymsyr/dungeon-master-tool@main/media/character.webp",
-        "https://cdn.jsdelivr.net/gh/elymsyr/dungeon-master-tool@main/media/packages.webp"
+        "https://cdn.jsdelivr.net/gh/elymsyr/dungeon-master-tool@main/media/packages.webp",
+        "https://cdn.jsdelivr.net/gh/elymsyr/dungeon-master-tool@main/media/marketplace.webp"
       ]
     },
     {
@@ -94203,6 +94278,17 @@
       "localizedDescription": "Injected with Premium",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
       "size": 212477615
+    },
+    {
+      "name": "Duolingo",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "developerName": "",
+      "version": "7.149.2",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Duolingo_7.149.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
+      "size": 213227070
     },
     {
       "name": "Duolingo Cracked",
@@ -100260,6 +100346,17 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
       "size": 479322824
+    },
+    {
+      "name": "Elevate",
+      "bundleIdentifier": "com.elevateapp.elevate",
+      "developerName": "",
+      "version": "5.267.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Elevate_5.267.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+      "size": 474598621
     },
     {
       "name": "Elevate (Hacked)",
@@ -116971,6 +117068,17 @@
       ]
     },
     {
+      "name": "Fing",
+      "bundleIdentifier": "overlook.fing",
+      "developerName": "",
+      "version": "12.13.6",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Fing_12.13.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png",
+      "size": 204239532
+    },
+    {
       "name": "Fing Premium – Fing++",
       "bundleIdentifier": "me.ipalibrary.fingpremiumfing",
       "developerName": "Fing Limited",
@@ -126867,6 +126975,17 @@
       "size": 108717866
     },
     {
+      "name": "FlightTracker",
+      "bundleIdentifier": "com.iaftt.flightplusfree",
+      "developerName": "",
+      "version": "8.8.6",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/FlightTracker_8.8.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+      "size": 120427188
+    },
+    {
       "name": "FlightTrackerPremium",
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "developerName": "iOS Tutorials + App Cracks",
@@ -128788,13 +128907,13 @@
       "name": "Flux",
       "bundleIdentifier": "org.omarchy.flux.ios",
       "developerName": "bjarneo",
-      "version": "0.19.1",
-      "versionDate": "2026-10-29T09:47:47Z",
-      "downloadURL": "https://github.com/bjarneo/flux/releases/download/v0.19.1/flux-ios-0.19.1.ipa",
+      "version": "0.20.0",
+      "versionDate": "2026-11-23T07:35:49Z",
+      "downloadURL": "https://github.com/bjarneo/flux/releases/download/v0.20.0/flux-ios-0.20.0.ipa",
       "localizedDescription": "Flux:\n\nConnect your Omarchy desktop to an Android phone, an iPhone, or a Mac over your local network, or through Tailscale when you are away. Share files, clipboard text, and clipboard images, read phone notifications, control media, and use your phone as a camera or microphone.\n\nFlux includes a CLI, a background daemon, a native Qt window, an Omarchy shell plugin, a native Android app, a native iOS app, and a native macOS app. fluxd listens on 1 TCP port from 12100 to 12108 and on UDP port 12100, and it also opens the connections to the devices itself. So Flux works with the default Omarchy firewall, which blocks inbound traffic, and needs no new inbound rule. See security for what a paired device can do and which settings limit it.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.omarchy.flux.ios.png",
       "tintColor": "#5c73c1",
-      "size": 10583725
+      "size": 10643468
     },
     {
       "name": "Flycast",
@@ -136024,13 +136143,13 @@
       "name": "Ghost Remote",
       "bundleIdentifier": "wiki.qaq.GhostRemote",
       "developerName": "owngoal-dev",
-      "version": "1.6.35",
-      "versionDate": "2026-11-21T15:21:06Z",
-      "downloadURL": "https://github.com/owngoal-dev/iGhostVT/releases/download/v1.6.35/GhostRemote-1.6.35.ipa",
+      "version": "1.6.39",
+      "versionDate": "2026-11-23T16:44:30Z",
+      "downloadURL": "https://github.com/owngoal-dev/iGhostVT/releases/download/v1.6.39/GhostRemote-1.6.39.ipa",
       "localizedDescription": "iGhostVT:\n\nA real terminal on iPhone, iPad, and Mac, drawn by the same engine as Ghostty on the desktop. Start a command, leave the app, and come back — the shell is still running.\n\nMac:\n\nUnzip the archive, drag iGhostVT.app into Applications, then open it from there. The app uses a background helper to run your sessions. If approval is requested, follow the app’s prompt to enable it in System Settings.\n\nGhost Remote is iGhostVT's remote access on its own, for an iPhone or iPad without custom firmware: it opens terminals on your devices running iGhostVT and runs none of its own. Add this source to AltStore or SideStore:\n\nhttps://owngoal-dev.github.io/iGhostVT/altstore.json\n\nFeatures:\n\n• Ghostty’s engine: GPU-drawn terminal, the Ghostty theme catalog, and extra keys on the software keyboard.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/wiki.qaq.GhostRemote.png",
       "tintColor": "#94a4dc",
-      "size": 7238629,
+      "size": 7304130,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/owngoal-dev/iGhostVT@main/Documents/screenshots.png"
       ]
@@ -152637,13 +152756,13 @@
       "name": "iBuilder",
       "bundleIdentifier": "dev.ibuilder.app",
       "developerName": "Absenti",
-      "version": "0.1.7",
-      "versionDate": "2026-11-22T19:54:57Z",
-      "downloadURL": "https://github.com/Absenti/iBuilder/releases/download/v0.1.7/GameApp-rust-20261122-195251-rust2353f307.ipa",
+      "version": "0.1.8",
+      "versionDate": "2026-11-23T14:31:19Z",
+      "downloadURL": "https://github.com/Absenti/iBuilder/releases/download/v0.1.8/GameApp-rust-20261123-142811-rustcf3c2f55.ipa",
       "localizedDescription": "iBuilder turns a Switch game dump you own into a native iOS build on the iPhone itself: extract, rewrite, translate the shaders, sign and play. Experimental: results differ per game.\n\nNo game, firmware or key is included or downloaded. Use it only with your own games and the prod.keys of your own console. Not affiliated with Nintendo or Apple.",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iBuilder/icon.webp",
       "tintColor": "#EFB15A",
-      "size": 40973312,
+      "size": 42455597,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iBuilder/images/library.webp",
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iBuilder/images/build.webp",
@@ -152996,12 +153115,12 @@
       "bundleIdentifier": "com.joemattiello.iCube",
       "developerName": "Provenance Emu",
       "version": "1.0.0",
-      "versionDate": "2026-11-23T04:40:46.676Z",
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-549/Non-Jailbroken.ipa",
+      "versionDate": "2026-11-23T11:41:03.398Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-554/Non-Jailbroken.ipa",
       "localizedDescription": "Experience classic Nintendo GameCube and Wii games on your iOS devices and Apple TV. Built on the proven Dolphin emulator foundation.\n\nFeatures:\n• Full GameCube and Wii emulation\n• Controller support (MFi, PlayStation, Xbox)\n• Save states and real-time saves\n• High-resolution rendering\n• Fast-forward and slow motion\n• Customizable controls\n• Game library management\n• And much more!\n\niCube is a fork of DolphiniOS, optimized for iOS and tvOS devices.",
       "iconURL": "https://icube-emu.com/icon-1024.png",
       "tintColor": "#3B82F6",
-      "size": 124817949,
+      "size": 124824232,
       "screenshotURLs": [
         "https://icube-emu.com/screenshots/2026-11/iphone/play.jpg",
         "https://icube-emu.com/screenshots/2026-11/iphone/library.jpg",
@@ -153012,6 +153131,18 @@
         "https://icube-emu.com/screenshots/iphone/library-dark.jpg",
         "https://icube-emu.com/screenshots/iphone/shaders.jpg"
       ]
+    },
+    {
+      "name": "iCube SL",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance-Emu",
+      "version": "1.0.0",
+      "versionDate": "2026-11-23T12:48:05Z",
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-557/Non-Jailbroken.ipa",
+      "localizedDescription": "DolphiniOS:\n\nDolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.\n\nThis is the repository for the new DolphiniOS codebase.\n\nSelf-hosted game libraries:\n\niCube development builds can browse and import your own GameCube and Wii games from an Emulation Server (ECS). Direct support for self-hosted RomM libraries is in development.\n\nJIT on iOS 26 (Trusted Execution Monitor):\n\niCube runs the JIT recompiler again on iOS 26. TXM will not execute a freshly written code page until a debugger has written to that page, so iCube asks an attached broker to touch every page of its 288 MB code region once at startup. After that the broker can detach and the region stays usable for the life of the process.",
+      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.joemattiello.iCube.png",
+      "tintColor": "#8347f6",
+      "size": 124827064
     },
     {
       "name": "ID Photo Full – ID Photo++",
@@ -154969,6 +155100,28 @@
       "iconURL": "https://ifly-emu.com/icon-1024.png",
       "tintColor": "#ff6900",
       "size": 137000559,
+      "screenshotURLs": [
+        "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/2026-11/iphone/themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library.jpg",
+        "https://ifly-emu.com/screenshots/iphone/library-theme.jpg",
+        "https://ifly-emu.com/screenshots/iphone/search.jpg",
+        "https://ifly-emu.com/screenshots/iphone/settings-themes.jpg",
+        "https://ifly-emu.com/screenshots/iphone/cheats.jpg"
+      ]
+    },
+    {
+      "name": "iFly",
+      "bundleIdentifier": "com.provenance.ifly",
+      "developerName": "Provenance Emu",
+      "version": "1.0.0+1795380446",
+      "versionDate": "2026-11-22",
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795380446/iFly-1.0.0-1795380446.ipa",
+      "localizedDescription": "Experience classic Sega Dreamcast games on your iOS devices and Apple TV.\n\nFeatures:\n• Full Dreamcast emulation\n• Controller support (MFi, PlayStation, Xbox)\n• Save states and real-time saves\n• High-resolution rendering\n• Fast-forward and slow motion\n• Customizable controls\n• Game library management\n• And much more!\n\nThis is an early build of iFly optimized for iOS and tvOS devices.",
+      "iconURL": "https://ifly-emu.com/icon-1024.png",
+      "tintColor": "#ff6900",
+      "size": 138020193,
       "screenshotURLs": [
         "https://ifly-emu.com/screenshots/2026-11/iphone/play.jpg",
         "https://ifly-emu.com/screenshots/2026-11/iphone/library.jpg",
@@ -160407,6 +160560,17 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
+    },
+    {
+      "name": "Infuse",
+      "bundleIdentifier": "com.firecore.infuse",
+      "developerName": "",
+      "version": "8.5.11",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Infuse_8.5.11_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Plus",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+      "size": 102465415
     },
     {
       "name": "Infuse 8.4.2 Plus 2.5",
@@ -170357,24 +170521,6 @@
       "bundleIdentifier": "app.local.iPadn",
       "developerName": "mengangs",
       "version": "2.3.4",
-      "versionDate": "2026-11-22T05:56:54Z",
-      "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.4/iPadn-2.3.4-lite-unsigned.ipa",
-      "localizedDescription": "在 iPhone 与 iPad 上搜索、下载并安装你已拥有的应用——包括历史版本与已下架应用，支持区域价格比较与原生安装。支持 iPhone、iPad、Apple TV 与 Mac 应用，提供 11 种语言。",
-      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.png",
-      "tintColor": "#111111",
-      "size": 49848919,
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/search.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/detail.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/versions.png",
-        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/prices.png"
-      ]
-    },
-    {
-      "name": "iPadn",
-      "bundleIdentifier": "app.local.iPadn",
-      "developerName": "mengangs",
-      "version": "2.3.4",
       "versionDate": "2026-11-22T19:03:41-05:00",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/132/app_21_nabzclan_sidelix.ipa",
       "localizedDescription": "Search, download and install the apps you own, on iPhone and iPad. Works with iPhone, iPad, Apple TV and Mac apps, including older versions and apps removed from sale.",
@@ -170390,6 +170536,24 @@
         "https://appstore.sidelix.vip/screenshots/17952310093421136.webp",
         "https://appstore.sidelix.vip/screenshots/17952310098136053.webp",
         "https://appstore.sidelix.vip/screenshots/17952310096192362.webp"
+      ]
+    },
+    {
+      "name": "iPadn",
+      "bundleIdentifier": "app.local.iPadn",
+      "developerName": "mengangs",
+      "version": "2.3.5",
+      "versionDate": "2026-11-23T15:22:43Z",
+      "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.3.5/iPadn-2.3.5-lite-unsigned.ipa",
+      "localizedDescription": "在 iPhone 与 iPad 上搜索、下载并安装你已拥有的应用——包括历史版本与已下架应用，支持区域价格比较与原生安装。支持 iPhone、iPad、Apple TV 与 Mac 应用，提供 11 种语言。",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/icon.png",
+      "tintColor": "#111111",
+      "size": 49971723,
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/search.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/detail.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/versions.png",
+        "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iPadn/images/prices.png"
       ]
     },
     {
@@ -170450,9 +170614,9 @@
       "name": "iPhanpy",
       "bundleIdentifier": "dev.fantinel.ios.phanpy",
       "developerName": "Matt Fantinel",
-      "version": "1.6.1",
-      "versionDate": "2026-11-06T12:00:00+01:00",
-      "downloadURL": "https://github.com/matfantinel/iphanpy/raw/refs/heads/main/altstore/PAL/d5bac488-4859-476e-9771-38d379506f30/manifest.json",
+      "version": "1.7.0",
+      "versionDate": "2026-11-23T12:00:00+01:00",
+      "downloadURL": "https://github.com/matfantinel/iphanpy/raw/refs/heads/main/altstore/PAL/0d35e3df-3a42-4ec0-9e06-f28ff2178d81/manifest.json",
       "localizedDescription": "iPhanpy brings everything that Phanpy has, but runs smoother, stays longer in memory, and has a neat Liquid Glass icon! I am not the original developer of Phanpy, so all props go to Chee Aun. I merely adapted the original web app into a version that is installable as a “native” iOS app - it faces way less performance restrictions compared to running on the browser.",
       "iconURL": "https://i.imgur.com/AAsffEA.png",
       "tintColor": "#B2CDFD",
@@ -174087,12 +174251,12 @@
       "bundleIdentifier": "moe.itoapp.ito",
       "developerName": "AtiinLabs",
       "version": "1.5.1",
-      "versionDate": "2026-11-22T11:08:57Z",
-      "downloadURL": "https://github.com/AtiinLabs/Ito/releases/download/dev-260/Ito-1.5.1-dev.260-unsigned.ipa",
+      "versionDate": "2026-11-23T16:51:55Z",
+      "downloadURL": "https://github.com/AtiinLabs/Ito/releases/download/dev-263/Ito-1.5.1-dev.263-unsigned.ipa",
       "localizedDescription": "Features:\n\n• Native manga and novel readers, plus video playback.\n• One library with local history and backups.\n• AniList discovery and progress tracking with AniList, MyAnimeList or MangaBaka.\n• Extensible .ito source plugins with search and source settings.\n\nBuild from source:\n\nRequires Xcode 26.2 or later. Supports iOS and iPadOS 15.4+.\n\nLet Swift packages resolve, select your signing team and device, then run with ⌘R.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/moe.itoapp.ito.png",
       "tintColor": "#64bd9e",
-      "size": 15138524,
+      "size": 15150532,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/AtiinLabs/Ito@main/assets/screenshots/library.png",
         "https://cdn.jsdelivr.net/gh/AtiinLabs/Ito@main/assets/screenshots/details.png",
@@ -184683,13 +184847,13 @@
       "name": "Lantern",
       "bundleIdentifier": "org.getlantern.lantern",
       "developerName": "getlantern",
-      "version": "10.0.5",
-      "versionDate": "2026-11-02T20:19:12Z",
-      "downloadURL": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer.ipa",
+      "version": "11.0.0",
+      "versionDate": "2026-11-23T15:10:55Z",
+      "downloadURL": "https://github.com/getlantern/lantern/releases/download/v11.0.0/lantern-installer.ipa",
       "localizedDescription": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.getlantern.lantern.png",
       "tintColor": "#14b3b4",
-      "size": 92004200
+      "size": 104375016
     },
     {
       "name": "Lapse: A Forgotten Future",
@@ -189224,6 +189388,17 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
+    },
+    {
+      "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "",
+      "version": "12.0.10",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Lightroom_12.0.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+      "size": 225658047
     },
     {
       "name": "Lightroom 11.00 Pro Moe",
@@ -198434,13 +198609,13 @@
       "name": "Lumisound",
       "bundleIdentifier": "com.lumisound.ios",
       "developerName": "VoxeliseStudios",
-      "version": "2.0.0.66",
-      "versionDate": "2026-11-19T19:15:19Z",
-      "downloadURL": "https://github.com/VoxeliseStudios/Lumisound/releases/download/ios/v2.0.0.66/Lumisound-2.0.0.66.ipa",
+      "version": "2.0.0.68",
+      "versionDate": "2026-11-23T20:04:18Z",
+      "downloadURL": "https://github.com/VoxeliseStudios/Lumisound/releases/download/ios/v2.0.0.68/Lumisound-2.0.0.68.ipa",
       "localizedDescription": "What you get:\n\nSound.\n\n• The Lumisound engine: gapless playback, crossfade and DJ-style Smart Crossfade, speed and pitch.\n• LumiEQ with presets for every kind of music and Auto EQ that tunes itself to each song.\n• Volume boost that stays clean, Spatial Audio rooms with head tracking, reverb, night mode.\n• Effects such as Lo-Fi Tape, AM Radio, Vinyl Night, Underwater, Nightcore and Slowed + Reverb.\n• Music Haptics, Skip Silent Intros, ReplayGain.\n\nLibrary.\n\n• Duplicate Finder that compares the sound itself, Library Health, backups and a 30-day Recently Deleted.\n• Synced lyrics, smart playlists, stats, a yearly Rewind and achievements.\n\nNow Playing.\n\n• More than 25 animated artwork styles and 11 seeker styles, or design your own.\n• Widgets, a Live Activity, Siri and Shortcuts, Focus filters and Car Mode.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.lumisound.ios.png",
       "tintColor": "#8e60b4",
-      "size": 17505057
+      "size": 17913333
     },
     {
       "name": "Lumy",
@@ -202435,13 +202610,13 @@
       "name": "Manatan",
       "bundleIdentifier": "app.mangatan.mangatan",
       "developerName": "KolbyML",
-      "version": "6.3.28",
-      "versionDate": "2026-11-22T15:05:32Z",
-      "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.28/Manatan-v6.3.28-iOS.ipa",
+      "version": "6.3.29",
+      "versionDate": "2026-11-23T11:36:50Z",
+      "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.29/Manatan-v6.3.29-iOS.ipa",
       "localizedDescription": "Watch anime and YouTube. Read manga and novels. Look up words and save useful sentences without leaving the story.\n\nOne app, from immersion to review:\n\n• Watch, read, and listen. Local videos, YouTube, manga, EPUBs, web novels, and podcasts in one app.\n• Understand in context. Look up words with your imported dictionaries, use on-device manga OCR, and work with interactive subtitles.\n• Keep what matters. Save sentences with audio and images where available. Review in Manatan SRS with account sync, or keep using Anki.\n\nYour first lookup:\n\n• Install and open Manatan. A dictionary is installed automatically.\n• Open a video with subtitles, a manga chapter, or an EPUB you want to understand.\n• Look up a word. Save a useful sentence to Manatan SRS or Anki, then keep going.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.mangatan.mangatan.png",
       "tintColor": "#1a71e4",
-      "size": 446890165,
+      "size": 447490406,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/lookup.webp",
         "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/manga.webp",
@@ -203353,16 +203528,16 @@
       ]
     },
     {
-      "name": "Marble Blast Gold",
-      "bundleIdentifier": "com.randomityguy.mbghaxe",
+      "name": "Marble Blast Ultra",
+      "bundleIdentifier": "com.randomityguy.mbuhaxe",
       "developerName": "RandomityGuy",
-      "version": "1.1.15",
-      "versionDate": "2026-11-20T12:23:16Z",
-      "downloadURL": "https://github.com/RandomityGuy/MBHaxe/releases/download/1.1.15/MBHaxe-Gold-iOS.ipa",
+      "version": "1.4.1",
+      "versionDate": "2026-11-23T21:18:26Z",
+      "downloadURL": "https://github.com/RandomityGuy/MBHaxe/releases/download/1.4.1-mbu/MBHaxe-Ultra-iOS.ipa",
       "localizedDescription": "MBHaxe:\n\nA Haxe port of Marble Blast Gold, Ultra, Platinum and PlatinumQuest, name subject to change. The marble physics code was taken from OpenMBU along with my own collision detection code, game logic was partially from scratch and taken with permission from Marble Blast Web Port.\n\nWeb Browser:\n\nThe browser port supports touch controls, meaning it can be played on mobile devices.\n\nWindows, Mac and Linux:\n\nLinux port by boucymatt. Supports Steam Deck.\n\nMac Instructions - Important:\n\nPut the .app file in either /Applications or ~/Applications in order to run it properly. You will also have to bypass Gatekeeper since the .app is not signed.",
-      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.randomityguy.mbghaxe.png",
-      "tintColor": "#61b8d1",
-      "size": 31522933,
+      "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.randomityguy.mbuhaxe.png",
+      "tintColor": "#c09cd8",
+      "size": 61546551,
       "screenshotURLs": [
         "https://imgur.com/x6DYms7.png",
         "https://imgur.com/Ncb4atl.png",
@@ -211401,6 +211576,17 @@
       "size": 160774307
     },
     {
+      "name": "Mimo",
+      "bundleIdentifier": "com.getmimo.mimo",
+      "developerName": "",
+      "version": "12.37.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Mimo_12.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
+      "size": 161603007
+    },
+    {
       "name": "Mimo - Learn Coding/Programming",
       "bundleIdentifier": "com.getmimo.mimo",
       "developerName": "Mimo-LearnCoding/Programming",
@@ -215233,13 +215419,13 @@
       "name": "Modu",
       "bundleIdentifier": "com.modu.reader",
       "developerName": "sobranie2406",
-      "version": "1.3.10",
-      "versionDate": "2026-11-18T04:05:32Z",
-      "downloadURL": "https://github.com/sobranie2406/modureader/releases/download/v1.3.10/Modu-1.3.10-ios-arm64.ipa",
-      "localizedDescription": "Available for Android, iOS, macOS, Windows, Linux and native HarmonyOS. Local reading needs no AI account; online tools are optional.\n\nFeatures:\n\nA flexible library, comfortable typography, scan-to-text reading, AI, translation, listening and sync. Keep your everyday reading tools close to the page.\n\nPDFs and scanned books:\n\nKeep the original layout while removing empty margins. Panel reading, rotation, zoom and image enhancement help you see the details on smaller screens.\n\nOn-device OCR:\n\nTurn scanned pages into text you can reflow, select, translate and annotate. Lightweight OCR models run locally and work offline after download.\n\nOriginal and reflowed text:\n\nRead the original page alongside adjustable text. Stack them in portrait or place them side by side in landscape to check the source without losing your place.",
+      "version": "1.3.11",
+      "versionDate": "2026-11-23T10:26:34Z",
+      "downloadURL": "https://github.com/sobranie2406/modureader/releases/download/v1.3.11/Modu-1.3.11-ios-arm64.ipa",
+      "localizedDescription": "Available for Android, iOS, macOS, Windows, Linux and native HarmonyOS. Local reading needs no AI account; online tools are optional.\n\nDownloads and guides:\n\nFrom 1.3.11, Linux packages include x64 and ARM64 DEBs for Debian 13 and an AppImage for Arch Linux x64. AppImage installation guide.\n\nFeatures:\n\nA flexible library, comfortable typography, scan-to-text reading, AI, translation, listening and sync. Keep your everyday reading tools close to the page.\n\nPDFs and scanned books:\n\nKeep the original layout while removing empty margins. Panel reading, rotation, zoom and image enhancement help you see the details on smaller screens.\n\nOn-device OCR:\n\nTurn scanned pages into text you can reflow, select, translate and annotate. Lightweight OCR models run locally and work offline after download.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.modu.reader.png",
       "tintColor": "#c7a55c",
-      "size": 54136014,
+      "size": 52434251,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/sobranie2406/modureader@main/docs/images/showcase/v1.3.0/reading-en.webp",
         "https://cdn.jsdelivr.net/gh/sobranie2406/modureader@main/docs/images/showcase/v1.3.0/scanned-pdf-en.webp",
@@ -229034,12 +229220,12 @@
       "bundleIdentifier": "com.wrngwrld.Chanyan",
       "developerName": "NekoSurf",
       "version": "0.13.1",
-      "versionDate": "2026-11-19T11:56:26Z",
-      "downloadURL": "https://github.com/NekoSurf/NekoSurf/releases/download/v0.13.1%2B316/Runner.ipa",
+      "versionDate": "2026-11-23T09:26:05Z",
+      "downloadURL": "https://github.com/NekoSurf/NekoSurf/releases/download/v0.13.1%2B319/Runner.ipa",
       "localizedDescription": "🧭 Browse:\n\n• All boards in one place, your favorites first, and a Feed of threads from all of them.\n• Threads in a grid or a list, sorted by bump order, newest, oldest, replies or images.\n• Search your favorite boards, or all of 4chan.\n• Hide threads by keyword or regex, and paste a 4chan link to open its thread.\n\n📖 Read:\n\n• Threads read like comments: replies nested under the post they answer, and folded away with a tap; or a flat list in the order they were posted, if you prefer.\n• Hold a post to hide it, or a poster's posts by their ID, name, tripcode or country, and filter replies by keyword or regex.\n• Tap a poster's ID to see all their posts in the thread.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.wrngwrld.Chanyan.png",
       "tintColor": "#27bbe8",
-      "size": 34348650,
+      "size": 32424806,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/NekoSurf/NekoSurf@main/screenshots/ios_screenshot_1.jpg",
         "https://cdn.jsdelivr.net/gh/NekoSurf/NekoSurf@main/screenshots/ios_screenshot_2.jpg"
@@ -234045,13 +234231,13 @@
       "name": "nori",
       "bundleIdentifier": "dev.nori.music",
       "developerName": "norifm",
-      "version": "0.9.5",
-      "versionDate": "2026-11-19T10:39:27Z",
-      "downloadURL": "https://github.com/norifm/nori/releases/download/v0.9.5/nori-ipod-0.9.5.ipa",
+      "version": "1.0.0",
+      "versionDate": "2026-11-23T13:51:40Z",
+      "downloadURL": "https://github.com/norifm/nori/releases/download/v1.0.0/nori-ipod-1.0.0.ipa",
       "localizedDescription": "What it does:\n\n• It saves battery. nori decodes music ahead and lets the CPU sleep in between. Nothing ticks while the screen is off, and on Android the audio chip can decode on its own.\n• It sounds right: gapless albums, AutoMix transitions on the beat, an equalizer with AutoEQ curves, and a sound profile for each output.\n• It finds the lyrics: your server's, and those of eleven online services, timed against the singing, word by word where a service has that.\n• It plays together. Control one device from another, or host a jam that guests join with a link or a QR code.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.nori.music.png",
       "tintColor": "#0284c7",
-      "size": 7224711,
+      "size": 7475777,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/norifm/nori@master/docs/screenshots/rainbow-goblins-album-page.png",
         "https://cdn.jsdelivr.net/gh/norifm/nori@master/docs/screenshots/rainbow-goblins-full-player.png"
@@ -239967,6 +240153,27 @@
       ]
     },
     {
+      "name": "Obscura (Hacked)",
+      "bundleIdentifier": "com.benricemccarthy.obscura-3",
+      "developerName": "NabzClan",
+      "version": "2026.9",
+      "versionDate": "2026-11-23T02:41:33-05:00",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/171/app_177_nabzclan_sidelix.ipa",
+      "localizedDescription": "Hack feature: Premium Unlocked\n\nAbout Obscura\n\nObscura V is a camera app packed full of features to help you take incredible photos. Obscura pairs a stunning design with intuitive controls that make taking photos a delight.\n\n—\n\nOver its 10+ years on the App Store, Obscura has been featured numerous times around the world, including as Editors’ Choice and App of the Day.\n\n—\n\nDesign\n\nObscura squeezes a bunch of powerful features into simple controls anyone can master. The interface balances aesthetics, ergonomics, and intuitiveness. You won’t want to use anything else. Controls can be reached with one thumb, and gestures and haptics combine to create a tactile experience that lets you stay focused on your subject.\n\n—\n\nCapture Modes & Formats\n\nObscura captures photos, videos, Live Photos, and portraits. Photos can be captured in RAW, ProRAW, HEIC, and JPEG (on supported devices, see http://obscura.camera/compatibility).\n\nCapture images in multiple different aspect ratios, or apply filters live in camera for a wide variety of styles.\n\n—\n\nCamera Settings\n\nObscura gives you control over exposure, focus, white balance, ISO, shutter speed, and flash, with intuitive controls that make you feel in control of your device’s camera.\n\n—\n\nLive Filters\n\nObscura includes a bunch of great filters to give your photos instant style but you can also create your own and use them live in-camera. It’s very cool and very powerful.\n\n—\n\nView Options\n\nObscura lets you display a grid, a spirit level, a histogram, focus peaking, a focus loupe, and exposure clipping highlights to help you understand every detail of what you’re shooting.\n\n—\n\nPhoto Library\n\nObscura has its own interface for browsing, rating, editing, and sharing images, but it’s fully integrated with your system photo library, so images captured with Obscura are available everywhere.\n\n—\n\nObscura Ultra\n\nObscura is free to use, with an annual subscription for premium features. See http://obscura.camera/ultra for full details.\n\n—\n\nI hope you love using Obscura as much as I’ve loved designing and building it. If you do, please consider subscribing to Ultra, leaving a review, or just sharing with a friend.\n\nAll the best,\n\nBen\n\n————\n\nPrivacy Policy: http://obscura.camera/privacy\n\nTerms of use: http://obscura.camera/terms",
+      "iconURL": "https://appstore.sidelix.vip/images/1795419692_2828.webp",
+      "tintColor": "#2ecc71",
+      "size": 152160672,
+      "screenshotURLs": [
+        "https://appstore.sidelix.vip/screenshots/17954196923404661.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196923296385.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196927145064.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196924770057.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196923093572.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196926507996.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196937752802.webp"
+      ]
+    },
+    {
       "name": "Obsolete (CN)",
       "bundleIdentifier": "com.qiqi.Modifier",
       "developerName": "Obsolete",
@@ -243370,13 +243577,13 @@
       "name": "Open Screen Sharing",
       "bundleIdentifier": "io.nekohasekai.screensharing",
       "developerName": "nekohasekai",
-      "version": "1.0.8",
-      "versionDate": "2026-11-20T13:51:14Z",
-      "downloadURL": "https://github.com/nekohasekai/open-screen-sharing/releases/download/v1.0.8/OpenScreenSharing.ipa",
+      "version": "1.0.9",
+      "versionDate": "2026-11-23T11:24:00Z",
+      "downloadURL": "https://github.com/nekohasekai/open-screen-sharing/releases/download/v1.0.9/OpenScreenSharing.ipa",
       "localizedDescription": "Open Screen Sharing is a free and open-source remote desktop client optimized for Mac screen sharing and public networks, while also offering first-class support for standard VNC and RDP.",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/icon.png",
       "tintColor": "#1060F0",
-      "size": 11167454,
+      "size": 11742697,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/OpenScreenSharing/images/session.png"
       ]
@@ -247009,12 +247216,12 @@
       "bundleIdentifier": "io.github.possiblypengu.pageturner",
       "developerName": "PossiblyPengu",
       "version": "2.20.0",
-      "versionDate": "2026-11-16T17:35:11Z",
-      "downloadURL": "https://github.com/PossiblyPengu/PageTurner/releases/download/ios-build-43918063513/Pageturner.ipa",
+      "versionDate": "2026-11-23T12:27:50Z",
+      "downloadURL": "https://github.com/PossiblyPengu/PageTurner/releases/download/ios-build-45173042764/Pageturner.ipa",
       "localizedDescription": "Pageturner:\n\nAn e-reader and audiobook player for iOS, linked to BookMaster. Everything runs on the device — books, covers, positions and the library live in the app.\n\nThe iOS app:\n\nA native SwiftUI app (iOS 17+) built on the Readium toolkit. It lives in ios/.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.possiblypengu.pageturner.png",
       "tintColor": "#b87748",
-      "size": 28344095
+      "size": 28348413
     },
     {
       "name": "Paicord",
@@ -249832,13 +250039,13 @@
       "name": "Pawse",
       "bundleIdentifier": "com.thenetaji.pawse",
       "developerName": "thenetaji",
-      "version": "1.15.1",
-      "versionDate": "2026-11-15T20:23:30Z",
-      "downloadURL": "https://github.com/thenetaji/pawse-music/releases/download/v1.15.1/Pawse.ipa",
+      "version": "1.16.0",
+      "versionDate": "2026-11-23T17:00:16Z",
+      "downloadURL": "https://github.com/thenetaji/pawse-music/releases/download/v1.16.0/Pawse.ipa",
       "localizedDescription": "What it does:\n\nAlso: word-by-word lyrics, crossfade, a sleep timer, the same loudness for every song, songs that keep playing offline, and a little mouse that keeps teasing the cat.\n\nMusic and videos share one Home and one Search. It's YouTube the way you'd want it:\n\n• A Home that ends. Pick up the video or song you left, see who you follow with a dot for anything new, then the latest from your channels, your mixes and your likes. Then it says you're caught up. YouTube's own suggestions stay off unless you switch them on, and Edit Home turns any section on or off and changes the order.\n• No Shorts, no ads, no mixes. Search has a YouTube filter for videos and channels. Block channels, and words in titles, and they're gone everywhere.",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.thenetaji.pawse.png",
       "tintColor": "#3b82f6",
-      "size": 24808948,
+      "size": 22678603,
       "screenshotURLs": [
         "https://cdn.jsdelivr.net/gh/thenetaji/pawse-music@main/docs/images/now-playing.png",
         "https://cdn.jsdelivr.net/gh/thenetaji/pawse-music@main/docs/images/home.png",
@@ -252938,6 +253145,17 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
       "size": 164628469
+    },
+    {
+      "name": "PeakVisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "developerName": "",
+      "version": "5.124",
+      "versionDate": "2026-11-24",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PeakVisor_5.124_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+      "size": 165357118
     },
     {
       "name": "PeakWatch",
@@ -280800,6 +281018,17 @@
       "size": 239255172
     },
     {
+      "name": "PREQUEL",
+      "bundleIdentifier": "com.aiarlabs.prequel",
+      "developerName": "",
+      "version": "2.105.0",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/PREQUEL_2.105.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
+      "size": 299189014
+    },
+    {
       "name": "Prequel - Photo & Video Editor",
       "bundleIdentifier": "com.aiarlabs.prequel",
       "developerName": "Prequel",
@@ -302682,6 +302911,17 @@
       "size": 135602948
     },
     {
+      "name": "RiseSleep",
+      "bundleIdentifier": "com.risesci.nyx",
+      "developerName": "",
+      "version": "0.1.654",
+      "versionDate": "2026-11-24",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/RiseSleep_0.1.654_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+      "size": 135601801
+    },
+    {
       "name": "RisuNest",
       "bundleIdentifier": "io.github.rsyumi.risunest",
       "developerName": "rsyumi",
@@ -316400,6 +316640,17 @@
       ]
     },
     {
+      "name": "ShutEye",
+      "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
+      "developerName": "",
+      "version": "3.6.1",
+      "versionDate": "2026-11-24",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ShutEye_3.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
+      "size": 611936715
+    },
+    {
       "name": "SideJIT",
       "bundleIdentifier": "com.stossy11.SideJIT",
       "developerName": "Stossy11 | nythepegasus",
@@ -318704,6 +318955,17 @@
       "size": 55984871
     },
     {
+      "name": "SimplyDraw",
+      "bundleIdentifier": "com.joytunes.Draw",
+      "developerName": "",
+      "version": "1.25.0",
+      "versionDate": "2026-11-24",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/SimplyDraw_1.25.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
+      "size": 59340162
+    },
+    {
       "name": "SimplyGuitar",
       "bundleIdentifier": "com.joytunes.SimplyGuitar",
       "developerName": "",
@@ -319388,6 +319650,17 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "size": 158785433
+    },
+    {
+      "name": "SimplyGuitar",
+      "bundleIdentifier": "com.joytunes.SimplyGuitar",
+      "developerName": "",
+      "version": "10.32.2",
+      "versionDate": "2026-11-24",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/SimplyGuitar_10.32.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
+      "size": 158975348
     },
     {
       "name": "Simplypiano",
@@ -320939,6 +321212,17 @@
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "size": 155447178
+    },
+    {
+      "name": "SimplyPiano",
+      "bundleIdentifier": "com.joytunes.asla",
+      "developerName": "",
+      "version": "9.11.7",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/SimplyPiano_9.11.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+      "size": 155696657
     },
     {
       "name": "SimplySing",
@@ -325208,6 +325492,17 @@
       "size": 208976928
     },
     {
+      "name": "SleepCycle",
+      "bundleIdentifier": "com.lexwarelabs.goodmorning",
+      "developerName": "",
+      "version": "6.26.460",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/SleepCycle_6.26.460_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
+      "size": 209714215
+    },
+    {
       "name": "SleepCycle_Premium",
       "bundleIdentifier": "cypwn.SleepCycle_Premium.6.22.34",
       "developerName": "SleepCycle_Premium x CyPwn",
@@ -325871,6 +326166,17 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
+    },
+    {
+      "name": "SlideShow",
+      "bundleIdentifier": "com.spacegab.slideshow",
+      "developerName": "",
+      "version": "5.6.49",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/SlideShow_5.6.49_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spacegab.slideshow.png",
+      "size": 122408755
     },
     {
       "name": "Slideshow Maker - Photo Videos",
@@ -333904,6 +334210,17 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
+    },
+    {
+      "name": "SnoreLab",
+      "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+      "developerName": "",
+      "version": "6.6",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/SnoreLab_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+      "size": 178086319
     },
     {
       "name": "SnoreLab (Hacked)",
@@ -355921,6 +356238,17 @@
       "size": 149694198
     },
     {
+      "name": "Stndrd",
+      "bundleIdentifier": "uni.cbum",
+      "developerName": "",
+      "version": "4.1.66",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Stndrd_4.1.66_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
+      "size": 100030347
+    },
+    {
       "name": "Stndrd Pro",
       "bundleIdentifier": "com.shrubhub.moes.a1758660713.a5514",
       "developerName": "Moe's App Hub",
@@ -357466,6 +357794,21 @@
       ]
     },
     {
+      "name": "Stremio-2.0.7",
+      "bundleIdentifier": "com.stremio.pal",
+      "developerName": "Stremio-2.0.7 x CyPwn",
+      "version": "2.0.7",
+      "versionDate": "2026-08-28",
+      "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.7.ipa",
+      "localizedDescription": "",
+      "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.7.png",
+      "tintColor": "FFC300",
+      "size": 79974891,
+      "screenshotURLs": [
+        "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.7/Stremio-2.0.7-0.png"
+      ]
+    },
+    {
       "name": "Stremio_1.0.1-17",
       "bundleIdentifier": "com.stremio.one",
       "developerName": "Stremio_1.0.1-17 x CyPwn",
@@ -358878,6 +359221,26 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ]
+    },
+    {
+      "name": "Stronger (Hacked)",
+      "bundleIdentifier": "com.strongermobileapp.stronger",
+      "developerName": "NabzClan",
+      "version": "6.0.3",
+      "versionDate": "2026-11-23T02:42:17-05:00",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/173/app_179_nabzclan_sidelix.ipa",
+      "localizedDescription": "Hack feature: Premium Unlocked\n\nAbout Stronger\n\nBuilt for lifters who take their training seriously.\n\nTrusted by over 1 million athletes worldwide, Stronger is the simple and intuitive workout planner to help you crush your fitness goals. Track your workouts, receive AI coaching, and compete with your friends. Whether you want to build strength, lose weight, or simply stay consistent, Stronger is your perfect gym companion.\n\nWHY STRONGER?\n\nJoin a global community of athletes logging their workouts, smashing fitness goals, and supporting each other.\n\nEVERYTHING YOU NEED TO TRAIN SMARTER\n\n- Workout Planner: Access hundreds of exercises tailored for every muscle group, with AI recommendations to optimise your training\n\n- Advanced Tracker: Easily log sets, reps, and weights, and track progress with powerful analytics\n\n- Warm-Up and Drop Sets: Record how much effort you're putting into every rep\n\n- Custom Workout Routines: Save your favourite exercises in personalised routines for structured, efficient training\n\n- Lifting Groups: Join or create groups to stay motivated and compete in challenges\n\n- Strength Score: Benchmark your strength and build a balanced physique\n\n- Customised Routines: Generate plans tailored to your goals\n\n- Warm-Up Tracking: Prep effectively and track warm-ups separately\n\n- Visual Guidance: Learn new lifts with detailed instructional GIFs\n\nFOR EVERY FITNESS JOURNEY\n\nBeginner or pro, Stronger supports you every step of the way:\n\n- Focus on specific muscle groups like shoulders, chest, or legs\n\n- Plan routines for strength, hypertrophy, or fat loss\n\n- Track total volume, rep max, and lifting history\n\nREAD WHAT USERS SAY\n\n- \"I'm a personal trainer and use Stronger every day—best app out there\"\n\n- \"Best workout tracker. I've been using Stronger for three months now. I've tried Jefit, Strong, and Hevy, and Stronger is the clear winner.\"\n\n- \"This app is a game changer for my workouts. Five stars!\"\n\n- \"One of the best apps I've ever bought.\"\n\nGET STARTED TODAY\n\nDownload now and start your free 7-day trial. Join a thriving community of lifters redefining strength training. Together, let's lift Stronger!\n\nSTRONGER PRO\n\nStronger PRO is available via auto-renewing monthly or annual subscription. Start with a free 7-day trial to explore all features. A subscription is required for full access after the trial period. If you choose not to subscribe, you'll retain free access to the Workout Planner and Visual Guidance.\n\nPayment will be charged to your Apple ID account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your Account Settings after purchase.\n\nTERMS & SUPPORT\n\nHave a question or suggestion? Reach out at [stronger@strongermobileapp.com](mailto:stronger@strongermobileapp.com).\n\nPrivacy Policy: https://www.strongermobileapp.com/privacy-policy\n\nTerms of Service: https://www.strongermobileapp.com/terms-of-use",
+      "iconURL": "https://appstore.sidelix.vip/images/1795419737_6016.webp",
+      "tintColor": "#2ecc71",
+      "size": 115835889,
+      "screenshotURLs": [
+        "https://appstore.sidelix.vip/screenshots/17954197379968840.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197376759864.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197371724612.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197379328705.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197379986604.webp",
+        "https://appstore.sidelix.vip/screenshots/17954197378279941.webp"
       ]
     },
     {
@@ -373098,6 +373461,17 @@
       ]
     },
     {
+      "name": "TheWeather",
+      "bundleIdentifier": "com.impalastudios.theweatherfree",
+      "developerName": "",
+      "version": "2.0.19",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/TheWeather_2.0.19_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png",
+      "size": 233320924
+    },
+    {
       "name": "Things",
       "bundleIdentifier": "com.culturedcode.ThingsiPad",
       "developerName": "",
@@ -386985,6 +387359,17 @@
       "size": 92961304
     },
     {
+      "name": "Tripsy",
+      "bundleIdentifier": "app.tripsy.ios",
+      "developerName": "",
+      "version": "3.10.10",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Tripsy_3.10.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Premium",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+      "size": 93066492
+    },
+    {
       "name": "Tripsy - Travel Planner",
       "bundleIdentifier": "app.tripsy.ios",
       "developerName": "Tripsy",
@@ -391462,6 +391847,17 @@
       ]
     },
     {
+      "name": "TunerPro",
+      "bundleIdentifier": "com.mwm.guitartuner",
+      "developerName": "",
+      "version": "4.01.11",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/TunerPro_4.01.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+      "size": 303769224
+    },
+    {
       "name": "TuneTally",
       "bundleIdentifier": "universeye.co.TuneTally",
       "developerName": "",
@@ -392549,6 +392945,25 @@
         "https://i.imgur.com/QE7op8J.png",
         "https://i.imgur.com/3dVqhBv.png",
         "https://i.imgur.com/TjU703V.png"
+      ]
+    },
+    {
+      "name": "Twitch++",
+      "bundleIdentifier": "tv.twitch",
+      "developerName": "zeroxdeadbeef",
+      "version": "32.1",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitch.v32.1.ipa",
+      "localizedDescription": "(Coming Soon)",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/64/9e/c0/649ec0ba-0f46-b437-401a-6633a175b235/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "67419f",
+      "size": 197299449,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/4e/1d/684e1de1-a959-ca48-ce23-c40f689e6554/37b30cee-8c44-4162-944b-4def125308cf_01-1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/51/65/12/51651214-6c86-bb9f-76be-488912a721ff/121623e7-1287-49f0-9ea7-068ffc760e1f_02-1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/fb/0c/59fb0cbc-21c9-616d-f506-900d754a4624/77c505ba-b565-443b-83da-642a3bbc96f8_03-1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/a6/e6/dfa6e626-5e8e-b267-a9fa-e299fb81ca96/f1b8408a-d231-4e9a-aeff-9bcc55be2d34_04-1242x2208.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/6d/2a/326d2a95-329a-bb30-c491-a8e219ecaa70/d09d7800-f33b-4f91-b9a7-1c0a8a9fc7bb_05-1242x2208.png/392x696bb.png"
       ]
     },
     {
@@ -394523,6 +394938,17 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
+    },
+    {
+      "name": "Unblink",
+      "bundleIdentifier": "com.idevtal.Wallpapers",
+      "developerName": "",
+      "version": "5.96",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Unblink_5.96_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
+      "size": 44464485
     },
     {
       "name": "Unbroken Soul",
@@ -415921,6 +416347,17 @@
       "size": 158467252
     },
     {
+      "name": "VSCO",
+      "bundleIdentifier": "co.visualsupply.cam",
+      "developerName": "",
+      "version": "463.0.2",
+      "versionDate": "2026-11-24",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/VSCO_463.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
+      "size": 158464619
+    },
+    {
       "name": "VSCO - Photo Editor & Presets",
       "bundleIdentifier": "co.visualsupply.cam",
       "developerName": "VSCO",
@@ -416864,6 +417301,17 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
       ]
+    },
+    {
+      "name": "Wallcraft",
+      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+      "developerName": "",
+      "version": "3.44",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Wallcraft_3.44_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Pro",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
+      "size": 130057815
     },
     {
       "name": "Wallcraft 3.42 Pro Moe",
@@ -420808,6 +421256,17 @@
     },
     {
       "name": "Weather",
+      "bundleIdentifier": "com.apalonapps.wlf",
+      "developerName": "",
+      "version": "4.18.23",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Weather_4.18.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "localizedDescription": "Injected with Subscription Unlocked",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+      "size": 101637443
+    },
+    {
+      "name": "Weather",
       "bundleIdentifier": "com.impalastudios.theweatherfree",
       "developerName": "Weather",
       "version": "2.0.13",
@@ -423365,6 +423824,27 @@
         "https://ipa.thuthuatjb.com/view/img/repo-view.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-2.png",
         "https://ipa.thuthuatjb.com/view/img/repo-view-3.png"
+      ]
+    },
+    {
+      "name": "WeChef (Hacked)",
+      "bundleIdentifier": "com.relentlessco.zesty",
+      "developerName": "NabzClan",
+      "version": "1.53.0",
+      "versionDate": "2026-11-23T02:40:17-05:00",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/168/app_174_nabzclan_sidelix.ipa",
+      "localizedDescription": "Hack feature: Premium Unlocked\n\nAbout WeChef\n\nDISCOVER WECHEF: YOUR ALL-IN-ONE RECIPE & MEAL COMPANION\n\nWeChef transforms the way you cook, plan, and explore new dishes. From turning leftovers into something exciting, to saving recipes from the web, or organizing meals for special occasions – WeChef makes cooking easier, more fun, and stress-free. It’s your go-to partner for creating tasty, well-organized, and unforgettable meals.\n\nSEARCH RECIPES BY INGREDIENTS\n\nTurn your fridge into inspiration! Just enter what you have on hand, and WeChef will suggest creative recipes that help you minimize waste and maximize flavor. From veggies sitting in the fridge to random pantry staples – transform them into meals you’ll actually love. Cooking smarter has never been this easy.\n\nIMPORT RECIPES FROM THE WEB\n\nSpotted a great recipe online? Simply paste the link into WeChef, and it will pull in the ingredients, steps, and photos for you. Build your own personalized recipe library with favorites from across the web and keep everything organized in one place. Never lose track of your go-to recipes again!\n\nDIGITIZE RECIPES WITH THE SCANNER\n\nBring your handwritten notes, cookbooks, or magazine clippings into the digital age. With WeChef’s smart OCR scanner, you can convert family recipes or PDFs into editable, searchable text – and keep those culinary treasures safe forever, accessible anytime, anywhere.\n\nMOOD-BASED RECIPE SUGGESTIONS\n\nNot sure what you’re craving? Just tell WeChef how you feel, and get recipe ideas that match your mood. Comfort food, quick & healthy bites, or festive treats – WeChef’s smart algorithm makes sure you always land on the perfect dish.\n\nSIMPLIFIED MEAL PLANNING\n\nPlan your meals like a pro! Add recipes to your calendar, generate shopping lists, and even set reminders so dinner is always on time. Whether you’re prepping for the week or planning a family feast, WeChef keeps everything organized and stress-free.\n\nSURPRISE MODE FOR ADVENTUROUS COOKS\n\nFeeling spontaneous? Let WeChef surprise you with a random recipe! Explore new cuisines, rediscover old favorites, and add some excitement to your meals. Who knows what delicious adventure awaits?\n\nEFFORTLESS PORTION ADJUSTMENTS\n\nCooking for one or feeding a crowd? WeChef automatically adjusts recipe quantities for perfect portions every time. No more guessing or wasted ingredients – just accurate, reliable measurements tailored to your needs.\n\nINTERACTIVE RECIPE ORGANIZER\n\nSave and organize your recipes beautifully. Sort by type, occasion, or rating, add personal notes and photos, and find your favorites in seconds. Your collection has never looked this good – or been this easy to use.\n\nADVANCED RECIPE SEARCH\n\nLooking for something specific? Search by name, ingredient, category, or dietary need. Whether it’s a gluten-free dinner, a quick breakfast, or a clever way to use leftovers, WeChef helps you find exactly what you need in no time.\n\nWHY CHOOSE WECHEF\n\nWeChef isn’t just another recipe app – it’s your personal kitchen assistant. From inspiration and planning to cooking and sharing, it makes every step of the journey easier, more fun, and more delicious. Say goodbye to the daily “What’s for dinner?” struggle, and hello to endless possibilit...",
+      "iconURL": "https://appstore.sidelix.vip/images/1795419616_1566.webp",
+      "tintColor": "#2ecc71",
+      "size": 244105441,
+      "screenshotURLs": [
+        "https://appstore.sidelix.vip/screenshots/17954196164558237.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196162400417.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196164032075.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196169847634.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196164119689.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196168856015.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196169475675.webp"
       ]
     },
     {
@@ -432405,10 +432885,32 @@
       "version": "12.45.1",
       "versionDate": "2026-11-19",
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.45.1.+.NFB.v7.3.1.ipa",
-      "localizedDescription": "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.\n\n• And more!",
+      "localizedDescription": "• X updated to v12.45.1",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "030303",
       "size": 317414110,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/82/3c/21823c75-d122-f771-fba1-2521b3f3237e/1242x2688-1.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/a8/8e/65a88e08-0c52-8675-0b0e-c7ef2dad4325/1242x2688-2.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/05/b5/f305b570-fe21-58cc-a892-10108e6f162d/1242x2688-3.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/af/79/0b/af790b7a-d04b-575b-b00f-1aa0b54c9f3e/1242x2688-4.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/a3/90/34a390d6-1cca-d3b1-c330-fc0a019606ba/1242x2688-5.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/da/b3/45dab368-3c35-b8c8-c82d-a706b53667ec/1242x2688-6.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1b/78/72/1b787247-45dc-8eae-a4be-4a3c4e0de9da/1242x2688-7.jpg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/79/df/00/79df00e8-bdab-aa97-914e-56b94a4c0a0b/1242x2688-8.jpg/320x480bb.jpg"
+      ]
+    },
+    {
+      "name": "X++",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Densor",
+      "version": "12.46",
+      "versionDate": "2026-11-23",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.46.+.NFB.v7.3.1.ipa",
+      "localizedDescription": "Features:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.\n\n• And more!",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "030303",
+      "size": 322425556,
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/21/82/3c/21823c75-d122-f771-fba1-2521b3f3237e/1242x2688-1.jpg/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/65/a8/8e/65a88e08-0c52-8675-0b0e-c7ef2dad4325/1242x2688-2.jpg/320x480bb.jpg",
@@ -435366,6 +435868,27 @@
       ]
     },
     {
+      "name": "Yoga Plus (Hacked)",
+      "bundleIdentifier": "com.breakthroughapps.Mary-Ochsner-Yoga",
+      "developerName": "NabzClan",
+      "version": "6.12.0",
+      "versionDate": "2026-11-23T02:41:05-05:00",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/170/app_176_nabzclan_sidelix.ipa",
+      "localizedDescription": "Hack feature: Subscription Unlocked\n\nAbout Yoga Plus\n\nCreate a lasting yoga routine that makes you feel good with over 300 guided yoga classes which are beginner friendly and personalized to your goals. Yoga+ is here to provide a space to help you practice yoga in a way that fits your everyday life, feels fun, and builds lasting enjoyable habits. Together, let’s learn to better balance the mind and body both on and off the mat.\n\nMEET MARY OCHSNER\n\nMary is an international yoga teacher with an online community of over 300,000 yogis. For over ten years, her passion has guided others to less stress and a more quiet and stable mind through daily yoga.\n\nFIND YOUR VIBE \n\nNot sure what you’re looking for? We offer four exclusive collections to suit your specific needs, whether to unwind after work, make time for yourself during busy times, give you a boost of energy, or offer self-care during those bad days.\n\nDAILY YOGA CLASSES AND MONTHLY CHALLENGES \n\nWhether you’re a beginner or an experienced yogi, Yoga+ provides multiple practice types to suit your needs.\n\n• Wake up refreshed and wind down for the night with our gentle morning and relaxing evening yoga classes. \n\n• Take care of yourself and relieve stress with over 20+ classes aimed to help you unwind, relax, and feel good. \n\n• Unleash your inner warrior and find balance with beginner to advanced Vinyasa yoga classes and challenges. \n\n• Improve flexibility and release tension with deep full-body stretches and yoga classes to help stretch your hips, hammies, and back. \n\n• Yoga+ is proud to offer prenatal yoga classes to help with fatigue and morning sickness or postnatal yoga series to refresh and ground yourself.\n\nGUIDED MEDITATIONS & BREATHWORK\n\nRelease stress and increase mindfulness through breathwork challenges, meditation, and yoga Nidra. These guided sessions will empower you to live with intention, release tension, discover self-love, and find inner strength and gratitude in your daily life.\n\nWORKOUTS TO BUILD STRENGTH AND INNER BALANCE\n\nNo gym? No problem! Find quick workouts to target arms, core, and glutes, or challenge yourself with a full-body burn routine! Explore classes ranging from 5 to 40 minutes to build balance and be present.\n\nVIEW YOUR JOURNEY\n\nOur Yoga Journey Tracker lets you see your progress through daily streaks, total time practicing, and completed sessions.\n\nSUBSCRIPTION\n\nYoga+ offers memberships for $14.99 USD per month or $149.99 USD per year. Subscriptions automatically renew and will be charged unless canceled within 24 hours before the end of the current billing period.\n\nTERMS OF SERVICE & PRIVACY POLICY\n\nFind more information here: https://www.maryochsner.com/legal",
+      "iconURL": "https://appstore.sidelix.vip/images/1795419665_9433.webp",
+      "tintColor": "#2ecc71",
+      "size": 78341992,
+      "screenshotURLs": [
+        "https://appstore.sidelix.vip/screenshots/17954196656105613.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196655521146.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196652910877.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196655895356.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196657438134.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196657617945.webp",
+        "https://appstore.sidelix.vip/screenshots/17954196658631695.webp"
+      ]
+    },
+    {
       "name": "YogaWave",
       "bundleIdentifier": "com.flyingnayeem.yoga",
       "developerName": "",
@@ -438151,10 +438674,29 @@
       "version": "21.46.3",
       "versionDate": "2026-11-16",
       "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.46.3.+.YTPlus.v6.0.ipa",
-      "localizedDescription": "DO NOT ENABLE RETURN YOUTUBE DISLIKE, IT CAN CRASH THE APP.\n\nTweak preferences can be found in the YouTube Settings\n\nFeatures:\n\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n• Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\n• And much, much more",
+      "localizedDescription": "• YouTube updated to v21.46.3",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "f90505",
       "size": 171073553,
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/b6/02/f4b602e0-04b4-60ff-7960-d8ba227dc980/2930dbc3-4228-403b-b46d-e0066516ab6a_iOS-5.5-in_3.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/60/bd/af60bd87-4c94-1f9c-2af5-099ca41c2eba/45519fca-0e0b-466e-9ed6-9a43232a0bf8_iOS-5.5-in_4.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/93/ac/cc93ac38-9f1f-364b-2127-a53f30a735e2/bace9abd-71f3-4700-8adf-cedcba275a67_iOS-5.5-in_5.jpg/392x696bb.jpg"
+      ]
+    },
+    {
+      "name": "YouTube++",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Dayanch96",
+      "version": "21.47.6",
+      "versionDate": "2026-11-22",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.47.6.+.YTPlus.6.0.base.ipa",
+      "localizedDescription": "DO NOT ENABLE RETURN YOUTUBE DISLIKE, IT CAN CRASH THE APP.\n\nTweak preferences can be found in the YouTube Settings\n\nFeatures:\n\n• Download videos, audio (including audio track selection), thumbnails, posts, and profile pictures\n• Copy video, comment, and post information\n• Interface customization: Remove feed elements, reorder tabs, enable OLED mode, and as use Shorts-only mode\n• Player settings: Gestures, default quality, preferred audio track\n• Save, Load and Restore settings. Clear cache once or automatically on app startup\n• Built-in SponsorBlock\n• And much, much more",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/43/35/8e43350e-2dad-ac27-13d4-71eac741cf80/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "f90505",
+      "size": 172278702,
       "screenshotURLs": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/5d/12/e85d121e-8bcf-4f57-cf07-ed23b57f1b30/f1192f1f-430d-469a-b032-cdf77b8b04c7_iOS-5.5-in_1.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2d/da/fa/2ddafabb-ad03-eda7-417f-6a22418551d0/868afd15-b2e4-4923-b0f8-c5599327a3d7_iOS-5.5-in_2.jpg/392x696bb.jpg",
@@ -442795,11 +443337,11 @@
     }
   ],
   "_build": {
-    "generatedAt": "2026-11-23T07:34:46.727338Z",
+    "generatedAt": "2026-11-23T23:51:46.637290Z",
     "sourceCount": 108,
     "successfulSources": 106,
     "failedSources": 2,
-    "appCount": 31891,
+    "appCount": 31931,
     "loaded": [
       {
         "url": "https://driftywinds.github.io/AltStore/apps.json",
@@ -442809,12 +443351,12 @@
       {
         "url": "https://ipa.cypwn.xyz/cypwn.json",
         "name": "CyPwn IPA Library",
-        "apps": 209
+        "apps": 210
       },
       {
         "url": "https://wuxu1.github.io/wuxu-complete-plus.json",
         "name": "WuXu's Library++",
-        "apps": 35
+        "apps": 36
       },
       {
         "url": "https://community-apps.sidestore.io/sidecommunity.json",
@@ -442924,7 +443466,7 @@
       {
         "url": "https://appstore.sidelix.vip/repos/altstore.php",
         "name": "Sidelix App Store",
-        "apps": 162
+        "apps": 168
       },
       {
         "url": "https://delvek.net/repo.json",
@@ -442969,7 +443511,7 @@
       {
         "url": "https://raw.githubusercontent.com/M1noa/Sideload-Tools/main/merged-apps-original-links-no-pal.json",
         "name": "Minoa's Combined",
-        "apps": 11057
+        "apps": 11059
       },
       {
         "url": "https://randomblock1.com/altstore/apps.json",
@@ -442984,7 +443526,7 @@
       {
         "url": "https://provenance-emu.com/apps.json",
         "name": "Provenance Emulator",
-        "apps": 1
+        "apps": 2
       },
       {
         "url": "https://alt.getutm.app",
@@ -443244,7 +443786,7 @@
       {
         "url": "https://raw.githubusercontent.com/RipeStore/altmaker/main/AltMaker.json",
         "name": "Altmaker by RipeStore",
-        "apps": 411
+        "apps": 412
       },
       {
         "url": "https://carmelosammarco.github.io/AltstoreSource/Sicilian4ever.json",
@@ -443299,7 +443841,7 @@
       {
         "url": "https://repository.apptesters.org",
         "name": "AppTesters IPA Repo",
-        "apps": 31
+        "apps": 59
       },
       {
         "url": "https://iosvizor-source.shrubhub.workers.dev/iosvizor.json",
